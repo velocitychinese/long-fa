@@ -243,6 +243,7 @@ For each phrase:
 1. English phrase (pure English, zero Persian words) with commas for natural pauses
 2. Persian translation
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Persian. NEVER use German, Spanish, or any other language. Only Persian.
 
 Return as JSON array:
 [{{"english": "...", "persian": "...", "pronunciation": "..."}}]
