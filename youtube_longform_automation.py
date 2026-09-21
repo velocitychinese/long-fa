@@ -78,7 +78,7 @@ CATEGORIES_PERSIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "fa-IR-DilaraNeural"
 
 # Phrase history file
