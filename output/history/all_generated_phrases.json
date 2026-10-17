@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "You look great, truly.",
+      "persian": "خیلی جذاب شدی، واقعا.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384487"
+    },
+    {
+      "english": "This is so nice, thank you.",
+      "persian": "خیلی لطف داری، ممنونم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384495"
+    },
+    {
+      "english": "I'm really happy to see you.",
+      "persian": "خیلی خوشحالم می‌بینمت.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384498"
+    },
+    {
+      "english": "What are you doing later?",
+      "persian": "بعدا چیکار می‌کنی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384500"
+    },
+    {
+      "english": "Can I walk you home?",
+      "persian": "می‌تونم تا خونه همراهیت کنم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384501"
+    },
+    {
+      "english": "That's a great idea.",
+      "persian": "چه فکر خوبی!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384503"
+    },
+    {
+      "english": "I'd love to go out.",
+      "persian": "خیلی دوست دارم بیرون بریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384505"
+    },
+    {
+      "english": "Where should we go?",
+      "persian": "کجا بریم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384508"
+    },
+    {
+      "english": "I'm a bit nervous, honestly.",
+      "persian": "راستش، یه کم استرس دارم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384511"
+    },
+    {
+      "english": "You make me laugh so much.",
+      "persian": "خیلی می‌خندونیم، واقعا.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384512"
+    },
+    {
+      "english": "I'm thinking about you a lot.",
+      "persian": "خیلی بهت فکر می‌کنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384514"
+    },
+    {
+      "english": "This is so thoughtful of you.",
+      "persian": "خیلی به فکرم بودی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384516"
+    },
+    {
+      "english": "It feels like a dream.",
+      "persian": "انگار یه رویاست.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384517"
+    },
+    {
+      "english": "I really like your style.",
+      "persian": "خیلی از تیپت خوشم اومد.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384519"
+    },
+    {
+      "english": "You have a beautiful smile.",
+      "persian": "لبخند زیبایی داری.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384520"
+    },
+    {
+      "english": "Are you free tomorrow night?",
+      "persian": "فردا شب آزادي؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384521"
+    },
+    {
+      "english": "Let's get some coffee.",
+      "persian": "بریم یه قهوه بخوریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384523"
+    },
+    {
+      "english": "I can't stop smiling.",
+      "persian": "نمی‌تونم جلوی خنده‌م رو بگیرم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384524"
+    },
+    {
+      "english": "What's your favorite thing?",
+      "persian": "چی از همه بیشتر دوست داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384526"
+    },
+    {
+      "english": "This place is lovely.",
+      "persian": "اینجا خیلی قشنگه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384527"
+    },
+    {
+      "english": "I feel so comfortable with you.",
+      "persian": "کنارت خیلی راحتم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384529"
+    },
+    {
+      "english": "You're very interesting.",
+      "persian": "خیلی جذابی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384530"
+    },
+    {
+      "english": "I'm excited for our date.",
+      "persian": "برای قرارمون هیجان‌زده‌ام.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384532"
+    },
+    {
+      "english": "What are you passionate about?",
+      "persian": "به چی علاقه داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384533"
+    },
+    {
+      "english": "I've been looking forward to this.",
+      "persian": "منتظر همین لحظه بودم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384535"
+    },
+    {
+      "english": "Can I get your number?",
+      "persian": "شماره‌ت رو می‌تونم بگیرم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384537"
+    },
+    {
+      "english": "You're easy to talk to.",
+      "persian": "صحبت باهات راحته.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384538"
+    },
+    {
+      "english": "This is going really well.",
+      "persian": "خیلی خوب پیش میره.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384539"
+    },
+    {
+      "english": "I hope we can do this again.",
+      "persian": "امیدوارم دوباره ببینمت.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384541"
+    },
+    {
+      "english": "You're really sweet.",
+      "persian": "خیلی مهربونی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384542"
+    },
+    {
+      "english": "What do you think, about us?",
+      "persian": "نظر تو چیه، در مورد ما؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384544"
+    },
+    {
+      "english": "Do you want to grab dinner?",
+      "persian": "میلی داری شام بخوریم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384546"
+    },
+    {
+      "english": "What do you like most about me?",
+      "persian": "بیشتر از همه منو چی دوست داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384548"
+    },
+    {
+      "english": "Can I ask you something personal?",
+      "persian": "می‌تونم یه سوال شخصی بپرسم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384550"
+    },
+    {
+      "english": "What are your dreams for the future?",
+      "persian": "رویاهات برای آینده چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384552"
+    },
+    {
+      "english": "Do you miss me when we're apart?",
+      "persian": "وقتی نیستم دلتنگم می‌شی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384554"
+    },
+    {
+      "english": "What kind of person are you looking for?",
+      "persian": "دنبال چه جور آدمی هستی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384555"
+    },
+    {
+      "english": "Tell me about your day, please.",
+      "persian": "روزت چطور بود، بهم بگو.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384558"
+    },
+    {
+      "english": "What's on your mind right now?",
+      "persian": "الان تو فکرت چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384559"
+    },
+    {
+      "english": "Are we moving too fast, maybe?",
+      "persian": "فکر نمی‌کنی داریم خیلی زود پیش می‌ریم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384561"
+    },
+    {
+      "english": "How do you feel when we're together?",
+      "persian": "وقتی با همیم چه حسی داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384563"
+    },
+    {
+      "english": "What's your opinion on commitment?",
+      "persian": "نظرت در مورد تعهد چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384565"
+    },
+    {
+      "english": "Can we talk about our relationship?",
+      "persian": "می‌شه در مورد رابطه‌مون صحبت کنیم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384567"
+    },
+    {
+      "english": "What do you need from a partner?",
+      "persian": "از یه پارتنر چی می‌خوای؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384568"
+    },
+    {
+      "english": "Do you believe in love at first sight?",
+      "persian": "عشق در نگاه اول رو قبول داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384570"
+    },
+    {
+      "english": "What makes you feel loved?",
+      "persian": "چی باعث می‌شه حس کنی دوستت دارن؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384572"
+    },
+    {
+      "english": "Should we take things slower?",
+      "persian": "به نظرت باید آروم‌تر پیش بریم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384573"
+    },
+    {
+      "english": "What are your thoughts on marriage?",
+      "persian": "فکرت در مورد ازدواج چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384575"
+    },
+    {
+      "english": "Is there anything you want to change?",
+      "persian": "چیزی هست که بخوای عوض کنی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384577"
+    },
+    {
+      "english": "How can I support you better?",
+      "persian": "چطور می‌تونم بهتر حمایتت کنم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384583"
+    },
+    {
+      "english": "Do you trust me completely?",
+      "persian": "کاملا به من اعتماد داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384584"
+    },
+    {
+      "english": "What does 'us' mean to you?",
+      "persian": "«ما» یعنی چی برای تو؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384586"
+    },
+    {
+      "english": "Are you happy with where we are?",
+      "persian": "از وضعیتی که داریم راضی هستی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384588"
+    },
+    {
+      "english": "What's your biggest fear in love?",
+      "persian": "بزرگترین ترست تو عشق چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384590"
+    },
+    {
+      "english": "Can you be more open with me?",
+      "persian": "می‌تونی بیشتر با من راحت باشی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384591"
+    },
+    {
+      "english": "What's your ideal romantic gesture?",
+      "persian": "بهترین حرکت رمانتیک از نظر تو چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384593"
+    },
+    {
+      "english": "Do you think we have chemistry?",
+      "persian": "فکر می‌کنی ما کشش داریم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384594"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "persian": "چه نصیحتی برام داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384596"
+    },
+    {
+      "english": "Are you ready for a serious relationship?",
+      "persian": "آماده‌ای برای یه رابطه جدی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384597"
+    },
+    {
+      "english": "What does commitment look like for you?",
+      "persian": "تعهد از نظر تو چه شکلیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384599"
+    },
+    {
+      "english": "You make my heart flutter, like a butterfly.",
+      "persian": "دلم برات پر میزنه، مثل یه پروانه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384601"
+    },
+    {
+      "english": "Your smile lights up my whole world.",
+      "persian": "خنده‌هات دنیام رو روشن می‌کنه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384602"
+    },
+    {
+      "english": "I'm totally smitten with you.",
+      "persian": "من حسابی عاشقت شدم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384604"
+    },
+    {
+      "english": "You stole my heart, fair and square.",
+      "persian": "دلم رو دزدیدی، همین و بس.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384605"
+    },
+    {
+      "english": "You're the apple of my eye.",
+      "persian": "تو نور چشم منی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384607"
+    },
+    {
+      "english": "I could talk to you all day.",
+      "persian": "می‌تونم کل روز باهات حرف بزنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384609"
+    },
+    {
+      "english": "You're my one and only.",
+      "persian": "تو تک ستاره منی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384610"
+    },
+    {
+      "english": "I feel like we've known each other forever.",
+      "persian": "حس می‌کنم خیلی وقته همدیگه رو می‌شناسیم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384612"
+    },
+    {
+      "english": "You complete me, like a puzzle piece.",
+      "persian": "تو من رو کامل می‌کنی، مثل یه تیکه پازل.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384614"
+    },
+    {
+      "english": "My heart beats faster when you're near.",
+      "persian": "قلبم تندتر می‌زنه، وقتی نزدیکمی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384615"
+    },
+    {
+      "english": "I'm head over heels for you.",
+      "persian": "من حسابی دل دادم بهت.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384617"
+    },
+    {
+      "english": "You make me feel like a king/queen.",
+      "persian": "باعث می‌شی حس کنم یه شاه/ملکه هستم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384618"
+    },
+    {
+      "english": "We just click, you know?",
+      "persian": "ما خیلی خوب جوریم، می‌دونی؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384620"
+    },
+    {
+      "english": "You're my dream come true.",
+      "persian": "تو رویای منی که به حقیقت پیوسته.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384621"
+    },
+    {
+      "english": "I'm so lucky to have you.",
+      "persian": "خیلی خوش‌شانسم که تو رو دارم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384623"
+    },
+    {
+      "english": "You're my better half.",
+      "persian": "تو نیمه گمشده منی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384624"
+    },
+    {
+      "english": "This is more than just a crush.",
+      "persian": "این فقط یه دل‌باختگی ساده نیست.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384627"
+    },
+    {
+      "english": "You're my missing piece.",
+      "persian": "تو تکه‌ای هستی که من ندارم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384629"
+    },
+    {
+      "english": "My world revolves around you.",
+      "persian": "دنیای من دور تو می‌چرخه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384630"
+    },
+    {
+      "english": "You're my everything.",
+      "persian": "تو همه چیز منی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384632"
+    },
+    {
+      "english": "We have a special connection.",
+      "persian": "ما یه ارتباط خاص داریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384634"
+    },
+    {
+      "english": "I can't imagine life without you.",
+      "persian": "زندگی بدون تو رو نمی‌تونم تصور کنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384637"
+    },
+    {
+      "english": "You make my heart sing.",
+      "persian": "باعث می‌شی قلبم آواز بخونه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384639"
+    },
+    {
+      "english": "I'm falling for you, hard.",
+      "persian": "دارم عمیقاً عاشقت می‌شم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384641"
+    },
+    {
+      "english": "You're my soulmate, I feel it.",
+      "persian": "تو نیمه دیگر روح منی، حسش می‌کنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384642"
+    },
+    {
+      "english": "You're the reason I smile.",
+      "persian": "تو دلیل لبخند منی.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384644"
+    },
+    {
+      "english": "My heart skips a beat for you.",
+      "persian": "قلبم با دیدنت از حرکت می‌ایسته.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384645"
+    },
+    {
+      "english": "We're a perfect match.",
+      "persian": "ما کاملاً با هم جوریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384647"
+    },
+    {
+      "english": "You're my sunshine on a cloudy day.",
+      "persian": "تو آفتاب منی، تو روزای ابری.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384648"
+    },
+    {
+      "english": "I'm so into you.",
+      "persian": "من خیلی بهت علاقه‌مندم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384650"
+    },
+    {
+      "english": "I need some time, to think.",
+      "persian": "یه کم وقت لازم دارم، فکر کنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384651"
+    },
+    {
+      "english": "This feels, very genuine.",
+      "persian": "این خیلی، واقعی به نظر میاد.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384653"
+    },
+    {
+      "english": "Let's be honest, with each other.",
+      "persian": "صادق باشیم، با همدیگه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384654"
+    },
+    {
+      "english": "I'm still figuring things out.",
+      "persian": "هنوز دارم چیزا رو می‌فهمم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384656"
+    },
+    {
+      "english": "Patience is important, wouldn't you agree?",
+      "persian": "صبر مهمه، قبول نداری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384657"
+    },
+    {
+      "english": "What are your expectations, really?",
+      "persian": "انتظاراتت، واقعاً چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384659"
+    },
+    {
+      "english": "I want to understand, your feelings.",
+      "persian": "می‌خوام احساساتت رو، بفهمم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384660"
+    },
+    {
+      "english": "This is developing, slowly but surely.",
+      "persian": "این داره پیش میره، آروم ولی مطمئن.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384662"
+    },
+    {
+      "english": "I appreciate, your honesty.",
+      "persian": "صداقتت رو، قدر می‌دونم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384663"
+    },
+    {
+      "english": "Let's take it, one step at a time.",
+      "persian": "قدم به قدم، پیش بریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384665"
+    },
+    {
+      "english": "How do you feel, about us now?",
+      "persian": "الان در مورد ما، چه حسی داری؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384666"
+    },
+    {
+      "english": "I'm reflecting, on what we have.",
+      "persian": "دارم فکر می‌کنم، به چیزی که داریم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384668"
+    },
+    {
+      "english": "Is this real, or just a phase?",
+      "persian": "این واقعیه، یا فقط یه مرحله؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384669"
+    },
+    {
+      "english": "Your perspective, matters to me.",
+      "persian": "دیدگاه تو، برام مهمه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384670"
+    },
+    {
+      "english": "I need reassurance, sometimes.",
+      "persian": "گاهی نیاز به اطمینان دارم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384672"
+    },
+    {
+      "english": "What brings you, true happiness?",
+      "persian": "چیزی که واقعاً خوشحالت می‌کنه، چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384673"
+    },
+    {
+      "english": "Let's be patient, with this.",
+      "persian": "صبور باشیم، با این موضوع.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384675"
+    },
+    {
+      "english": "I'm learning, a lot from you.",
+      "persian": "خیلی چیزا دارم یاد می‌گیرم، ازت.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384676"
+    },
+    {
+      "english": "Can we communicate, openly?",
+      "persian": "می‌تونیم راحت، حرف بزنیم؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384679"
+    },
+    {
+      "english": "My feelings, are growing stronger.",
+      "persian": "احساساتم، داره قوی‌تر میشه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384681"
+    },
+    {
+      "english": "What are your deepest desires?",
+      "persian": "عمیق‌ترین خواسته‌هات، چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384682"
+    },
+    {
+      "english": "I value, our connection.",
+      "persian": "ارتباطمون رو، ارزشمند می‌دونم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384684"
+    },
+    {
+      "english": "Let's build trust, together.",
+      "persian": "با هم اعتماد، بسازیم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384685"
+    },
+    {
+      "english": "I'm taking this, very seriously.",
+      "persian": "من اینو، خیلی جدی گرفتم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384688"
+    },
+    {
+      "english": "This journey, is just beginning.",
+      "persian": "این سفر، تازه شروع شده.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384689"
+    },
+    {
+      "english": "I want a partner, I can rely on.",
+      "persian": "یه شریک می‌خوام، که بتونم روش حساب کنم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384691"
+    },
+    {
+      "english": "Let's nurture, this relationship.",
+      "persian": "این رابطه رو، پرورش بدیم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384692"
+    },
+    {
+      "english": "Your emotional honesty, is attractive.",
+      "persian": "صداقت عاطفی تو، جذابه.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384694"
+    },
+    {
+      "english": "Let's make a plan, for next week.",
+      "persian": "بیا، برای هفته بعد برنامه‌ریزی کنیم.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384695"
+    },
+    {
+      "english": "What are your weekend plans, honey?",
+      "persian": "عزیزم، برنامه‌ آخر هفته‌ات چیه؟",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T07:40:34.384698"
+    }
+  ],
+  "last_updated": "2026-10-17T07:40:34.384699"
+}
