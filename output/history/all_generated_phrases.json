@@ -1439,7 +1439,727 @@
       "persian": "وقتی لازم شد، کمک بخواه.",
       "category": "Growth",
       "generated_at": "2026-10-18T07:55:46.384007"
+    },
+    {
+      "english": "I really like you, a lot.",
+      "persian": "خیلی دوستت دارم، خیلی زیاد.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967593"
+    },
+    {
+      "english": "You are so cute, wow!",
+      "persian": "چقدر بامزه‌ای، وای!",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967605"
+    },
+    {
+      "english": "My heart beats for you.",
+      "persian": "دلم برات می‌تپه.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967609"
+    },
+    {
+      "english": "I miss you, terribly.",
+      "persian": "دلم برات تنگ شده، شدیداً.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967612"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "persian": "همیشه به فکرتم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967614"
+    },
+    {
+      "english": "You make me happy, truly.",
+      "persian": "منو خوشحال می‌کنی، واقعاً.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967619"
+    },
+    {
+      "english": "Are you free tonight?",
+      "persian": "امشب آزادي؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967622"
+    },
+    {
+      "english": "Let's go out, sometime.",
+      "persian": "یه وقتی بریم بیرون.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967627"
+    },
+    {
+      "english": "You look amazing, today.",
+      "persian": "امروز خیلی خوشگل شدی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967633"
+    },
+    {
+      "english": "I love your smile, a lot.",
+      "persian": "خیلی خنده‌هاتو دوست دارم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967636"
+    },
+    {
+      "english": "You are my everything, you know?",
+      "persian": "همه چیز منی، می‌دونی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967639"
+    },
+    {
+      "english": "I can't stop thinking about you.",
+      "persian": "نمیتونم از فکرت در بیام.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967642"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "persian": "تو بهترینی، جدی میگم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967645"
+    },
+    {
+      "english": "My world is brighter, with you.",
+      "persian": "دنیام با تو روشن‌تره.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967647"
+    },
+    {
+      "english": "I want to see you, soon.",
+      "persian": "می‌خوام زود ببینمت.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967650"
+    },
+    {
+      "english": "You are very special, to me.",
+      "persian": "خیلی برای من عزیزی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967653"
+    },
+    {
+      "english": "I feel safe, with you.",
+      "persian": "کنار تو احساس آرامش می‌کنم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967655"
+    },
+    {
+      "english": "You are so charming, really.",
+      "persian": "خیلی جذابی، واقعاً.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967658"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "persian": "دلم ریخت از دیدنت.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967660"
+    },
+    {
+      "english": "I adore you, so much.",
+      "persian": "خیلی عاشقتم، خیلی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967663"
+    },
+    {
+      "english": "This is unexpected, wow!",
+      "persian": "این غیرمنتظره بود، وای!",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967665"
+    },
+    {
+      "english": "You complete me, truly.",
+      "persian": "تو منو کامل می‌کنی، واقعاً.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967668"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "persian": "دیوونه‌ی توام.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967671"
+    },
+    {
+      "english": "You make my day, better.",
+      "persian": "روز منو بهتر می‌کنی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967673"
+    },
+    {
+      "english": "Are you busy right now?",
+      "persian": "الان سرت شلوغه؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967675"
+    },
+    {
+      "english": "Can I call you later?",
+      "persian": "می‌تونم بعداً بهت زنگ بزنم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967678"
+    },
+    {
+      "english": "You have beautiful eyes, really.",
+      "persian": "چشمات خیلی قشنگه، واقعاً.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967680"
+    },
+    {
+      "english": "I’m so glad, we met.",
+      "persian": "خیلی خوشحالم، که دیدمت.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967686"
+    },
+    {
+      "english": "You are the best thing, ever.",
+      "persian": "تو بهترین اتفاقی، همیشه.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967688"
+    },
+    {
+      "english": "Do you believe, in fate?",
+      "persian": "به قسمت، اعتقاد داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967692"
+    },
+    {
+      "english": "Can we talk, for a bit?",
+      "persian": "می‌تونیم یه کم صحبت کنیم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967695"
+    },
+    {
+      "english": "What’s on your mind, darling?",
+      "persian": "چی تو فکرته، عزیزم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967700"
+    },
+    {
+      "english": "Did you eat, yet?",
+      "persian": "شام/ناهارتو خوردی، هنوز؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967703"
+    },
+    {
+      "english": "What’s your favorite thing, about me?",
+      "persian": "چی رو در مورد من، بیشتر دوست داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967707"
+    },
+    {
+      "english": "Do you need, anything?",
+      "persian": "چیزی لازم داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967811"
+    },
+    {
+      "english": "How was your day, really?",
+      "persian": "روزت چطور بود، واقعا؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967819"
+    },
+    {
+      "english": "What do you wish, for us?",
+      "persian": "برای ما، چی آرزو می‌کنی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967822"
+    },
+    {
+      "english": "What makes you smile, often?",
+      "persian": "چی باعث می‌شه بخندی، زیاد؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967827"
+    },
+    {
+      "english": "Are you comfortable, here?",
+      "persian": "اینجا راحتی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967830"
+    },
+    {
+      "english": "What music do you like, best?",
+      "persian": "چه موسیقی رو، بیشتر دوست داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967832"
+    },
+    {
+      "english": "Tell me, a secret, please.",
+      "persian": "یه راز بهم بگو، لطفا.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967835"
+    },
+    {
+      "english": "Are you feeling, okay?",
+      "persian": "حالت خوبه؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967838"
+    },
+    {
+      "english": "What do you want, to do?",
+      "persian": "چی دوست داری، بکنی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967840"
+    },
+    {
+      "english": "Can I hold, your hand?",
+      "persian": "می‌تونم دستتو بگیرم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967843"
+    },
+    {
+      "english": "What do you remember, most?",
+      "persian": "چی رو بیشتر یادت مونده؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967845"
+    },
+    {
+      "english": "Can you teach me, something?",
+      "persian": "می‌تونی یه چیزی یادم بدی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967848"
+    },
+    {
+      "english": "What’s your favorite color, really?",
+      "persian": "رنگ مورد علاقه‌ات چیه، واقعا؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967852"
+    },
+    {
+      "english": "Should we get, coffee?",
+      "persian": "بریم قهوه بخوریم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967854"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "persian": "به چی فکر می‌کنی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967857"
+    },
+    {
+      "english": "Can I see, you again?",
+      "persian": "می‌تونم دوباره ببینمت؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967860"
+    },
+    {
+      "english": "What’s your advice, for me?",
+      "persian": "نصیحتی داری، برام؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967863"
+    },
+    {
+      "english": "Do you like, this song?",
+      "persian": "این آهنگ رو دوست داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967866"
+    },
+    {
+      "english": "What are we, doing now?",
+      "persian": "الان چیکار می‌کنیم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967868"
+    },
+    {
+      "english": "Believe in us, always.",
+      "persian": "همیشه به ما، باور داشته باش.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967871"
+    },
+    {
+      "english": "Our connection, is strong.",
+      "persian": "پیوند ما، قوی است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967874"
+    },
+    {
+      "english": "You inspire me, greatly.",
+      "persian": "تو به من، انگیزه زیادی می‌دهی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967877"
+    },
+    {
+      "english": "Let's grow, together.",
+      "persian": "بیا با هم، رشد کنیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967879"
+    },
+    {
+      "english": "Your presence, is a gift.",
+      "persian": "حضور تو، یک هدیه است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967882"
+    },
+    {
+      "english": "Keep shining, bright.",
+      "persian": "همچنان بدرخش، پرنور.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967884"
+    },
+    {
+      "english": "You have a good heart.",
+      "persian": "تو قلب مهربانی داری.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967887"
+    },
+    {
+      "english": "Trust your feelings, deeply.",
+      "persian": "به احساساتت، عمیقاً اعتماد کن.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967892"
+    },
+    {
+      "english": "This is a beautiful journey.",
+      "persian": "این یک سفر، زیباست.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967894"
+    },
+    {
+      "english": "You are capable, of much.",
+      "persian": "تو توانایی، کارهای زیادی را داری.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967897"
+    },
+    {
+      "english": "Never doubt your worth.",
+      "persian": "هرگز به ارزشت، شک نکن.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967900"
+    },
+    {
+      "english": "Focus on the good.",
+      "persian": "روی خوبی‌ها، تمرکز کن.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967902"
+    },
+    {
+      "english": "You are doing, great.",
+      "persian": "تو عالی، پیش می‌روی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967907"
+    },
+    {
+      "english": "Let's build, something lasting.",
+      "persian": "بیا چیزی، ماندگار بسازیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967913"
+    },
+    {
+      "english": "Stay positive, always.",
+      "persian": "همیشه مثبت، بمان.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967916"
+    },
+    {
+      "english": "You make me, believe.",
+      "persian": "تو مرا، به باور می‌رسانی.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967920"
+    },
+    {
+      "english": "Our shared dreams, matter.",
+      "persian": "رویاهای مشترکمان، اهمیت دارند.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967924"
+    },
+    {
+      "english": "You are a wonderful person.",
+      "persian": "تو یک انسان، فوق‌العاده‌ای.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967927"
+    },
+    {
+      "english": "Let's support, each other.",
+      "persian": "بیا از هم، حمایت کنیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967930"
+    },
+    {
+      "english": "Your kindness, is remarkable.",
+      "persian": "مهربانی تو، قابل تحسین است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967933"
+    },
+    {
+      "english": "We can overcome, anything.",
+      "persian": "ما می‌توانیم، بر هر چیزی غلبه کنیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967935"
+    },
+    {
+      "english": "Your smile, is contagious.",
+      "persian": "لبخند تو، مسری است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967938"
+    },
+    {
+      "english": "Dream big, love bigger.",
+      "persian": "بزرگ، آرزو کن، بزرگتر، دوست بدار.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967940"
+    },
+    {
+      "english": "You have a strong spirit.",
+      "persian": "تو روحی، قوی داری.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967942"
+    },
+    {
+      "english": "Let's create, happy memories.",
+      "persian": "بیا خاطرات، خوش بسازیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967945"
+    },
+    {
+      "english": "Your belief, empowers me.",
+      "persian": "باور تو، به من قدرت می‌دهد.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967948"
+    },
+    {
+      "english": "We are meant, to be.",
+      "persian": "ما برای هم، مقدر شده‌ایم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967950"
+    },
+    {
+      "english": "Your optimism, is inspiring.",
+      "persian": "خوش‌بینی تو، الهام‌بخش است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967953"
+    },
+    {
+      "english": "Keep that hope, alive.",
+      "persian": "آن امید را، زنده نگه دار.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967955"
+    },
+    {
+      "english": "Tell me your deepest thoughts.",
+      "persian": "عمیق‌ترین افکارت را به من بگو.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967958"
+    },
+    {
+      "english": "I'm learning to be patient, for you.",
+      "persian": "دارم یاد می‌گیرم صبور باشم، برای تو.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967961"
+    },
+    {
+      "english": "My feelings for you, are growing.",
+      "persian": "احساسم به تو، دارد بیشتر می‌شود.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967964"
+    },
+    {
+      "english": "What does your heart desire, most?",
+      "persian": "قلبت چه چیزی را، بیشتر می‌خواهد؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967966"
+    },
+    {
+      "english": "Let's reflect, on our time together.",
+      "persian": "بیایید، به زمان با هم بودنمان فکر کنیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967969"
+    },
+    {
+      "english": "I trust you, completely.",
+      "persian": "من به تو، کاملاً اعتماد دارم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967972"
+    },
+    {
+      "english": "This connection, feels so real.",
+      "persian": "این ارتباط، خیلی واقعی حس می‌شود.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967976"
+    },
+    {
+      "english": "What brings you, peace?",
+      "persian": "چه چیزی به تو، آرامش می‌دهد؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967979"
+    },
+    {
+      "english": "I want to understand you, better.",
+      "persian": "می‌خواهم تو را، بهتر بفهمم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967982"
+    },
+    {
+      "english": "Share your vulnerabilities, with me.",
+      "persian": "آسیب‌پذیری‌هایت را، با من در میان بگذار.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967984"
+    },
+    {
+      "english": "I value your honesty, immensely.",
+      "persian": "صداقت تو را، بی‌نهایت ارج می‌نهم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967987"
+    },
+    {
+      "english": "Let our souls, converse.",
+      "persian": "بگذار روح‌هایمان، صحبت کنند.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967990"
+    },
+    {
+      "english": "I am thinking, about our future.",
+      "persian": "به آینده‌مان، فکر می‌کنم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967992"
+    },
+    {
+      "english": "Can we be, truly open?",
+      "persian": "می‌توانیم، واقعاً باز باشیم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967995"
+    },
+    {
+      "english": "Your perspective, matters deeply.",
+      "persian": "دیدگاه تو، عمیقاً مهم است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.967998"
+    },
+    {
+      "english": "I'm exploring, my feelings, honestly.",
+      "persian": "من دارم، احساساتم را، صادقانه کشف می‌کنم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968001"
+    },
+    {
+      "english": "What unspoken words, do you have?",
+      "persian": "چه کلمات ناگفته‌ای، داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968003"
+    },
+    {
+      "english": "Let’s build trust, slowly.",
+      "persian": "بیایید، آرام آرام اعتماد بسازیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968008"
+    },
+    {
+      "english": "My vulnerability, is for you.",
+      "persian": "آسیب‌پذیری من، برای توست.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968011"
+    },
+    {
+      "english": "What quiet hopes, do you hold?",
+      "persian": "چه امیدهای پنهانی، داری؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968014"
+    },
+    {
+      "english": "Our journey requires, introspection.",
+      "persian": "سفر ما، نیازمند خودنگری است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968016"
+    },
+    {
+      "english": "Tell me what you truly, need.",
+      "persian": "به من بگو، واقعاً چه نیاز داری.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968019"
+    },
+    {
+      "english": "I feel a profound, connection.",
+      "persian": "من یک ارتباط، عمیق حس می‌کنم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968022"
+    },
+    {
+      "english": "Your inner world, fascinates me.",
+      "persian": "دنیای درونی تو، مرا مجذوب می‌کند.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968024"
+    },
+    {
+      "english": "Let’s be honest, with ourselves.",
+      "persian": "بیایید، با خودمان صادق باشیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968028"
+    },
+    {
+      "english": "I’m learning, to love deeply.",
+      "persian": "من دارم، عمیق عشق ورزیدن یاد می‌گیرم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968031"
+    },
+    {
+      "english": "What whispers, your soul hears?",
+      "persian": "روحت چه نجواهایی، می‌شنود؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968034"
+    },
+    {
+      "english": "My heart understands, yours.",
+      "persian": "قلب من، قلب تو را می‌فهمد.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968036"
+    },
+    {
+      "english": "Let's plan, our next adventure.",
+      "persian": "بیا، برای ماجراجویی بعدی برنامه ریزی کنیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968039"
+    },
+    {
+      "english": "How can I help, you today?",
+      "persian": "امروز چطور می توانم، کمکت کنم؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968042"
+    },
+    {
+      "english": "Tell me, what's on your mind?",
+      "persian": "بگو، به چی فکر می کنی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968045"
+    },
+    {
+      "english": "Let's make, time for each other.",
+      "persian": "بگذار، برای هم وقت بگذاریم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968049"
+    },
+    {
+      "english": "This feels, like home.",
+      "persian": "اینجا، حس خانه بودن می دهد.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968052"
+    },
+    {
+      "english": "What's your favorite, way to relax?",
+      "persian": "روش مورد علاقه ات، برای آرامش چیست؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968057"
+    },
+    {
+      "english": "Let's listen, to each other's needs.",
+      "persian": "بیا، به نیازهای هم گوش دهیم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968060"
+    },
+    {
+      "english": "Every day, is special with you.",
+      "persian": "هر روز، با تو خاص است.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968063"
+    },
+    {
+      "english": "How did you, spend your day?",
+      "persian": "روزت را، چطور گذراندی؟",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968065"
+    },
+    {
+      "english": "Let's share, our favorite snacks.",
+      "persian": "بیا، خوراکی های مورد علاقه مان را به اشتراک بگذاریم.",
+      "category": "Love",
+      "generated_at": "2026-10-19T08:41:35.968068"
     }
   ],
-  "last_updated": "2026-10-18T07:55:46.384009"
+  "last_updated": "2026-10-19T08:41:35.968070"
 }
