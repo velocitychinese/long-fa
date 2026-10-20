@@ -2159,7 +2159,727 @@
       "persian": "بیا، خوراکی های مورد علاقه مان را به اشتراک بگذاریم.",
       "category": "Love",
       "generated_at": "2026-10-19T08:41:35.968068"
+    },
+    {
+      "english": "I don't feel well, can you help?",
+      "persian": "حالم خوب نیست، میتونید کمکم کنید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560650"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "persian": "نزدیکترین داروخانه کجاست؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560663"
+    },
+    {
+      "english": "I need medicine for a cold.",
+      "persian": "من دارو برای سرماخوردگی میخواهم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560666"
+    },
+    {
+      "english": "Do you have this prescription?",
+      "persian": "این نسخه را دارید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560669"
+    },
+    {
+      "english": "It hurts here, doctor.",
+      "persian": "اینجا درد میکند، آقا/خانم دکتر.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560672"
+    },
+    {
+      "english": "How much is this medicine?",
+      "persian": "قیمت این دارو چقدر است؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560675"
+    },
+    {
+      "english": "I have a fever, I think.",
+      "persian": "فکر کنم تب دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560678"
+    },
+    {
+      "english": "When should I take it?",
+      "persian": "چه موقع باید آن را بخورم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560683"
+    },
+    {
+      "english": "Is there a doctor available?",
+      "persian": "دکتری هست که وقت داشته باشد؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560686"
+    },
+    {
+      "english": "I need an appointment, please.",
+      "persian": "من یک وقت ملاقات میخواهم، لطفا.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560690"
+    },
+    {
+      "english": "What are the side effects?",
+      "persian": "عوارض جانبی آن چیست؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560692"
+    },
+    {
+      "english": "This is very important.",
+      "persian": "این خیلی مهم است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560695"
+    },
+    {
+      "english": "I feel dizzy, a bit.",
+      "persian": "کمی سرم گیج میرود.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560698"
+    },
+    {
+      "english": "Can I have the generic version?",
+      "persian": "می توانم نوع ژنریک را بگیرم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560700"
+    },
+    {
+      "english": "I have an allergy to penicillin.",
+      "persian": "من به پنی سیلین حساسیت دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560703"
+    },
+    {
+      "english": "What should I do for pain?",
+      "persian": "برای درد چه کار کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560705"
+    },
+    {
+      "english": "Is this medicine covered by insurance?",
+      "persian": "این دارو بیمه میشود؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560710"
+    },
+    {
+      "english": "I have a cough, unfortunately.",
+      "persian": "متاسفانه سرفه دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560713"
+    },
+    {
+      "english": "Where can I find bandages?",
+      "persian": "چسب زخم را کجا پیدا کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560715"
+    },
+    {
+      "english": "I need something for nausea.",
+      "persian": "من چیزی برای حالت تهوع میخواهم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560718"
+    },
+    {
+      "english": "How often do I take this?",
+      "persian": "چند وقت یکبار این را بخورم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560720"
+    },
+    {
+      "english": "My throat is sore.",
+      "persian": "گلویم درد میکند.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560723"
+    },
+    {
+      "english": "Is there a discount available?",
+      "persian": "تخفیفی وجود دارد؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560725"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "persian": "من باید به یک متخصص مراجعه کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560728"
+    },
+    {
+      "english": "Can you recommend something?",
+      "persian": "چیزی را پیشنهاد می دهید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560730"
+    },
+    {
+      "english": "I have a headache, it's bad.",
+      "persian": "سردرد بدی دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560735"
+    },
+    {
+      "english": "What time does the clinic close?",
+      "persian": "کلینیک چه ساعتی تعطیل میشود؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560737"
+    },
+    {
+      "english": "I need pain relief, please.",
+      "persian": "لطفا یک مسکن میخواهم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560740"
+    },
+    {
+      "english": "This is a new symptom.",
+      "persian": "این یک علامت جدید است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560743"
+    },
+    {
+      "english": "Thank you for your help.",
+      "persian": "از کمکتان ممنونم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560745"
+    },
+    {
+      "english": "What's the best way, to get better?",
+      "persian": "بهترین راه, خوب شدنم چیه؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560748"
+    },
+    {
+      "english": "Can you explain, this dosage?",
+      "persian": "میشه این دوز مصرف رو, توضیح بدید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560751"
+    },
+    {
+      "english": "What other options, are there?",
+      "persian": "چه گزینه‌های دیگه‌ای, وجود داره؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560756"
+    },
+    {
+      "english": "When will I feel, a difference?",
+      "persian": "کی احساس, بهبودی می‌کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560759"
+    },
+    {
+      "english": "Is this syrup, sugar-free?",
+      "persian": "این شربت, بدون قند هست؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560762"
+    },
+    {
+      "english": "What caused, this problem?",
+      "persian": "علت این مشکل, چی بوده؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560765"
+    },
+    {
+      "english": "Can I take this, with food?",
+      "persian": "میشه این رو, با غذا مصرف کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560767"
+    },
+    {
+      "english": "Is there a cheaper, alternative?",
+      "persian": "جایگزین ارزون‌تری, هست؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560770"
+    },
+    {
+      "english": "How long, does recovery take?",
+      "persian": "دوره بهبودی, چقدر طول می‌کشه؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560773"
+    },
+    {
+      "english": "Is this medication, addictive?",
+      "persian": "این دارو, اعتیاد آوره؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560776"
+    },
+    {
+      "english": "What should I avoid, eating?",
+      "persian": "از چه غذاهایی, باید پرهیز کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560778"
+    },
+    {
+      "english": "Can you refill, this prescription?",
+      "persian": "میشه این نسخه رو, دوباره پر کنید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560784"
+    },
+    {
+      "english": "What are the next, steps?",
+      "persian": "مراحل بعدی, چی هستن؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560786"
+    },
+    {
+      "english": "Do I need, a referral?",
+      "persian": "نیاز به, معرفی‌نامه دارم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560789"
+    },
+    {
+      "english": "Can you recommend, a good doctor?",
+      "persian": "دکتر خوبی, معرفی می‌کنید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560792"
+    },
+    {
+      "english": "Is this treatment, painful?",
+      "persian": "این درمان, دردناکه؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560795"
+    },
+    {
+      "english": "What's the active, ingredient?",
+      "persian": "ماده مؤثر, فعالش چیه؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560797"
+    },
+    {
+      "english": "Can I get, a second opinion?",
+      "persian": "میتونم نظر, دوم بگیرم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560800"
+    },
+    {
+      "english": "How do I store, this medicine?",
+      "persian": "این دارو رو, چطور نگهداری کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560803"
+    },
+    {
+      "english": "Is there any, swelling?",
+      "persian": "آیا تورم, وجود داره؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560806"
+    },
+    {
+      "english": "What if symptoms, worsen?",
+      "persian": "اگه علائمم, بدتر شد چی؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560808"
+    },
+    {
+      "english": "Can you check, my blood pressure?",
+      "persian": "میشه فشار خونم, رو بگیرید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560811"
+    },
+    {
+      "english": "Is this over-the-counter?",
+      "persian": "این بدون نسخه, است؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560816"
+    },
+    {
+      "english": "What dosage, is best?",
+      "persian": "کدوم دوز, بهتره؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560818"
+    },
+    {
+      "english": "I need something, for sleep.",
+      "persian": "چیزی برای, خواب میخوام.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560821"
+    },
+    {
+      "english": "Are there any, interactions?",
+      "persian": "تداخل دارویی, داره؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560824"
+    },
+    {
+      "english": "Can you write, it down?",
+      "persian": "میتونید, بنویسید؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560826"
+    },
+    {
+      "english": "Is this a serious, condition?",
+      "persian": "این وضعیت, جدیه؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560829"
+    },
+    {
+      "english": "What's the expiry, date?",
+      "persian": "تاریخ انقضاش, کی هست؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560831"
+    },
+    {
+      "english": "How should I, apply this?",
+      "persian": "این رو چطور, استفاده کنم؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560834"
+    },
+    {
+      "english": "It's nothing, to worry about.",
+      "persian": "جدی نگیر, چیز مهمی نیست.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560837"
+    },
+    {
+      "english": "This medicine, works wonders.",
+      "persian": "این دارو, معجزه می‌کنه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560840"
+    },
+    {
+      "english": "Don't break, the habit.",
+      "persian": "رسم و راهش, رو عوض نکن.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560843"
+    },
+    {
+      "english": "It's a tough nut, to crack.",
+      "persian": "کار سختیه, ولی شدنیه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560846"
+    },
+    {
+      "english": "This too, shall pass.",
+      "persian": "اینم می‌گذره, غصه نخور.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560850"
+    },
+    {
+      "english": "Take care, of yourself.",
+      "persian": "مراقب خودت, باش, عزیز دل.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560853"
+    },
+    {
+      "english": "It's a mild case, don't fret.",
+      "persian": "زیاد جدی نیست, نگران نباش.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560856"
+    },
+    {
+      "english": "Listen to your body, keenly.",
+      "persian": "به بدنت, گوش کن, خوب.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560859"
+    },
+    {
+      "english": "That’s the best, remedy.",
+      "persian": "بهترین نسخه, همینه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560863"
+    },
+    {
+      "english": "Don't push your luck, now.",
+      "persian": "فعلاً ریسک نکن, جانِ من.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560866"
+    },
+    {
+      "english": "It's a common cold, really.",
+      "persian": "سرماخوردگیه, معمولی, خب.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560869"
+    },
+    {
+      "english": "Get plenty, of rest.",
+      "persian": "حسابی, استراحت کن.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560871"
+    },
+    {
+      "english": "Let's see, what the doctor says.",
+      "persian": "ببینیم, دکتر چی میگه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560874"
+    },
+    {
+      "english": "This needs, a special touch.",
+      "persian": "این یه ذره, فرق داره.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560877"
+    },
+    {
+      "english": "It feels, like a breeze.",
+      "persian": "خیلی سبکه, اصلا اذیت نمیکنه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560880"
+    },
+    {
+      "english": "Don't skip, the appointment.",
+      "persian": "وقت دکتر, رو از دست نده.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560882"
+    },
+    {
+      "english": "It’s a simple cure, really.",
+      "persian": "درمانش, ساده است, در کل.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560887"
+    },
+    {
+      "english": "My body, is out of sorts.",
+      "persian": "بدنم, یکم ریخته به هم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560892"
+    },
+    {
+      "english": "This will do, the trick.",
+      "persian": "این کارو, راه میندازه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560895"
+    },
+    {
+      "english": "He's a miracle worker, doctor.",
+      "persian": "دکتر, دستش طلاست.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560897"
+    },
+    {
+      "english": "Don't get, too worked up.",
+      "persian": "خودتو, اذیت نکن.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560900"
+    },
+    {
+      "english": "It's a delicate balance, folks.",
+      "persian": "اینا, ظریف کاری داره.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560903"
+    },
+    {
+      "english": "Take it easy, for now.",
+      "persian": "فعلاً, راحت باش.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560905"
+    },
+    {
+      "english": "This ointment, works like magic.",
+      "persian": "این پماد, اثرش عالیه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560908"
+    },
+    {
+      "english": "It's a shot, in the arm.",
+      "persian": "خیلی کمک می‌کنه, این.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560911"
+    },
+    {
+      "english": "Just a minor, setback.",
+      "persian": "یه مشکل, کوچیکه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560914"
+    },
+    {
+      "english": "Follow the doctor's, orders.",
+      "persian": "حرف دکتر, رو گوش کن.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560916"
+    },
+    {
+      "english": "This potion, is potent.",
+      "persian": "این شربت, خیلی قویه.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560919"
+    },
+    {
+      "english": "Don't overdo, the medication.",
+      "persian": "دارو رو, زیاد نخور.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560922"
+    },
+    {
+      "english": "It's a matter, of time.",
+      "persian": "زمان می‌بره, فقط.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560924"
+    },
+    {
+      "english": "I feel a bit fragile, today.",
+      "persian": "امروز کمی شکننده‌ام.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560927"
+    },
+    {
+      "english": "This pain, it lingers.",
+      "persian": "این درد، ادامه دارد.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560930"
+    },
+    {
+      "english": "I'm hoping, for a quick recovery.",
+      "persian": "امیدوارم، زودتر خوب شوم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560933"
+    },
+    {
+      "english": "This waiting, is tough.",
+      "persian": "این انتظار، سخت است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560935"
+    },
+    {
+      "english": "I trust, your judgment.",
+      "persian": "من به قضاوت شما، اطمینان دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560938"
+    },
+    {
+      "english": "Sometimes, patience is key.",
+      "persian": "گاهی، صبر کلید است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560942"
+    },
+    {
+      "english": "I'm reflecting, on my health.",
+      "persian": "به سلامتی‌ام، فکر می‌کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560945"
+    },
+    {
+      "english": "This feels, like a turning point.",
+      "persian": "این حس، یک نقطه عطف است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560949"
+    },
+    {
+      "english": "I appreciate, your care.",
+      "persian": "از مراقبت شما، قدردانی می‌کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560952"
+    },
+    {
+      "english": "This illness, taught me a lot.",
+      "persian": "این بیماری، چیزهای زیادی به من آموخت.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560955"
+    },
+    {
+      "english": "I'm feeling, more hopeful now.",
+      "persian": "الان، امیدوارتر هستم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560957"
+    },
+    {
+      "english": "It's important, to listen.",
+      "persian": "مهم است، گوش کنیم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560960"
+    },
+    {
+      "english": "My body, needs some kindness.",
+      "persian": "بدن من، نیاز به کمی مهربانی دارد.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560963"
+    },
+    {
+      "english": "This experience, was humbling.",
+      "persian": "این تجربه، فروتن کننده بود.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560966"
+    },
+    {
+      "english": "I'm thinking, about prevention.",
+      "persian": "به پیشگیری، فکر می‌کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560971"
+    },
+    {
+      "english": "This moment, feels significant.",
+      "persian": "این لحظه، مهم به نظر می‌رسد.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560973"
+    },
+    {
+      "english": "I need, some quiet reflection.",
+      "persian": "نیاز به، کمی تفکر آرام دارم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560976"
+    },
+    {
+      "english": "Your advice, means a lot.",
+      "persian": "توصیه شما، خیلی ارزشمند است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560979"
+    },
+    {
+      "english": "I'm learning, to be gentle.",
+      "persian": "دارم یاد می‌گیرم، مهربان باشم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560982"
+    },
+    {
+      "english": "This medicine, brings peace.",
+      "persian": "این دارو، آرامش می‌آورد.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560984"
+    },
+    {
+      "english": "I'm finding, inner strength.",
+      "persian": "دارم قدرت درونی، پیدا می‌کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560987"
+    },
+    {
+      "english": "Let's be positive, always.",
+      "persian": "همیشه، مثبت باشیم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560990"
+    },
+    {
+      "english": "This visit, was reassuring.",
+      "persian": "این ویزیت، اطمینان‌بخش بود.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560992"
+    },
+    {
+      "english": "This feeling, is new.",
+      "persian": "این احساس، جدید است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560995"
+    },
+    {
+      "english": "I value, your empathy.",
+      "persian": "من همدلی شما را، ارج می‌نهم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.560997"
+    },
+    {
+      "english": "This healing, takes time.",
+      "persian": "این بهبودی، زمان می‌برد.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.561000"
+    },
+    {
+      "english": "I'm choosing, to believe.",
+      "persian": "انتخاب می‌کنم، باور کنم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.561003"
+    },
+    {
+      "english": "It's a journey, of wellness.",
+      "persian": "این سفری، به سوی سلامتی است.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.561005"
+    },
+    {
+      "english": "I need to refill this prescription.",
+      "persian": "باید این نسخه را دوباره بگیرم.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.561008"
+    },
+    {
+      "english": "Do you have this medicine, in stock?",
+      "persian": "این دارو را دارید، موجود است؟",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-20T08:22:46.561011"
     }
   ],
-  "last_updated": "2026-10-19T08:41:35.968070"
+  "last_updated": "2026-10-20T08:22:46.561013"
 }
