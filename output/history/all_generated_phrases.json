@@ -2879,7 +2879,727 @@
       "persian": "این دارو را دارید، موجود است؟",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-20T08:22:46.561011"
+    },
+    {
+      "english": "That's very kind, thank you.",
+      "persian": "خیلی لطف کردید، ممنونم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121888"
+    },
+    {
+      "english": "You're so helpful, really.",
+      "persian": "خیلی کمک می‌کنی، واقعا.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121903"
+    },
+    {
+      "english": "What a nice gesture!",
+      "persian": "چه حرکت خوبی!",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121905"
+    },
+    {
+      "english": "I appreciate your help.",
+      "persian": "از کمکت ممنونم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121907"
+    },
+    {
+      "english": "That was thoughtful of you.",
+      "persian": "خیلی با فکر بود از طرف شما.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121909"
+    },
+    {
+      "english": "You made my day better.",
+      "persian": "روزم رو بهتر کردی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121910"
+    },
+    {
+      "english": "How generous!",
+      "persian": "چقدر سخاوتمند!",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121912"
+    },
+    {
+      "english": "That's incredibly kind.",
+      "persian": "این فوق‌العاده مهربانانه است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121918"
+    },
+    {
+      "english": "Thanks for being so nice.",
+      "persian": "ممنون که انقدر خوبی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121920"
+    },
+    {
+      "english": "That's very considerate.",
+      "persian": "خیلی ملاحظه‌کارانه است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.121922"
+    },
+    {
+      "english": "You're a lifesaver!",
+      "persian": "تو ناجی منی!",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122023"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "persian": "چه سورپرایز دوست‌داشتنی!",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122025"
+    },
+    {
+      "english": "Your kindness means a lot.",
+      "persian": "مهربانی شما خیلی ارزشمنده.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122027"
+    },
+    {
+      "english": "That's so sweet of you.",
+      "persian": "خیلی شیرین بود از طرف شما.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122029"
+    },
+    {
+      "english": "You're truly a good person.",
+      "persian": "تو واقعا آدم خوبی هستی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122031"
+    },
+    {
+      "english": "I'm touched by your kindness.",
+      "persian": "از مهربانی‌تان تحت تاثیر قرار گرفتم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122032"
+    },
+    {
+      "english": "That's incredibly thoughtful.",
+      "persian": "این فوق‌العاده با فکر است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122034"
+    },
+    {
+      "english": "You're making a difference.",
+      "persian": "شما تفاوت ایجاد می‌کنید.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122036"
+    },
+    {
+      "english": "That's a very kind offer.",
+      "persian": "این یک پیشنهاد بسیار مهربانانه است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122037"
+    },
+    {
+      "english": "You're always so supportive.",
+      "persian": "تو همیشه خیلی حامی هستی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122041"
+    },
+    {
+      "english": "What a kind soul you are.",
+      "persian": "چه روح مهربانی داری.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122042"
+    },
+    {
+      "english": "Your actions speak volumes.",
+      "persian": "اعمال شما خیلی چیزها می‌گوید.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122044"
+    },
+    {
+      "english": "That's truly appreciated.",
+      "persian": "این واقعا قدردانی می‌شود.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122045"
+    },
+    {
+      "english": "You're making things easier.",
+      "persian": "شما کارها را آسان‌تر می‌کنید.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122047"
+    },
+    {
+      "english": "Such a kind gesture.",
+      "persian": "چه حرکت مهربانانه‌ای.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122049"
+    },
+    {
+      "english": "You're a blessing.",
+      "persian": "تو یک نعمت هستی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122050"
+    },
+    {
+      "english": "That's incredibly generous.",
+      "persian": "این فوق‌العاده سخاوتمندانه است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122052"
+    },
+    {
+      "english": "Thank you for your kindness.",
+      "persian": "از مهربانی شما متشکرم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122054"
+    },
+    {
+      "english": "You're just wonderful.",
+      "persian": "تو فوق‌العاده‌ای.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122056"
+    },
+    {
+      "english": "Can I help you, friend?",
+      "persian": "دوست، میتونم کمکت کنم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122058"
+    },
+    {
+      "english": "What can I do for you?",
+      "persian": "کاری از دستم برمیاد؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122059"
+    },
+    {
+      "english": "Need anything, my dear?",
+      "persian": "چیزی لازم داری عزیزم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122061"
+    },
+    {
+      "english": "How can I assist?",
+      "persian": "چطور میتونم کمک کنم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122063"
+    },
+    {
+      "english": "Is everything okay?",
+      "persian": "همه چی مرتبه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122066"
+    },
+    {
+      "english": "Do you need a hand?",
+      "persian": "کمک لازم داری؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122068"
+    },
+    {
+      "english": "Want to talk about it?",
+      "persian": "میخوای در موردش حرف بزنیم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122070"
+    },
+    {
+      "english": "Any problems I can solve?",
+      "persian": "مشکلی هست که حل کنم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122072"
+    },
+    {
+      "english": "What are you up to?",
+      "persian": "چه کار میکنی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122073"
+    },
+    {
+      "english": "Can I offer advice?",
+      "persian": "میتونم راهنمایی کنم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122075"
+    },
+    {
+      "english": "Are you feeling alright?",
+      "persian": "حالت خوبه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122077"
+    },
+    {
+      "english": "What do you think?",
+      "persian": "تو چی فکر میکنی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122078"
+    },
+    {
+      "english": "Should I do this?",
+      "persian": "این کار رو بکنم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122080"
+    },
+    {
+      "english": "Is this a good idea?",
+      "persian": "این ایده خوبیه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122082"
+    },
+    {
+      "english": "What's the best way?",
+      "persian": "بهترین راه چیه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122084"
+    },
+    {
+      "english": "What's your opinion?",
+      "persian": "نظر شما چیه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122085"
+    },
+    {
+      "english": "Are we on the same page?",
+      "persian": "با هم موافقیم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122087"
+    },
+    {
+      "english": "Did you understand?",
+      "persian": "فهمیدی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122088"
+    },
+    {
+      "english": "How do you feel about it?",
+      "persian": "در موردش چه حسی داری؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122090"
+    },
+    {
+      "english": "What would you do?",
+      "persian": "تو چیکار میکردی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122092"
+    },
+    {
+      "english": "Can you give me a hint?",
+      "persian": "یه اشاره بهم میدی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122093"
+    },
+    {
+      "english": "Is there another option?",
+      "persian": "گزینه دیگه‌ای هست؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122095"
+    },
+    {
+      "english": "What do you suggest?",
+      "persian": "چی پیشنهاد میدی؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122097"
+    },
+    {
+      "english": "Are you sure about this?",
+      "persian": "مطمئنی در مورد این؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122099"
+    },
+    {
+      "english": "Let's discuss this.",
+      "persian": "در موردش صحبت کنیم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122100"
+    },
+    {
+      "english": "Can we agree on this?",
+      "persian": "میتونیم سر این توافق کنیم؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122102"
+    },
+    {
+      "english": "Your positive outlook, it's inspiring.",
+      "persian": "نگاه مثبت شما، الهام‌بخشه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122104"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "persian": "به خودت، همیشه، ایمان داشته باش.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122106"
+    },
+    {
+      "english": "You've got this, I know it.",
+      "persian": "تو از پسش برمیای، من می‌دونم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122108"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "persian": "ادامه بده، نایست.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122110"
+    },
+    {
+      "english": "Your effort is truly admirable.",
+      "persian": "تلاشت واقعاً قابل تحسینه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122125"
+    },
+    {
+      "english": "You have a heart of gold.",
+      "persian": "تو قلبی از طلا داری.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122127"
+    },
+    {
+      "english": "Your kindness shines through.",
+      "persian": "مهربانی‌ات برق می‌زنه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122128"
+    },
+    {
+      "english": "That was very understanding of you.",
+      "persian": "خیلی درک کردی، واقعا.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122130"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "persian": "دیدگاه تو ارزشمنده.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122132"
+    },
+    {
+      "english": "You handled that beautifully.",
+      "persian": "خیلی قشنگ از پسش براومدی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122133"
+    },
+    {
+      "english": "Your empathy is a gift.",
+      "persian": "همدلی تو یک هديه‌ست.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122135"
+    },
+    {
+      "english": "You bring out the best in others.",
+      "persian": "بهترین رو توی دیگران بیدار می‌کنی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122137"
+    },
+    {
+      "english": "Your support means a lot.",
+      "persian": "حمایت تو خیلی مهمه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122139"
+    },
+    {
+      "english": "You have a bright future.",
+      "persian": "آینده درخشانی داری.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122140"
+    },
+    {
+      "english": "Keep that amazing spirit alive.",
+      "persian": "اون روحیه فوق‌العاده رو زنده نگه دار.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122143"
+    },
+    {
+      "english": "Your compassion is remarkable.",
+      "persian": "دلسوزی تو قابل توجهه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122144"
+    },
+    {
+      "english": "You make everything feel possible.",
+      "persian": "همه چیز رو ممکن جلوه می‌دی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122147"
+    },
+    {
+      "english": "That's a sign of a good person.",
+      "persian": "این نشانه آدم خوبیه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122149"
+    },
+    {
+      "english": "Your optimism is contagious.",
+      "persian": "خوش‌بینی تو مسریه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122150"
+    },
+    {
+      "english": "You create a positive atmosphere.",
+      "persian": "تو جو مثبتی ایجاد می‌کنی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122152"
+    },
+    {
+      "english": "You're a source of strength.",
+      "persian": "تو منبع قدرت هستی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122154"
+    },
+    {
+      "english": "Your generosity is a virtue.",
+      "persian": "سخاوت تو یک فضیلته.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122155"
+    },
+    {
+      "english": "You always know what to say.",
+      "persian": "همیشه می‌دونی چی بگی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122157"
+    },
+    {
+      "english": "What a wonderful contribution.",
+      "persian": "چه سهم فوق‌العاده‌ای.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122158"
+    },
+    {
+      "english": "Your spirit is truly uplifting.",
+      "persian": "روحیه تو واقعا روحیه بخشه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122160"
+    },
+    {
+      "english": "You make people feel valued.",
+      "persian": "باعث می‌شی آدم‌ها احساس ارزش کنن.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122162"
+    },
+    {
+      "english": "Your presence is a comfort.",
+      "persian": "حضور تو آرامش بخشه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122163"
+    },
+    {
+      "english": "Keep up the great work.",
+      "persian": "کارت عالیه، ادامه بده.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122165"
+    },
+    {
+      "english": "You're a ray of sunshine.",
+      "persian": "تو مثل پرتو آفتابی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122168"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "persian": "مهربانی تو فرق ایجاد می‌کنه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122169"
+    },
+    {
+      "english": "My heart feels lighter now.",
+      "persian": "قلبم الان سبکتره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122171"
+    },
+    {
+      "english": "This experience taught me a lot.",
+      "persian": "این تجربه بهم خیلی چیزا یاد داد.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122173"
+    },
+    {
+      "english": "It's okay to be vulnerable.",
+      "persian": "اشکالی نداره اگه آسیب پذیر باشی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122176"
+    },
+    {
+      "english": "What's truly important is this.",
+      "persian": "چیزی که واقعا مهمه، همینه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122178"
+    },
+    {
+      "english": "My feelings are honest right now.",
+      "persian": "احساساتم الان صادقانه ست.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122179"
+    },
+    {
+      "english": "This situation requires reflection.",
+      "persian": "این اوضاع نیاز به تامل داره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122181"
+    },
+    {
+      "english": "I'm learning to be more open.",
+      "persian": "دارم یاد میگیرم بازتر باشم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122183"
+    },
+    {
+      "english": "My inner peace matters most.",
+      "persian": "آرامش درونی من از همه چی مهمتره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122185"
+    },
+    {
+      "english": "This moment feels very real.",
+      "persian": "این لحظه خیلی واقعی به نظر میاد.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122186"
+    },
+    {
+      "english": "How did that make you feel?",
+      "persian": "اون حس رو به تو چطور داد؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122188"
+    },
+    {
+      "english": "I'm reflecting on my choices.",
+      "persian": "دارم به انتخاب هام فکر می کنم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122190"
+    },
+    {
+      "english": "Sincerity is always appreciated.",
+      "persian": "صداقت همیشه قدردانی میشه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122191"
+    },
+    {
+      "english": "I value your honest opinion.",
+      "persian": "نظر صادقانه ات برام ارزشمنده.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122193"
+    },
+    {
+      "english": "Patience is a key virtue.",
+      "persian": "صبر فضیلت کلیدیه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122194"
+    },
+    {
+      "english": "This is a moment for honesty.",
+      "persian": "این لحظه، لحظه ی صداقته.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122196"
+    },
+    {
+      "english": "My understanding has deepened now.",
+      "persian": "فهم من الان عمیق تر شده.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122198"
+    },
+    {
+      "english": "What are your true feelings?",
+      "persian": "حس واقعیت چیه؟",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122199"
+    },
+    {
+      "english": "Let's acknowledge our emotions.",
+      "persian": "اجازه بدیم احساساتمون رو بپذیریم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122201"
+    },
+    {
+      "english": "This requires careful thought.",
+      "persian": "این نیاز به فکر زیاد داره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122203"
+    },
+    {
+      "english": "Your honesty is refreshing.",
+      "persian": "صداقتت خیلی تازگی داره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122204"
+    },
+    {
+      "english": "We need kindness, always.",
+      "persian": "ما همیشه به مهربونی نیاز داریم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122205"
+    },
+    {
+      "english": "This is my genuine thought.",
+      "persian": "این فکر واقعی منه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122207"
+    },
+    {
+      "english": "Let's reflect on what happened.",
+      "persian": "بیایید به اتفاق افتاده فکر کنیم.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122208"
+    },
+    {
+      "english": "My sincerity is undeniable.",
+      "persian": "صداقت من غیر قابل انکاره.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122210"
+    },
+    {
+      "english": "This kindness feels very deep.",
+      "persian": "این مهربونی خیلی عمیقه.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122212"
+    },
+    {
+      "english": "Help out a neighbor, if you can.",
+      "persian": "همسایه‌ات را، کمک کن، اگر می‌توانی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122214"
+    },
+    {
+      "english": "Share your umbrella, in the rain.",
+      "persian": "چترت را، شریک شو، در باران.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122215"
+    },
+    {
+      "english": "Offer a seat, to someone tired.",
+      "persian": "صندلی بده، به یک خسته.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122217"
+    },
+    {
+      "english": "Listen more, speak less, sometimes.",
+      "persian": "بیشتر گوش کن، کمتر حرف بزن، گاهی.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122220"
+    },
+    {
+      "english": "A smile, goes a long way.",
+      "persian": "یک لبخند، خیلی تاثیر دارد.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122227"
+    },
+    {
+      "english": "Be patient, with new learners.",
+      "persian": "صبور باش، با تازه‌کارها.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122229"
+    },
+    {
+      "english": "Forgive mistakes, easily.",
+      "persian": "اشتباهات را، راحت ببخش.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122230"
+    },
+    {
+      "english": "Give sincere compliments, often.",
+      "persian": "تعریف واقعی، زیاد بکن.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122232"
+    },
+    {
+      "english": "Hold the door, for the person behind.",
+      "persian": "در را نگه دار، برای کسی که پشت سر است.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122235"
+    },
+    {
+      "english": "Leave a nice note, for your roommate.",
+      "persian": "یک یادداشت خوب، برای هم‌اتاقی‌ات بگذار.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:28.122236"
     }
   ],
-  "last_updated": "2026-10-20T08:22:46.561013"
+  "last_updated": "2026-10-21T08:26:28.122238"
 }
