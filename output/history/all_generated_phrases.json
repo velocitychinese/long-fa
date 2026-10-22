@@ -3599,7 +3599,727 @@
       "persian": "یک یادداشت خوب، برای هم‌اتاقی‌ات بگذار.",
       "category": "Kindness",
       "generated_at": "2026-10-21T08:26:28.122236"
+    },
+    {
+      "english": "Thanks a lot, really!",
+      "persian": "خیلی ممنونم، واقعاً!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640032"
+    },
+    {
+      "english": "Wow, I owe you one.",
+      "persian": "وای، یه لطفی به گردن من داری.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640041"
+    },
+    {
+      "english": "That's so kind of you.",
+      "persian": "چقدر لطف دارید شما.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640043"
+    },
+    {
+      "english": "I really appreciate this.",
+      "persian": "واقعاً ممنونم از این کار.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640044"
+    },
+    {
+      "english": "You saved me time, thanks!",
+      "persian": "وقتمو گرفتی، مرسی!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640046"
+    },
+    {
+      "english": "How thoughtful, thank you.",
+      "persian": "چه فکر خوبی، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640048"
+    },
+    {
+      "english": "Couldn't have done it without you.",
+      "persian": "بدون تو نمیتونستم انجام بدم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640049"
+    },
+    {
+      "english": "You're the best, no joke!",
+      "persian": "تو بهترینی، شوخی ندارم!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640053"
+    },
+    {
+      "english": "What a helpful person you are!",
+      "persian": "چه آدم مفیدی هستی!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640055"
+    },
+    {
+      "english": "Thanks for your effort.",
+      "persian": "ممنون بابت زحمتات.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640057"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "persian": "عالیه، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640058"
+    },
+    {
+      "english": "You made my day, thanks!",
+      "persian": "روزمو ساختی، ممنون!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640060"
+    },
+    {
+      "english": "So grateful for your help.",
+      "persian": "خیلی ممنونم از کمکت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640063"
+    },
+    {
+      "english": "That was very generous.",
+      "persian": "خیلی سخاوتمندانه بود.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640064"
+    },
+    {
+      "english": "I owe you big time.",
+      "persian": "خیلی به گردن من داری.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640065"
+    },
+    {
+      "english": "Thanks for the thought.",
+      "persian": "ممنون بابت فکره.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640067"
+    },
+    {
+      "english": "You're too good to me.",
+      "persian": "خیلی به من خوبی کردی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640069"
+    },
+    {
+      "english": "I'm so thankful for this.",
+      "persian": "خیلی از این بابت سپاسگزارم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640070"
+    },
+    {
+      "english": "What a great help, thank you.",
+      "persian": "چه کمک بزرگی، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640072"
+    },
+    {
+      "english": "Thanks for your understanding.",
+      "persian": "ممنون بابت درکت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640073"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "persian": "تو دوست واقعی منی، ممنون.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640074"
+    },
+    {
+      "english": "I really appreciate your patience.",
+      "persian": "واقعاً از صبوری شما ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640076"
+    },
+    {
+      "english": "Thanks for everything, seriously.",
+      "persian": "ممنون بابت همه چیز، جدی میگم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640077"
+    },
+    {
+      "english": "That's incredibly helpful, thanks.",
+      "persian": "این خیلی مفیده، ممنون.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640079"
+    },
+    {
+      "english": "You made it so easy, thanks.",
+      "persian": "خیلی راحتش کردی، ممنون.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640080"
+    },
+    {
+      "english": "Thanks for thinking of me.",
+      "persian": "ممنون که به فکرم بودی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640082"
+    },
+    {
+      "english": "I'm truly grateful, thanks.",
+      "persian": "واقعاً سپاسگزارم، ممنون.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640085"
+    },
+    {
+      "english": "May I ask, what do you think?",
+      "persian": "میشه بپرسم، نظرتون چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640086"
+    },
+    {
+      "english": "How can I help you back?",
+      "persian": "چطور میتونم جبران کنم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640088"
+    },
+    {
+      "english": "What's your best advice on this?",
+      "persian": "بهترین نصیحتتون چیه در این مورد؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640089"
+    },
+    {
+      "english": "Do you have a moment, please?",
+      "persian": "یک لحظه وقت دارید، لطفا؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640091"
+    },
+    {
+      "english": "Could you explain that again?",
+      "persian": "میشه دوباره توضیح بدید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640093"
+    },
+    {
+      "english": "Is there anything else I can do?",
+      "persian": "کار دیگه‌ای هست که براتون انجام بدم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640094"
+    },
+    {
+      "english": "What do you suggest for dinner?",
+      "persian": "برای شام چی پیشنهاد میدید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640096"
+    },
+    {
+      "english": "Can we discuss this later?",
+      "persian": "میشه بعدا در موردش صحبت کنیم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640097"
+    },
+    {
+      "english": "How was your trip, by the way?",
+      "persian": "سفرتون چطور بود، راستی؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640099"
+    },
+    {
+      "english": "What are your thoughts on this idea?",
+      "persian": "نظرتون در مورد این ایده چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640100"
+    },
+    {
+      "english": "Could you show me how, please?",
+      "persian": "میشه بهم نشون بدید چطور، لطفا؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640102"
+    },
+    {
+      "english": "What do you recommend I read?",
+      "persian": "چی رو پیشنهاد میدید بخونم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640103"
+    },
+    {
+      "english": "Did you need any help with that?",
+      "persian": "برای اون کمکی لازم داشتید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640106"
+    },
+    {
+      "english": "What's the best way to learn?",
+      "persian": "بهترین راه یادگیری چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640108"
+    },
+    {
+      "english": "Can I ask a quick question?",
+      "persian": "میشه یه سوال سریع بپرسم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640109"
+    },
+    {
+      "english": "What's your opinion on the matter?",
+      "persian": "نظر شما در این مورد چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640112"
+    },
+    {
+      "english": "How did you learn this skill?",
+      "persian": "این مهارت رو چطور یاد گرفتید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640113"
+    },
+    {
+      "english": "Can you give me some pointers?",
+      "persian": "میشه چند تا نکته بهم بگید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640115"
+    },
+    {
+      "english": "What do you think is missing?",
+      "persian": "به نظرتون چی کمه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640116"
+    },
+    {
+      "english": "Is this a good time to chat?",
+      "persian": "الان وقت خوبیه برای صحبت؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640117"
+    },
+    {
+      "english": "What's your take on the situation?",
+      "persian": "دیدگاه شما در مورد این وضعیت چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640119"
+    },
+    {
+      "english": "Could you lend me a hand, please?",
+      "persian": "میشه لطفا کمکم کنید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640120"
+    },
+    {
+      "english": "What's the plan for tomorrow?",
+      "persian": "برنامه فردا چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640122"
+    },
+    {
+      "english": "Can I get your input on this?",
+      "persian": "میشه نظرتون رو در این مورد بدونم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640123"
+    },
+    {
+      "english": "How did you solve that problem?",
+      "persian": "اون مشکل رو چطور حل کردید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640125"
+    },
+    {
+      "english": "What do you feel about this change?",
+      "persian": "در مورد این تغییر چه احساسی دارید؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640126"
+    },
+    {
+      "english": "Can we brainstorm some ideas?",
+      "persian": "میشه چند تا ایده رو با هم مرور کنیم؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640128"
+    },
+    {
+      "english": "What's your favorite part of this?",
+      "persian": "قسمت مورد علاقه شما در این چیه؟",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640129"
+    },
+    {
+      "english": "Your encouragement means a lot.",
+      "persian": "حمایت تو خیلی ارزش داره.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640131"
+    },
+    {
+      "english": "You always see the best in me.",
+      "persian": "تو همیشه بهترین منو می‌بینی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640132"
+    },
+    {
+      "english": "Your positive energy is inspiring.",
+      "persian": "انرژی مثبتت الهام‌بخشه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640134"
+    },
+    {
+      "english": "This is such a good mindset.",
+      "persian": "چه طرز فکری عالیه!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640136"
+    },
+    {
+      "english": "You're a real motivator.",
+      "persian": "تو یه انگیزه‌دهنده واقعی هستی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640138"
+    },
+    {
+      "english": "I admire your optimism.",
+      "persian": "خوش‌بینی تو رو تحسین می‌کنم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640139"
+    },
+    {
+      "english": "That's a fantastic idea!",
+      "persian": "چه ایده فوق‌العاده‌ای!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640140"
+    },
+    {
+      "english": "You make things brighter.",
+      "persian": "تو همه چیز رو روشن‌تر می‌کنی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640142"
+    },
+    {
+      "english": "Your faith is inspiring.",
+      "persian": "باور تو الهام‌بخشه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640143"
+    },
+    {
+      "english": "What a brilliant perspective!",
+      "persian": "چه دیدگاه درخشانی!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640144"
+    },
+    {
+      "english": "You have a great attitude.",
+      "persian": "نگرش خیلی خوبی داری.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640146"
+    },
+    {
+      "english": "This effort is commendable.",
+      "persian": "این تلاش قابل تقدیره.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640149"
+    },
+    {
+      "english": "That's very thoughtful, thank you.",
+      "persian": "خیلی با فکر بودی، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640150"
+    },
+    {
+      "english": "Your belief lifts me up.",
+      "persian": "اعتقاد تو منو بالا می‌بره.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640151"
+    },
+    {
+      "english": "Keep that positive outlook.",
+      "persian": "اون دید مثبت رو حفظ کن.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640153"
+    },
+    {
+      "english": "You really boost my confidence.",
+      "persian": "تو واقعا اعتماد به نفسم رو زیاد می‌کنی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640154"
+    },
+    {
+      "english": "Such a wonderful attitude!",
+      "persian": "چه نگرش فوق‌العاده‌ای!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640155"
+    },
+    {
+      "english": "Your kindness is a gift.",
+      "persian": "مهربونی تو یه هدیه است.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640157"
+    },
+    {
+      "english": "You make a big difference.",
+      "persian": "تو یه تفاوت بزرگ ایجاد می‌کنی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640158"
+    },
+    {
+      "english": "This is truly motivating.",
+      "persian": "این واقعا انگیزه‌بخشه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640160"
+    },
+    {
+      "english": "You inspire me to try harder.",
+      "persian": "تو منو تشویق می‌کنی بیشتر تلاش کنم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640161"
+    },
+    {
+      "english": "That’s a smart way to think.",
+      "persian": "این یه روش هوشمندانه برای فکره.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640163"
+    },
+    {
+      "english": "Your support means everything.",
+      "persian": "حمایت تو همه چیزه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640164"
+    },
+    {
+      "english": "You’re doing great, keep going.",
+      "persian": "عالی پیش میری، ادامه بده.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640166"
+    },
+    {
+      "english": "What a positive outlook!",
+      "persian": "چه دیدگاه مثبتی!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640167"
+    },
+    {
+      "english": "Your effort is recognized.",
+      "persian": "تلاشت دیده می‌شه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640169"
+    },
+    {
+      "english": "I'm really touched, thank you.",
+      "persian": "خیلی احساساتی شدم، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640170"
+    },
+    {
+      "english": "Your patience means a lot.",
+      "persian": "صبوری شما، خیلی ارزشمنده.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640172"
+    },
+    {
+      "english": "This truly humbles me.",
+      "persian": "این واقعاً من رو متواضع می‌کنه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640173"
+    },
+    {
+      "english": "I appreciate your understanding.",
+      "persian": "درک شما رو قدر می‌دونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640174"
+    },
+    {
+      "english": "You gave me hope, thank you.",
+      "persian": "بهم امید دادی، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640176"
+    },
+    {
+      "english": "My heart is full of thanks.",
+      "persian": "دلم پر از سپاسگزاریه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640177"
+    },
+    {
+      "english": "I feel a deep gratitude.",
+      "persian": "احساس عمیق سپاس دارم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640178"
+    },
+    {
+      "english": "This feeling is incredible.",
+      "persian": "این حس، باورنکردنیه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640180"
+    },
+    {
+      "english": "You've made me reflect.",
+      "persian": "باعث شدی فکر کنم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640181"
+    },
+    {
+      "english": "I'm honestly grateful for this.",
+      "persian": "صادقانه از این ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640184"
+    },
+    {
+      "english": "Your kindness stays with me.",
+      "persian": "لطف شما با من می‌مونه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640185"
+    },
+    {
+      "english": "I'm thankful for the lesson.",
+      "persian": "از این درس سپاسگزارم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640188"
+    },
+    {
+      "english": "This experience is precious.",
+      "persian": "این تجربه، گران‌بهاست.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640189"
+    },
+    {
+      "english": "You helped me see clearly.",
+      "persian": "کمک کردی واضح ببینم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640191"
+    },
+    {
+      "english": "I truly value your help.",
+      "persian": "واقعاً کمکت رو ارزشمند می‌دونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640192"
+    },
+    {
+      "english": "This moment means so much.",
+      "persian": "این لحظه خیلی مهمه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640193"
+    },
+    {
+      "english": "I feel so much better now.",
+      "persian": "الان خیلی احساس بهتری دارم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640194"
+    },
+    {
+      "english": "Your support is felt deeply.",
+      "persian": "حمایتت رو عمیقاً حس می‌کنم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640196"
+    },
+    {
+      "english": "I'm grateful for your presence.",
+      "persian": "از بودنت سپاسگزارم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640197"
+    },
+    {
+      "english": "This connection is special.",
+      "persian": "این ارتباط خاصه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640198"
+    },
+    {
+      "english": "You made a real difference.",
+      "persian": "واقعاً تأثیرگذار بودی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640200"
+    },
+    {
+      "english": "This encourages me greatly.",
+      "persian": "این خیلی من رو تشویق می‌کنه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640201"
+    },
+    {
+      "english": "Your wisdom is appreciated.",
+      "persian": "خردمندی شما ارزشمنده.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640202"
+    },
+    {
+      "english": "I'm filled with thankfulness.",
+      "persian": "پر از تشکر هستم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640204"
+    },
+    {
+      "english": "This means the world to me.",
+      "persian": "این دنیا به من معنی می‌ده.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640205"
+    },
+    {
+      "english": "You showed me a new way.",
+      "persian": "راه تازه‌ای رو بهم نشون دادی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640206"
+    },
+    {
+      "english": "My gratitude runs deep.",
+      "persian": "سپاسگزاری من عمیقه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640209"
+    },
+    {
+      "english": "This is more than enough.",
+      "persian": "این از صدقه سری شماست.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640210"
+    },
+    {
+      "english": "What a great idea, thanks!",
+      "persian": "چه ایده خوبی، ممنونم!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640211"
+    },
+    {
+      "english": "Thanks for explaining that.",
+      "persian": "ممنون که اینو توضیح دادی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640213"
+    },
+    {
+      "english": "This advice is helpful, thanks.",
+      "persian": "این نصیحت مفیده، مرسی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640214"
+    },
+    {
+      "english": "I appreciate the quick help.",
+      "persian": "از کمک سریع‌تون ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640215"
+    },
+    {
+      "english": "This solution works perfectly.",
+      "persian": "این راه حل عالی جواب داد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640217"
+    },
+    {
+      "english": "I'm glad you thought of this.",
+      "persian": "خوشحالم که اینو به فکرت رسید.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640218"
+    },
+    {
+      "english": "Your suggestion really helped.",
+      "persian": "پیشنهادت واقعا کمک کرد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640219"
+    },
+    {
+      "english": "Thank you for being patient.",
+      "persian": "ممنون که صبور بودی.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640221"
+    },
+    {
+      "english": "I'm thankful for your time.",
+      "persian": "از وقتی که گذاشتی، ممنونم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640223"
+    },
+    {
+      "english": "You found the best way, thanks.",
+      "persian": "بهترین راهو پیدا کردی، ممنون.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640225"
+    },
+    {
+      "english": "This makes things much easier.",
+      "persian": "این کارو خیلی راحت‌تر کرد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T08:28:42.640226"
     }
   ],
-  "last_updated": "2026-10-21T08:26:28.122238"
+  "last_updated": "2026-10-22T08:28:42.640227"
 }
