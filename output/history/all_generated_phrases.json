@@ -4319,7 +4319,727 @@
       "persian": "این کارو خیلی راحت‌تر کرد.",
       "category": "Gratitude",
       "generated_at": "2026-10-22T08:28:42.640226"
+    },
+    {
+      "english": "Hello, can you hear me?",
+      "persian": "سلام، صدامو داری؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391960"
+    },
+    {
+      "english": "Yes, I can hear you well.",
+      "persian": "آره، خوب می‌شنوم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391975"
+    },
+    {
+      "english": "I'm calling to ask about...",
+      "persian": "زنگ زدم بپرسم در مورد...",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391979"
+    },
+    {
+      "english": "What's your number again?",
+      "persian": "شماره‌ات دوباره چند بود؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391983"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "persian": "میشه لطفاً تکرار کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391986"
+    },
+    {
+      "english": "I didn't quite catch that.",
+      "persian": "درست متوجه نشدم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391989"
+    },
+    {
+      "english": "I'll call you back later.",
+      "persian": "بعداً بهت زنگ می‌زنم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391992"
+    },
+    {
+      "english": "I'm on my way.",
+      "persian": "من دارم میام.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.391997"
+    },
+    {
+      "english": "Just checking in.",
+      "persian": "فقط خواستم خبری بگیرم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392000"
+    },
+    {
+      "english": "Did you get my message?",
+      "persian": "پیاممو گرفتی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392003"
+    },
+    {
+      "english": "Yes, I saw it.",
+      "persian": "آره، دیدمش.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392006"
+    },
+    {
+      "english": "I'm running late.",
+      "persian": "دیرم شده.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392009"
+    },
+    {
+      "english": "What time is it there?",
+      "persian": "اونجا ساعت چنده؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392011"
+    },
+    {
+      "english": "It's a bit noisy here.",
+      "persian": "اینجا یه کم سر و صدا داره.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392014"
+    },
+    {
+      "english": "Can you speak up, please?",
+      "persian": "میشه صداتو بلند کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392017"
+    },
+    {
+      "english": "I need to go now.",
+      "persian": "من دیگه باید برم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392021"
+    },
+    {
+      "english": "Talk to you soon.",
+      "persian": "به زودی حرف می‌زنیم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392023"
+    },
+    {
+      "english": "My phone died.",
+      "persian": "گوشیم شارژش تموم شد.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392026"
+    },
+    {
+      "english": "What's happening?",
+      "persian": "چه خبر؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392029"
+    },
+    {
+      "english": "Nothing much, you?",
+      "persian": "چیزی خاصی، تو چطور؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392031"
+    },
+    {
+      "english": "I'm a little lost.",
+      "persian": "یه کم گم شدم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392034"
+    },
+    {
+      "english": "Can you guide me?",
+      "persian": "میتونی راهنماییم کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392036"
+    },
+    {
+      "english": "Is the line clear?",
+      "persian": "خط صافه؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392039"
+    },
+    {
+      "english": "I'm losing you.",
+      "persian": "صدات قطع و وصل میشه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392043"
+    },
+    {
+      "english": "Send me the address.",
+      "persian": "آدرسو برام بفرست.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392046"
+    },
+    {
+      "english": "I'll text you.",
+      "persian": "برات پیامک می‌فرستم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392048"
+    },
+    {
+      "english": "Call me when you arrive.",
+      "persian": "رسیدی خبرم کن.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392053"
+    },
+    {
+      "english": "What's up?",
+      "persian": "چه خبر؟ اوضاع چطوره؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392056"
+    },
+    {
+      "english": "Are you free to chat, for a bit?",
+      "persian": "کمی وقت داری صحبت کنیم؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392059"
+    },
+    {
+      "english": "What do you think, about this idea?",
+      "persian": "نظرت درباره این ایده چیست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392061"
+    },
+    {
+      "english": "Can you suggest, a good place?",
+      "persian": "می‌توانی یک جای خوب پیشنهاد دهی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392064"
+    },
+    {
+      "english": "Is everything okay, on your end?",
+      "persian": "همه چیز از سمت تو خوب است؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392067"
+    },
+    {
+      "english": "What's the plan, for tonight?",
+      "persian": "برنامه امشب چیست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392070"
+    },
+    {
+      "english": "Where should we meet, exactly?",
+      "persian": "دقیقا کجا همدیگر را ببینیم؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392073"
+    },
+    {
+      "english": "What time works, best for you?",
+      "persian": "چه ساعتی برای تو بهتر است؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392076"
+    },
+    {
+      "english": "How was your day, so far?",
+      "persian": "روزت تا الان چطور بود؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392079"
+    },
+    {
+      "english": "Can you recommend, a good movie?",
+      "persian": "می‌توانی یک فیلم خوب پیشنهاد کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392081"
+    },
+    {
+      "english": "What's your opinion, about this?",
+      "persian": "نظر تو در این باره چیست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392084"
+    },
+    {
+      "english": "Can you confirm, the details please?",
+      "persian": "لطفا جزئیات را تایید می‌کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392087"
+    },
+    {
+      "english": "What's new, with you lately?",
+      "persian": "این اواخر چه خبر داری؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392090"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "persian": "این آخر هفته وقت داری؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392093"
+    },
+    {
+      "english": "Can you explain, this part again?",
+      "persian": "می‌توانی این قسمت را دوباره توضیح دهی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392097"
+    },
+    {
+      "english": "What do you feel, like doing?",
+      "persian": "دوست داری چه کار کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392100"
+    },
+    {
+      "english": "Did you hear, the latest news?",
+      "persian": "آخرین خبر را شنیدی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392102"
+    },
+    {
+      "english": "What are we waiting, for exactly?",
+      "persian": "دقیقا منتظر چه چیزی هستیم؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392105"
+    },
+    {
+      "english": "What's the situation, over there?",
+      "persian": "وضعیت آنجا چطور است؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392108"
+    },
+    {
+      "english": "Should we postpone, this meeting?",
+      "persian": "باید این جلسه را به تعویق بیندازیم؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392111"
+    },
+    {
+      "english": "What's your take, on this matter?",
+      "persian": "دیدگاه تو در این مورد چیست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392115"
+    },
+    {
+      "english": "Are you coming, to the party?",
+      "persian": "به مهمانی می‌آیی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392118"
+    },
+    {
+      "english": "Can you send, me the link please?",
+      "persian": "لطفا لینک را برایم بفرست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392121"
+    },
+    {
+      "english": "You always make me smile, truly.",
+      "persian": "تو همیشه منو واقعا می‌خندی.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392124"
+    },
+    {
+      "english": "Your energy is infectious, wow!",
+      "persian": "انرژی تو مسریه، واو!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392127"
+    },
+    {
+      "english": "Keep believing, you've got this.",
+      "persian": "باور کن، تو می‌تونی.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392130"
+    },
+    {
+      "english": "You're doing so great, honestly.",
+      "persian": "واقعا عالی پیش میری، حقا.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392135"
+    },
+    {
+      "english": "This is a great start, for sure.",
+      "persian": "این شروع عالیه، قطعا.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392138"
+    },
+    {
+      "english": "Your ideas are brilliant, really.",
+      "persian": "ایده‌هات واقعا درخشانه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392140"
+    },
+    {
+      "english": "Stay positive, even when tough.",
+      "persian": "مثبت باش، حتی وقتی سخته.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392143"
+    },
+    {
+      "english": "You inspire me, a lot.",
+      "persian": "خیلی بهم انگیزه میدی.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392146"
+    },
+    {
+      "english": "Never doubt yourself, ever.",
+      "persian": "هیچوقت به خودت شک نکن.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392148"
+    },
+    {
+      "english": "You handled that perfectly.",
+      "persian": "عالی از پسش بر اومدی.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392151"
+    },
+    {
+      "english": "Your perspective is so unique.",
+      "persian": "دیدگاه تو خیلی خاصه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392153"
+    },
+    {
+      "english": "You've overcome so much, wow.",
+      "persian": "خیلی سختی‌ها رو پشت سر گذاشتی، واو.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392156"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "persian": "اراده‌ات قابل تحسینه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392159"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "persian": "همیشه به پتانسیلت باور داشته باش.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392162"
+    },
+    {
+      "english": "You make challenges seem easy.",
+      "persian": "چالش‌ها رو برات راحت نشون میده.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392164"
+    },
+    {
+      "english": "Your positive outlook helps me.",
+      "persian": "نگاه مثبت تو کمکم می‌کنه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392167"
+    },
+    {
+      "english": "I'm proud of your progress.",
+      "persian": "به پیشرفتت افتخار می‌کنم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392170"
+    },
+    {
+      "english": "Keep pushing forward, bravely.",
+      "persian": "شجاعانه به جلو برو.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392173"
+    },
+    {
+      "english": "This calls for a celebration!",
+      "persian": "این خودش جشن داره!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392175"
+    },
+    {
+      "english": "Every step counts, really.",
+      "persian": "هر قدم مهمه، واقعا.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392178"
+    },
+    {
+      "english": "Your effort is much appreciated.",
+      "persian": "خیلی برای تلاشت ارزش قائلم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392180"
+    },
+    {
+      "english": "You're a true inspiration, honestly.",
+      "persian": "واقعا یه الگوی حقیقی هستی.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392183"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "persian": "سفر رو در آغوش بگیر، لذت ببر.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392186"
+    },
+    {
+      "english": "Hold on a sec, please.",
+      "persian": "یه لحظه، لطفاً صبر کن.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392189"
+    },
+    {
+      "english": "Is this a bad time?",
+      "persian": "وقت بدی است؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392191"
+    },
+    {
+      "english": "The line is breaking up.",
+      "persian": "خط دارد قطع و وصل می‌شود.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392194"
+    },
+    {
+      "english": "Just wanted to check in.",
+      "persian": "فقط خواستم حالتان را بپرسم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392197"
+    },
+    {
+      "english": "What's the latest, news?",
+      "persian": "آخرین خبر چیست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392199"
+    },
+    {
+      "english": "Let's play it by ear.",
+      "persian": "بگذار ببینیم چه پیش می‌آید.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392202"
+    },
+    {
+      "english": "Talk to you later, then.",
+      "persian": "بعداً با تو صحبت می‌کنم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392208"
+    },
+    {
+      "english": "Don't hang up, please.",
+      "persian": "لطفاً قطع نکن.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392210"
+    },
+    {
+      "english": "It's cutting out, badly.",
+      "persian": "خیلی بد قطع می‌شود.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392213"
+    },
+    {
+      "english": "What's the buzz, around?",
+      "persian": "چه خبری هست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392218"
+    },
+    {
+      "english": "Let's touch base, soon.",
+      "persian": "به زودی در تماس باشیم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392221"
+    },
+    {
+      "english": "I'm all ears, right now.",
+      "persian": "کاملاً گوش می‌دهم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392224"
+    },
+    {
+      "english": "Can you put them, on?",
+      "persian": "می‌توانی آنها را وصل کنی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392226"
+    },
+    {
+      "english": "I'll drop you a line.",
+      "persian": "به تو خبر می‌دهم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392229"
+    },
+    {
+      "english": "Is the coast clear?",
+      "persian": "اوضاع آرام است؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392232"
+    },
+    {
+      "english": "Let's sync up, later.",
+      "persian": "بعداً هماهنگ کنیم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392235"
+    },
+    {
+      "english": "I'll be there in, five.",
+      "persian": "پنج دقیقه دیگر آنجا هستم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392237"
+    },
+    {
+      "english": "What's the word, on the street?",
+      "persian": "چه صحبت‌هایی هست؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392240"
+    },
+    {
+      "english": "Can you ping me, later?",
+      "persian": "می‌توانی بعداً به من پیام دهی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392243"
+    },
+    {
+      "english": "Hold the line, for me.",
+      "persian": "برایم خط را نگه دار.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392245"
+    },
+    {
+      "english": "Just a quick, hello.",
+      "persian": "فقط یک سلام کوتاه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392248"
+    },
+    {
+      "english": "Are you on WiFi, now?",
+      "persian": "الان در وای‌فای هستی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392250"
+    },
+    {
+      "english": "Let's pick this up, later.",
+      "persian": "بعداً این بحث را ادامه دهیم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392253"
+    },
+    {
+      "english": "The signal is weak, here.",
+      "persian": "آنتن اینجا ضعیف است.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392256"
+    },
+    {
+      "english": "I've been thinking, a lot about this.",
+      "persian": "خیلی درباره این موضوع فکر کردم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392259"
+    },
+    {
+      "english": "This situation, requires patience.",
+      "persian": "این وضعیت، صبر می‌طلبد.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392262"
+    },
+    {
+      "english": "Honestly, I was a bit worried.",
+      "persian": "راستش، کمی نگران بودم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392265"
+    },
+    {
+      "english": "What's on your mind, lately?",
+      "persian": "این روزها، تو فکرت چیه؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392268"
+    },
+    {
+      "english": "I feel a deep connection, here.",
+      "persian": "یک حس عمیق، اینجا دارم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392270"
+    },
+    {
+      "english": "This message, means a lot.",
+      "persian": "این پیام، خیلی ارزش داره.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392273"
+    },
+    {
+      "english": "Let's talk, when you're free.",
+      "persian": "وقتی آزاد بودی، حرف بزنیم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392280"
+    },
+    {
+      "english": "This reminds me, of something.",
+      "persian": "این من رو یاد یه چیزی میندازه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392283"
+    },
+    {
+      "english": "My heart feels, a bit heavy.",
+      "persian": "دلم یه کم گرفته.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392286"
+    },
+    {
+      "english": "Can we discuss, this calmly?",
+      "persian": "می‌تونیم اینو آروم صحبت کنیم؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392290"
+    },
+    {
+      "english": "I need some time, to process.",
+      "persian": "به کمی وقت، نیاز دارم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392293"
+    },
+    {
+      "english": "This call, brings me peace.",
+      "persian": "این تماس، بهم آرامش میده.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392296"
+    },
+    {
+      "english": "I'm reflecting, on our talk.",
+      "persian": "دارم به حرف‌هامون فکر می‌کنم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392299"
+    },
+    {
+      "english": "Your words, deeply touched me.",
+      "persian": "حرف‌هات، عمیقاً من رو تحت تأثیر قرار داد.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392304"
+    },
+    {
+      "english": "This journey, requires inner strength.",
+      "persian": "این سفر، قدرت درونی می‌خواد.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392307"
+    },
+    {
+      "english": "I feel understood, now.",
+      "persian": "الان احساس می‌کنم درک شدم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392309"
+    },
+    {
+      "english": "Can you give me, honest feedback?",
+      "persian": "می‌تونی صادقانه بازخورد بدی؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392312"
+    },
+    {
+      "english": "This conversation, was needed.",
+      "persian": "این مکالمه، لازم بود.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392315"
+    },
+    {
+      "english": "I'm trying to be, more open.",
+      "persian": "دارم سعی می‌کنم، راحت‌تر باشم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392318"
+    },
+    {
+      "english": "This requires, genuine effort.",
+      "persian": "این، تلاش واقعی می‌طلبه.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392320"
+    },
+    {
+      "english": "I'm learning, to be patient.",
+      "persian": "دارم یاد می‌گیرم، صبور باشم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392323"
+    },
+    {
+      "english": "How does this, make you feel?",
+      "persian": "این چه حسی بهت میده؟",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392326"
+    },
+    {
+      "english": "I need to reflect, quietly.",
+      "persian": "باید در سکوت، فکر کنم.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-23T08:25:14.392328"
     }
   ],
-  "last_updated": "2026-10-22T08:28:42.640227"
+  "last_updated": "2026-10-23T08:25:14.392330"
 }
