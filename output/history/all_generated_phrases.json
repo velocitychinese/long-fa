@@ -5039,7 +5039,727 @@
       "persian": "باید در سکوت، فکر کنم.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-23T08:25:14.392328"
+    },
+    {
+      "english": "What's up?, anything new?",
+      "persian": "چه خبر؟ اوضاع چطوره؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437779"
+    },
+    {
+      "english": "Seriously?, no way!",
+      "persian": "جدی میگی؟ امکان نداره!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437793"
+    },
+    {
+      "english": "I'm starving, let's eat!",
+      "persian": "از گشنگی مردم، بیا غذا بخوریم!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437797"
+    },
+    {
+      "english": "It's so hot, I'm melting!",
+      "persian": "وای چقدر گرمه، دارم آب میشم!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437801"
+    },
+    {
+      "english": "I'm tired, totally wiped out.",
+      "persian": "خسته ام، دیگه جون ندارم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437804"
+    },
+    {
+      "english": "What do you mean?, explain.",
+      "persian": "منظورت چیه؟ توضیح بده.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437809"
+    },
+    {
+      "english": "That's awesome!, so cool.",
+      "persian": "عالیه! خیلی باحاله.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437813"
+    },
+    {
+      "english": "Don't worry, it'll be fine.",
+      "persian": "نگران نباش، درست میشه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437818"
+    },
+    {
+      "english": "I'm bored, nothing to do.",
+      "persian": "حوصلم سر رفته، کاری نیست.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437822"
+    },
+    {
+      "english": "Let's go!, hurry up.",
+      "persian": "بریم دیگه! زود باش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437826"
+    },
+    {
+      "english": "I have no idea, maybe.",
+      "persian": "نمیدونم، شاید.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437828"
+    },
+    {
+      "english": "It's okay, no problem.",
+      "persian": "اشکال نداره، مشکلی نیست.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437831"
+    },
+    {
+      "english": "Are you kidding me?, unbelievable.",
+      "persian": "شوخی میکنی؟ باورنکردنیه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437834"
+    },
+    {
+      "english": "I'm busy, can't talk now.",
+      "persian": "کار دارم، الان نمیتونم حرف بزنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437837"
+    },
+    {
+      "english": "That's too much!, unbelievable.",
+      "persian": "خیلی زیاده! غیرقابل تصوره.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437840"
+    },
+    {
+      "english": "I'm so happy, yay!",
+      "persian": "خیلی خوشحالم، یوهو!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437843"
+    },
+    {
+      "english": "It's cold, brrr!",
+      "persian": "هوا سرده، اووف!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437847"
+    },
+    {
+      "english": "What's happening?, what's going on?",
+      "persian": "چی شده؟ چه خبره؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437851"
+    },
+    {
+      "english": "I'm full, no more food.",
+      "persian": "سیر شدم، دیگه جا ندارم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437854"
+    },
+    {
+      "english": "That's silly, ridiculous.",
+      "persian": "این مسخره است، خنده داره.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437857"
+    },
+    {
+      "english": "I'm sleepy, wanna nap.",
+      "persian": "خوابم میاد، میخوام چرت بزنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437859"
+    },
+    {
+      "english": "Let's hang out, wanna meet?",
+      "persian": "بیا دور هم باشیم، میخوای ببینیم؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437864"
+    },
+    {
+      "english": "What a mess!, so chaotic.",
+      "persian": "چه وضعیتی! خیلی شلوغه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437867"
+    },
+    {
+      "english": "I'm confused, I don't get it.",
+      "persian": "گیج شدم، نمیفهمم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437870"
+    },
+    {
+      "english": "That's enough, stop it.",
+      "persian": "کافیه دیگه، بس کن.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437874"
+    },
+    {
+      "english": "It's raining, stay inside.",
+      "persian": "داره بارون میاد، خونه بمون.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437877"
+    },
+    {
+      "english": "I'm broke, no money.",
+      "persian": "ورشکست شدم، پول ندارم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437880"
+    },
+    {
+      "english": "That's unbelievable!, wow.",
+      "persian": "باورم نمیشه! وای.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437883"
+    },
+    {
+      "english": "Let's chill, relax a bit.",
+      "persian": "بیا ریلکس کنیم، یه کم استراحت.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437885"
+    },
+    {
+      "english": "I'm hungry, need food.",
+      "persian": "گرسنمه، یه چیزی بخورم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437888"
+    },
+    {
+      "english": "What's the latest?, anything new?",
+      "persian": "چه خبر؟, اوضاع چطوره؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437891"
+    },
+    {
+      "english": "Can you tell me?, what's your take?",
+      "persian": "می‌تونی بهم بگی؟, نظر تو چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437894"
+    },
+    {
+      "english": "How's it going?, what's happening?",
+      "persian": "چطوری پیش میره؟, قضیه چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437898"
+    },
+    {
+      "english": "What do you think?, any advice?",
+      "persian": "فکر می‌کنی چی؟, مشورتی داری؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437901"
+    },
+    {
+      "english": "Got any plans?, what's the deal?",
+      "persian": "برنامه‌ای داری؟, قضیه چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437904"
+    },
+    {
+      "english": "What's the story?, what's the news?",
+      "persian": "ماجرا چیه؟, خبر جدید چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437907"
+    },
+    {
+      "english": "Do you know?, any clue?",
+      "persian": "می‌دونی؟, سرنخی داری؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437910"
+    },
+    {
+      "english": "What's up with that?, tell me more.",
+      "persian": "اون قضیه چیه؟, بیشتر بگو.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437914"
+    },
+    {
+      "english": "Can you help me?, need your input.",
+      "persian": "می‌تونی کمکم کنی؟, نیاز به کمکت دارم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437917"
+    },
+    {
+      "english": "What do you reckon?, what's your guess?",
+      "persian": "به نظرت چیه؟, حدست چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437920"
+    },
+    {
+      "english": "What's the plan?, what's the idea?",
+      "persian": "نقشه چیه؟, ایده چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437923"
+    },
+    {
+      "english": "What's the scoop?, any gossip?",
+      "persian": "خبر داغ چیه؟, غیبت داریم؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437927"
+    },
+    {
+      "english": "What's the situation?, how are things?",
+      "persian": "وضعیت چطوره؟, اوضاع چجوریه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437929"
+    },
+    {
+      "english": "Can you explain?, what's the logic?",
+      "persian": "می‌تونی توضیح بدی؟, منطقش چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437932"
+    },
+    {
+      "english": "What's the verdict?, what's the decision?",
+      "persian": "حکم چیه؟, تصمیم چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437935"
+    },
+    {
+      "english": "What's your input?, what's your idea?",
+      "persian": "نظر تو چیه؟, ایده‌ات چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437939"
+    },
+    {
+      "english": "What's the update?, anything changed?",
+      "persian": "آپدیت چیه؟, چیزی عوض شده؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437941"
+    },
+    {
+      "english": "What's the buzz?, what's the talk?",
+      "persian": "همه چی سر چیه؟, حرف حساب چیه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437944"
+    },
+    {
+      "english": "What's the deal here?, what's going on?",
+      "persian": "اینجا چه خبره؟, چه اتفاقی داره میفته؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437947"
+    },
+    {
+      "english": "Anything interesting?, anything new?",
+      "persian": "چیز جالبی هست؟, خبر جدیدی هست؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437950"
+    },
+    {
+      "english": "How about you?, what about your plans?",
+      "persian": "تو چطوری؟, برنامه‌های تو چطور؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437953"
+    },
+    {
+      "english": "What's the situation?, how's it going?",
+      "persian": "وضعیت چطوره؟, چطور پیش میره؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437956"
+    },
+    {
+      "english": "Can you give me some advice?, what should I do?",
+      "persian": "می‌تونی بهم مشاوره بدی؟, چیکار کنم؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437959"
+    },
+    {
+      "english": "What's the verdict on this?, what do you say?",
+      "persian": "حکم این چیه؟, تو چی میگی؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437962"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "persian": "ادامه بده، دست نکش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437965"
+    },
+    {
+      "english": "Great job, well done!",
+      "persian": "عالیه، دمت گرم!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437969"
+    },
+    {
+      "english": "Stay positive, think bright.",
+      "persian": "مثبت فکر کن، روشن ببین.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437972"
+    },
+    {
+      "english": "You're doing so well, really.",
+      "persian": "خیلی خوب پیش میری، واقعا.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437975"
+    },
+    {
+      "english": "That's the spirit, keep it up.",
+      "persian": "همین فرمون برو، ادامه بده.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437978"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "persian": "تسلیم نشو، نزدیک شدی.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437981"
+    },
+    {
+      "english": "Proud of you, truly.",
+      "persian": "بهت افتخار می‌کنم، واقعا.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437983"
+    },
+    {
+      "english": "Focus on the goal, aim high.",
+      "persian": "تمرکز کن رو هدف، بالا ببین.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437986"
+    },
+    {
+      "english": "Just a little more effort.",
+      "persian": "یه کم دیگه تلاش کن.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437989"
+    },
+    {
+      "english": "Your progress is amazing.",
+      "persian": "پیشرفتت فوق‌العاده‌ست.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437992"
+    },
+    {
+      "english": "You're on the right track.",
+      "persian": "داری راه درستو میری.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437994"
+    },
+    {
+      "english": "Never doubt your abilities.",
+      "persian": "هیچوقت به توانایی‌هات شک نکن.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.437997"
+    },
+    {
+      "english": "You make me proud, you know.",
+      "persian": "باعث افتخارمی، می‌دونی؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438000"
+    },
+    {
+      "english": "Keep that chin up, friend.",
+      "persian": "سرتو بگیر بالا، رفیق.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438002"
+    },
+    {
+      "english": "You can achieve anything.",
+      "persian": "هر کاری از دستت برمیاد.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438005"
+    },
+    {
+      "english": "Just keep pushing forward.",
+      "persian": "فقط برو جلو، هل بده.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438009"
+    },
+    {
+      "english": "That's brilliant, truly brilliant.",
+      "persian": "چه عالی، واقعا عالیه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438012"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "persian": "به من انگیزه میدی، راستشو بخوای.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438015"
+    },
+    {
+      "english": "Believe in your dreams.",
+      "persian": "به رویاهات ایمان داشته باش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438018"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "persian": "عالی کار می‌کنی، ادامه بده.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438020"
+    },
+    {
+      "english": "Don't let setbacks stop you.",
+      "persian": "نذار شکست‌ها متوقفت کنن.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438023"
+    },
+    {
+      "english": "You have so much potential.",
+      "persian": "خیلی پتانسیل داری.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438026"
+    },
+    {
+      "english": "Everything will be okay.",
+      "persian": "همه چی درست میشه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438028"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "persian": "هیچوقت خودتو دست کم نگیر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438031"
+    },
+    {
+      "english": "You're a winner, go for it.",
+      "persian": "تو یه برنده ای، برو سراغش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438033"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "persian": "متمرکز بمون، قوی بمون.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438036"
+    },
+    {
+      "english": "My heart feels heavy, you know?",
+      "persian": "دلم گرفته، می‌دونی؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438040"
+    },
+    {
+      "english": "This thought keeps nagging me.",
+      "persian": "این فکر، داره اذیتم می‌کنه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438043"
+    },
+    {
+      "english": "Sometimes, I just need to vent.",
+      "persian": "بعضی وقتا، فقط باید خالی کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438047"
+    },
+    {
+      "english": "It’s a tough pill to swallow, man.",
+      "persian": "سخته، یه لقمه‌ی گلوگیره، رفیق.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438051"
+    },
+    {
+      "english": "I'm trying to be more patient with myself.",
+      "persian": "سعی می‌کنم با خودم مهربون‌تر باشم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438054"
+    },
+    {
+      "english": "This is a real moment of truth.",
+      "persian": "این یه لحظه‌ی خیلی واقعی، راسته.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438056"
+    },
+    {
+      "english": "I feel a bit lost, honestly.",
+      "persian": "یه کم حس می‌کنم گم شدم، راستشو بخوای.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438059"
+    },
+    {
+      "english": "It's hard to stay optimistic sometimes.",
+      "persian": "گاهی سخته خوش‌بین موندن.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438062"
+    },
+    {
+      "english": "I'm just trying to figure things out.",
+      "persian": "فقط دارم سعی می‌کنم بفهمم چی به چیه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438065"
+    },
+    {
+      "english": "My mind is racing with thoughts.",
+      "persian": "ذهنم پر از فکره، داره می‌چرخه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438067"
+    },
+    {
+      "english": "This situation really tests my patience.",
+      "persian": "این وضعیت واقعاً صبرم رو می‌سنجد.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438070"
+    },
+    {
+      "english": "It's like a weight off my chest.",
+      "persian": "انگار یه باری از روی دوشم برداشته شد.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438073"
+    },
+    {
+      "english": "I’m genuinely feeling down today.",
+      "persian": "امروز واقعاً احساس ناراحتی می‌کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438076"
+    },
+    {
+      "english": "Just trying to find some peace within.",
+      "persian": "فقط دنبال یه آرامش درونم می‌گردم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438079"
+    },
+    {
+      "english": "This is making me think deeply.",
+      "persian": "این داره منو عمیقاً به فکر فرو می‌بره.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438081"
+    },
+    {
+      "english": "I'm struggling to express this feeling.",
+      "persian": "دارم تقلا می‌کنم این حس رو بیان کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438084"
+    },
+    {
+      "english": "It’s a complex emotion, really.",
+      "persian": "واقعاً یه حس پیچیده‌ست.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438088"
+    },
+    {
+      "english": "I need to let this go, somehow.",
+      "persian": "باید یه جوری اینو رها کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438090"
+    },
+    {
+      "english": "I’m questioning everything right now.",
+      "persian": "الان دارم به همه‌چی شک می‌کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438094"
+    },
+    {
+      "english": "This is a real emotional burden.",
+      "persian": "این یه بار سنگین عاطفیه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438096"
+    },
+    {
+      "english": "I’m learning to accept the uncertainty.",
+      "persian": "دارم یاد می‌گیرم عدم قطعیت رو قبول کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438100"
+    },
+    {
+      "english": "I need to be true to myself.",
+      "persian": "باید با خودم صادق باشم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438104"
+    },
+    {
+      "english": "It’s a journey of self-discovery.",
+      "persian": "این یه سفر کشف خودمه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438107"
+    },
+    {
+      "english": "This is really hitting home for me.",
+      "persian": "این واقعاً به دلم نشسته.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438110"
+    },
+    {
+      "english": "I'm embracing the quiet introspection.",
+      "persian": "دارم درونم‌گرایی ساکت رو بغل می‌کنم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438113"
+    },
+    {
+      "english": "This experience is quite humbling.",
+      "persian": "این تجربه واقعاً فروتن‌کننده‌ست.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438115"
+    },
+    {
+      "english": "So, what's the plan, man?",
+      "persian": "خب، نقشه چیه، رفیق؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438118"
+    },
+    {
+      "english": "Don't overthink it, just go.",
+      "persian": "زیادی فکر نکن، فقط برو.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438121"
+    },
+    {
+      "english": "This is a tough one, for sure.",
+      "persian": "این یکی سخته، حتماً.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438124"
+    },
+    {
+      "english": "My bad, I messed up, dude.",
+      "persian": "تقصیر منه، خراب کردم، داداش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438127"
+    },
+    {
+      "english": "Can you help me out, please?",
+      "persian": "می‌شه لطفا کمکم کنی؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438130"
+    },
+    {
+      "english": "This is gonna take a while.",
+      "persian": "این یه کم طول می‌کشه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438134"
+    },
+    {
+      "english": "Just hang in there, okay?",
+      "persian": "فقط تحمل کن، باشه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438137"
+    },
+    {
+      "english": "It's not a big deal, chill.",
+      "persian": "مهم نیست، راحت باش.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438140"
+    },
+    {
+      "english": "Did you get what I mean?",
+      "persian": "منظورمو گرفتی؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438142"
+    },
+    {
+      "english": "Let's grab some food later.",
+      "persian": "بیا بعداً یه چیزی بخوریم.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438145"
+    },
+    {
+      "english": "This is getting complicated, huh?",
+      "persian": "این داره پیچیده می‌شه، ها؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438148"
+    },
+    {
+      "english": "You gotta be kidding me.",
+      "persian": "داری شوخی می‌کنی.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438151"
+    },
+    {
+      "english": "This is kind of awkward, right?",
+      "persian": "یه کم ناجوره، نه؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438153"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "persian": "گیر نده به چیزای کوچیک.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-24T08:00:44.438156"
     }
   ],
-  "last_updated": "2026-10-23T08:25:14.392330"
+  "last_updated": "2026-10-24T08:00:44.438158"
 }
