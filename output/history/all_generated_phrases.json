@@ -6479,7 +6479,727 @@
       "persian": "یه کم برای فردا پس‌انداز کن.",
       "category": "Positive Life",
       "generated_at": "2026-10-25T08:17:27.798806"
+    },
+    {
+      "english": "Sorry, my bad.",
+      "persian": "ببخشید، تقصیر من بود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739878"
+    },
+    {
+      "english": "I apologize, truly.",
+      "persian": "صادقانه عذرخواهی می‌کنم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739893"
+    },
+    {
+      "english": "Please forgive me.",
+      "persian": "لطفاً مرا ببخش.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739896"
+    },
+    {
+      "english": "Can you overlook this?",
+      "persian": "می‌توانی از این چشم‌پوشی کنی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739898"
+    },
+    {
+      "english": "I didn't mean to.",
+      "persian": "قصد بدی نداشتم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739901"
+    },
+    {
+      "english": "It was a mistake.",
+      "persian": "اشتباه از من بود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739903"
+    },
+    {
+      "english": "Hope you can forgive.",
+      "persian": "امیدوارم ببخشی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739905"
+    },
+    {
+      "english": "Don't be angry, please.",
+      "persian": "عصبانی نباش، لطفاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739909"
+    },
+    {
+      "english": "I regret it deeply.",
+      "persian": "خیلی پشیمانم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739912"
+    },
+    {
+      "english": "Let it go, okay?",
+      "persian": "بی‌خیالش شو، باشه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739914"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "persian": "خرابش کردم، ببخشید.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739917"
+    },
+    {
+      "english": "My apologies for that.",
+      "persian": "بابت آن، پوزش می‌طلبم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739919"
+    },
+    {
+      "english": "Can we move past this?",
+      "persian": "می‌توانیم از این بگذریم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739921"
+    },
+    {
+      "english": "I promise, it won't happen again.",
+      "persian": "قول می‌دهم، دیگر تکرار نشود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739924"
+    },
+    {
+      "english": "Please accept my apology.",
+      "persian": "لطفاً عذرخواهی مرا بپذیر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739925"
+    },
+    {
+      "english": "I hope you're not too upset.",
+      "persian": "امیدوارم خیلی ناراحت نباشی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739928"
+    },
+    {
+      "english": "Forgive my ignorance.",
+      "persian": "نادانی مرا ببخش.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739930"
+    },
+    {
+      "english": "It was unintentional.",
+      "persian": "غیرعمدی بود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739931"
+    },
+    {
+      "english": "Can you give me another chance?",
+      "persian": "می‌توانی به من فرصت دوباره بدهی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739936"
+    },
+    {
+      "english": "I’m really sorry about it.",
+      "persian": "واقعاً متاسفم برای آن.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739938"
+    },
+    {
+      "english": "Please forget it.",
+      "persian": "لطفاً فراموشش کن.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739940"
+    },
+    {
+      "english": "I owe you an apology.",
+      "persian": "من به تو یک عذرخواهی بدهکارم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739944"
+    },
+    {
+      "english": "No hard feelings, right?",
+      "persian": "دلخوری نیست، درسته؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739946"
+    },
+    {
+      "english": "I was out of line.",
+      "persian": "از حد خودم تجاوز کردم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739948"
+    },
+    {
+      "english": "Please don't hold it against me.",
+      "persian": "لطفاً آن را به دل نگیر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739950"
+    },
+    {
+      "english": "Let's move on.",
+      "persian": "بیا جلو برویم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739953"
+    },
+    {
+      "english": "I hope we're still friends.",
+      "persian": "امیدوارم هنوز دوست باشیم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739957"
+    },
+    {
+      "english": "My mistake, entirely.",
+      "persian": "کاملاً اشتباه از من بود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739959"
+    },
+    {
+      "english": "Can you forgive this time?",
+      "persian": "این بار می‌توانی ببخشی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739961"
+    },
+    {
+      "english": "I'm truly sorry for the trouble.",
+      "persian": "واقعاً از بابت زحمت متاسفم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739963"
+    },
+    {
+      "english": "Did I upset you, maybe?",
+      "persian": "ناراحتت کردم، شاید؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739965"
+    },
+    {
+      "english": "What did I do wrong, tell me?",
+      "persian": "چی کار کردم اشتباه، بگو بهم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739968"
+    },
+    {
+      "english": "Is everything okay, between us?",
+      "persian": "همه چی خوبه، بین ما؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739970"
+    },
+    {
+      "english": "How can I make it right?",
+      "persian": "چطوری می‌تونم جبران کنم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739972"
+    },
+    {
+      "english": "Do you need time, to think?",
+      "persian": "وقت لازم داری، فکر کنی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739975"
+    },
+    {
+      "english": "Should I say something else?",
+      "persian": "باید یه چیز دیگه بگم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739977"
+    },
+    {
+      "english": "What would help you, feel better?",
+      "persian": "چی کمکت می‌کنه، حالت بهتر شه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739980"
+    },
+    {
+      "english": "Can we talk this through, calmly?",
+      "persian": "می‌تونیم آروم، در موردش حرف بزنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739982"
+    },
+    {
+      "english": "Your feelings matter, to me.",
+      "persian": "حس تو مهمه، برام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739985"
+    },
+    {
+      "english": "What can I do, to fix this?",
+      "persian": "چه کاری می‌تونم بکنم، اینو درست کنم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739987"
+    },
+    {
+      "english": "Are you still mad, at me?",
+      "persian": "هنوز از دستم ناراحتی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739989"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "persian": "چیزی هست که من ندیدم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739991"
+    },
+    {
+      "english": "What do you suggest, we do now?",
+      "persian": "پیشنهادت چیه، الان چیکار کنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739994"
+    },
+    {
+      "english": "Can you tell me, your perspective?",
+      "persian": "می‌تونی بهم بگی، نظرت چیه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.739996"
+    },
+    {
+      "english": "Did I misunderstand, something?",
+      "persian": "یه چیزی رو بد متوجه شدم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740000"
+    },
+    {
+      "english": "How should I approach this?",
+      "persian": "چطور باید با این مسئله برخورد کنم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740002"
+    },
+    {
+      "english": "Can you guide me, on this?",
+      "persian": "می‌تونی راهنماییم کنی، تو این مورد؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740004"
+    },
+    {
+      "english": "Is there something, I can learn?",
+      "persian": "چیزی هست که یاد بگیرم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740007"
+    },
+    {
+      "english": "Can we find a solution, together?",
+      "persian": "می‌تونیم با هم، راه حل پیدا کنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740009"
+    },
+    {
+      "english": "What's your ideal outcome?",
+      "persian": "نتیجه ایده‌آلت چیه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740012"
+    },
+    {
+      "english": "How can we avoid this, next time?",
+      "persian": "چطور می‌تونیم، دفعه بعد این اتفاق نیفته؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740014"
+    },
+    {
+      "english": "Do you want to discuss it more?",
+      "persian": "می‌خوای بیشتر در موردش حرف بزنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740016"
+    },
+    {
+      "english": "What needs to change, for you?",
+      "persian": "چی باید تغییر کنه، برای تو؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740018"
+    },
+    {
+      "english": "Can I help you process this?",
+      "persian": "می‌تونم کمکت کنم اینو هضم کنی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740020"
+    },
+    {
+      "english": "What's the most important thing, now?",
+      "persian": "مهم‌ترین چیز، الان چیه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740022"
+    },
+    {
+      "english": "Can we agree to disagree, perhaps?",
+      "persian": "شاید بتونیم بگیم، با هم موافق نیستیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740025"
+    },
+    {
+      "english": "What would make you feel heard?",
+      "persian": "چی باعث می‌شه حس کنی شنیده شدی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740027"
+    },
+    {
+      "english": "Let go, of the past.",
+      "persian": "از گذشته دست بردار.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740029"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "persian": "آرامش را، بر خشم ترجیح بده.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740033"
+    },
+    {
+      "english": "Your strength is, in letting go.",
+      "persian": "قدرت تو، در رها کردن است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740035"
+    },
+    {
+      "english": "Open your heart, to healing.",
+      "persian": "قلبت را، برای شفا باز کن.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740038"
+    },
+    {
+      "english": "This is a chance, to grow.",
+      "persian": "این یک فرصت، برای رشد است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740040"
+    },
+    {
+      "english": "You are capable, of kindness.",
+      "persian": "تو قادر به، مهربانی هستی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740042"
+    },
+    {
+      "english": "Embrace understanding, it helps.",
+      "persian": "پذیرش درک، کمک کننده است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740044"
+    },
+    {
+      "english": "Your inner peace, is important.",
+      "persian": "آرامش درونی تو، مهم است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740047"
+    },
+    {
+      "english": "Release the burden, feel lighter.",
+      "persian": "بار را رها کن، سبک شو.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740049"
+    },
+    {
+      "english": "You deserve, to feel free.",
+      "persian": "تو شایسته، احساس آزادی هستی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740051"
+    },
+    {
+      "english": "Positive thoughts, lead to positive outcomes.",
+      "persian": "افکار مثبت، نتایج مثبت دارند.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740053"
+    },
+    {
+      "english": "Believe in your good heart.",
+      "persian": "به قلب نیک خود، ایمان داشته باش.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740056"
+    },
+    {
+      "english": "Your effort is, truly appreciated.",
+      "persian": "تلاشت، واقعا قدردانی میشود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740060"
+    },
+    {
+      "english": "Focus on the good, you create.",
+      "persian": "بر خوبی تمرکز کن، که خلق میکنی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740062"
+    },
+    {
+      "english": "Your positive outlook, is inspiring.",
+      "persian": "نگرش مثبت تو، الهام بخش است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740064"
+    },
+    {
+      "english": "Give yourself, grace too.",
+      "persian": "به خودت هم، لطف کن.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740068"
+    },
+    {
+      "english": "Kindness always, returns to you.",
+      "persian": "مهربانی همیشه، به تو برمیگردد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740070"
+    },
+    {
+      "english": "This moment, can be peaceful.",
+      "persian": "این لحظه، میتواند آرام باشد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740072"
+    },
+    {
+      "english": "You are learning, and evolving.",
+      "persian": "تو در حال یادگیری، و تکامل هستی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740074"
+    },
+    {
+      "english": "Let understanding, bloom within.",
+      "persian": "بگذار درک، در درون شکوفا شود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740076"
+    },
+    {
+      "english": "Your compassion matters, greatly.",
+      "persian": "دلسوزی تو، بسیار اهمیت دارد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740078"
+    },
+    {
+      "english": "Choose hope, every day.",
+      "persian": "امید را، هر روز انتخاب کن.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740080"
+    },
+    {
+      "english": "You possess, a generous spirit.",
+      "persian": "تو روحی، سخاوتمند داری.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740082"
+    },
+    {
+      "english": "Your willingness, is commendable.",
+      "persian": "تمایل تو، قابل ستایش است.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740085"
+    },
+    {
+      "english": "A positive mindset, changes everything.",
+      "persian": "ذهنیت مثبت، همه چیز را تغییر میدهد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740087"
+    },
+    {
+      "english": "You are on the right path.",
+      "persian": "تو در مسیر درست هستی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740089"
+    },
+    {
+      "english": "Allow healing, to take its course.",
+      "persian": "اجازه بده شفا، روند خود را طی کند.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740091"
+    },
+    {
+      "english": "My heart feels heavy, sometimes.",
+      "persian": "دلم گاهی, گرفته.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740093"
+    },
+    {
+      "english": "It takes time, to heal.",
+      "persian": "زمان می بره, تا خوب بشم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740095"
+    },
+    {
+      "english": "I need to be patient, with myself.",
+      "persian": "باید با خودم, صبور باشم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740097"
+    },
+    {
+      "english": "This feeling is difficult, honestly.",
+      "persian": "این حس, سخته, راستش.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740099"
+    },
+    {
+      "english": "I'm reflecting, on everything.",
+      "persian": "دارم فکر می کنم, به همه چی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740101"
+    },
+    {
+      "english": "Can we talk, about it later?",
+      "persian": "می تونیم بعداً, در موردش حرف بزنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740105"
+    },
+    {
+      "english": "I'm trying, to understand.",
+      "persian": "سعی می کنم, بفهمم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740108"
+    },
+    {
+      "english": "What's the real issue, here?",
+      "persian": "مشکل اصلی, اینجا چیه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740110"
+    },
+    {
+      "english": "My emotions are messy, right now.",
+      "persian": "احساساتم, قاطی پاتیه, الان.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740112"
+    },
+    {
+      "english": "I hope for better, days ahead.",
+      "persian": "امیدوارم, روزهای بهتری, بیاد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740115"
+    },
+    {
+      "english": "This is a learning process, I know.",
+      "persian": "این یه فرایند یادگیریه, می دونم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740117"
+    },
+    {
+      "english": "I need some space, to breathe.",
+      "persian": "یه کم فضا لازم دارم, نفس بکشم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740119"
+    },
+    {
+      "english": "Is this anger, truly mine?",
+      "persian": "این عصبانیت, واقعاً مال منه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740121"
+    },
+    {
+      "english": "I'm working, on my feelings.",
+      "persian": "دارم روی, احساساتم کار می کنم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740123"
+    },
+    {
+      "english": "Letting go feels, so hard.",
+      "persian": "رها کردن, خیلی سخته.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740125"
+    },
+    {
+      "english": "My mind is racing, a bit.",
+      "persian": "ذهنم یه کم, داره می چرخه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740127"
+    },
+    {
+      "english": "I forgive, because I must.",
+      "persian": "می بخشم, چون باید.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740131"
+    },
+    {
+      "english": "What truly matters, is peace.",
+      "persian": "چیزی که واقعاً مهمه, آرامشه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740132"
+    },
+    {
+      "english": "This hurt, runs deep.",
+      "persian": "این درد, عمیقه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740135"
+    },
+    {
+      "english": "I'm choosing, my well-being.",
+      "persian": "سلامتی رو, انتخاب می کنم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740137"
+    },
+    {
+      "english": "It's okay, not to be okay.",
+      "persian": "اشکالی نداره, خوب نباشی.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740139"
+    },
+    {
+      "english": "I'm processing, this whole thing.",
+      "persian": "دارم این ماجرا رو, هضم می کنم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740141"
+    },
+    {
+      "english": "My perspective, is shifting.",
+      "persian": "دیدگاهم, داره عوض میشه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740144"
+    },
+    {
+      "english": "This requires, real honesty.",
+      "persian": "این نیاز به, صداقت واقعی داره.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740146"
+    },
+    {
+      "english": "I feel lighter, when I forgive.",
+      "persian": "سبک تر میشم, وقتی می بخشم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740148"
+    },
+    {
+      "english": "Can we start, anew?",
+      "persian": "می تونیم, از نو شروع کنیم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740150"
+    },
+    {
+      "english": "My own peace, is paramount.",
+      "persian": "آرامش خودم, از همه چی واجبه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740154"
+    },
+    {
+      "english": "I'm releasing, resentment now.",
+      "persian": "کینه رو, الان دارم رها می کنم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740156"
+    },
+    {
+      "english": "It's a slow climb, maybe.",
+      "persian": "شاید یه سربالایی, طولانیه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740158"
+    },
+    {
+      "english": "My intention, is understanding.",
+      "persian": "منظورم, درکه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740160"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "persian": "هوای همدیگه رو صاف کنیم، باشه؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740162"
+    },
+    {
+      "english": "Let's move past this, quickly.",
+      "persian": "زود از این مرحله رد شیم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740164"
+    },
+    {
+      "english": "What can we learn, from this?",
+      "persian": "چی می‌تونیم از این یاد بگیریم؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740166"
+    },
+    {
+      "english": "Let's reset, our relationship.",
+      "persian": "رابطه‌مون رو دوباره تنظیم کنیم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740169"
+    },
+    {
+      "english": "How about, a fresh start?",
+      "persian": "یه شروع تازه چی می‌گی؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740171"
+    },
+    {
+      "english": "Let's not hold, grudges.",
+      "persian": "کینه به دل نگیریم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-26T08:43:47.740173"
     }
   ],
-  "last_updated": "2026-10-25T08:17:27.798807"
+  "last_updated": "2026-10-26T08:43:47.740175"
 }
