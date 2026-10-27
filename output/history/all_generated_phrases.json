@@ -7199,7 +7199,727 @@
       "persian": "کینه به دل نگیریم.",
       "category": "Forgiveness",
       "generated_at": "2026-10-26T08:43:47.740173"
+    },
+    {
+      "english": "Got any plans, later?",
+      "persian": "بعداً برنامه‌ای داری؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194161"
+    },
+    {
+      "english": "Are you free, this evening?",
+      "persian": "امشب آزادي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194174"
+    },
+    {
+      "english": "Let's do something, fun.",
+      "persian": "بیا یه کاری بکنیم, حال بده.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194177"
+    },
+    {
+      "english": "Want to grab coffee, sometime?",
+      "persian": "یه موقعی قهوه بخوریم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194178"
+    },
+    {
+      "english": "How about meeting, tomorrow?",
+      "persian": "فردا همدیگه رو ببینیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194180"
+    },
+    {
+      "english": "What's happening, this weekend?",
+      "persian": "این هفته چه خبره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194182"
+    },
+    {
+      "english": "I was thinking, we could go.",
+      "persian": "فکر می‌کردم, می‌تونیم بریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194184"
+    },
+    {
+      "english": "Sounds like a, plan.",
+      "persian": "به نظر خوب میاد.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194188"
+    },
+    {
+      "english": "Maybe we can hang out, later.",
+      "persian": "شاید بعداً دور هم باشیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194190"
+    },
+    {
+      "english": "I'm free, on Friday.",
+      "persian": "من جمعه بیکارم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194193"
+    },
+    {
+      "english": "Let's catch up, soon.",
+      "persian": "زود همدیگه رو ببینیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194194"
+    },
+    {
+      "english": "Do you have, any ideas?",
+      "persian": "ایده‌ای داری؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194196"
+    },
+    {
+      "english": "We should definitely, do that.",
+      "persian": "حتماً باید این کارو بکنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194198"
+    },
+    {
+      "english": "When are you, available?",
+      "persian": "کی وقتت آزاده؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194199"
+    },
+    {
+      "english": "Let's make a, decision.",
+      "persian": "یه تصمیمی بگیریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194201"
+    },
+    {
+      "english": "I'm open, to suggestions.",
+      "persian": "من روی پیشنهادات باز هستم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194202"
+    },
+    {
+      "english": "Can we reschedule, please?",
+      "persian": "میشه دوباره برنامه‌ریزی کنیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194204"
+    },
+    {
+      "english": "Let's confirm, our plans.",
+      "persian": "برنامه‌هامون رو قطعی کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194206"
+    },
+    {
+      "english": "I'm looking forward, to it.",
+      "persian": "من مشتاقشم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194209"
+    },
+    {
+      "english": "What's the agenda, today?",
+      "persian": "برنامه‌ی امروز چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194210"
+    },
+    {
+      "english": "Are we still, on?",
+      "persian": "هنوز سر حرفمون هستیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194212"
+    },
+    {
+      "english": "I'm free, pretty much.",
+      "persian": "من تقریباً بیکارم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194214"
+    },
+    {
+      "english": "Let's set a, time.",
+      "persian": "یه زمانی رو تعیین کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194216"
+    },
+    {
+      "english": "Any possibilities, for tomorrow?",
+      "persian": "برای فردا امکانی هست؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194217"
+    },
+    {
+      "english": "Is there anything, you'd like to do?",
+      "persian": "کاری هست که دوست داشته باشی بکنی؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194219"
+    },
+    {
+      "english": "When would be a, good time?",
+      "persian": "چه زمانی وقت خوبی خواهد بود؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194221"
+    },
+    {
+      "english": "Are you up for, something new?",
+      "persian": "اهل یه چیز جدید هستی؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194224"
+    },
+    {
+      "english": "Can we decide, soon?",
+      "persian": "می‌تونیم زود تصمیم بگیریم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194226"
+    },
+    {
+      "english": "Is that convenient, for you?",
+      "persian": "برات مناسبه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194237"
+    },
+    {
+      "english": "What's your availability, like?",
+      "persian": "بازه زمانی‌ات چطوره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194239"
+    },
+    {
+      "english": "Let's coordinate, our schedules.",
+      "persian": "برنامه هامون رو هماهنگ کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194241"
+    },
+    {
+      "english": "Do you have, a preference?",
+      "persian": "انتخابی داری؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194243"
+    },
+    {
+      "english": "What are you doing, after this?",
+      "persian": "بعد از این چیکار می‌کنی؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194244"
+    },
+    {
+      "english": "I'm open, to ideas.",
+      "persian": "من روی ایده‌ها باز هستم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194246"
+    },
+    {
+      "english": "What's the general, idea?",
+      "persian": "ایده کلی چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194248"
+    },
+    {
+      "english": "Let's check, the forecast.",
+      "persian": "وضعیت آب و هوا رو چک کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194250"
+    },
+    {
+      "english": "Is this going to work, out?",
+      "persian": "این جور درمیاد؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194252"
+    },
+    {
+      "english": "What are we aiming, for?",
+      "persian": "هدفمون چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194253"
+    },
+    {
+      "english": "Shall we meet, somewhere central?",
+      "persian": "وسط شهر همدیگه رو ببینیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194255"
+    },
+    {
+      "english": "What time works, best?",
+      "persian": "چه ساعتی بهتره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194257"
+    },
+    {
+      "english": "Can you commit, to that?",
+      "persian": "می‌تونی به اون پایبند باشی؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194258"
+    },
+    {
+      "english": "Are there any, conflicts?",
+      "persian": "تداخلی وجود داره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194260"
+    },
+    {
+      "english": "Let's finalize, the details.",
+      "persian": "جزئیات رو نهایی کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194261"
+    },
+    {
+      "english": "How do you see, this happening?",
+      "persian": "این اتفاق چطور می‌افته؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194263"
+    },
+    {
+      "english": "Is there room, for change?",
+      "persian": "جایی برای تغییر هست؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194265"
+    },
+    {
+      "english": "What's the general, consensus?",
+      "persian": "اجماع کلی چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194268"
+    },
+    {
+      "english": "What are the options, here?",
+      "persian": "گزینه‌ها اینجا چی هستن؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194269"
+    },
+    {
+      "english": "Let's align, our expectations.",
+      "persian": "انتظاراتمون رو همسو کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194271"
+    },
+    {
+      "english": "Think positive, make it happen.",
+      "persian": "مثبت فکر کن، انجامش بده.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194272"
+    },
+    {
+      "english": "You've got this, totally.",
+      "persian": "تو از پسش برمیای، حتماً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194274"
+    },
+    {
+      "english": "Great idea, let's go!",
+      "persian": "ایده عالیه، بزن بریم!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194277"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "persian": "تلاشت فوق‌العاده‌ست.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194280"
+    },
+    {
+      "english": "This is going to be fun.",
+      "persian": "این خیلی باحال میشه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194282"
+    },
+    {
+      "english": "Believe in your plan.",
+      "persian": "به برنامه‌ات ایمان داشته باش.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194283"
+    },
+    {
+      "english": "Let's make this perfect.",
+      "persian": "بذار عالی از آب دربیاد.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194285"
+    },
+    {
+      "english": "Confidence is key, you know.",
+      "persian": "اعتماد به نفس مهمه، می‌دونی.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194287"
+    },
+    {
+      "english": "We can achieve anything.",
+      "persian": "هر کاری از دستمون برمیاد.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194288"
+    },
+    {
+      "english": "Your enthusiasm is contagious.",
+      "persian": "اشتیاق تو واگیر داره.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194290"
+    },
+    {
+      "english": "Focus on the goal, always.",
+      "persian": "همیشه رو هدف تمرکز کن.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194292"
+    },
+    {
+      "english": "This opportunity is ours.",
+      "persian": "این فرصت مال ماست.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194294"
+    },
+    {
+      "english": "You're a natural planner.",
+      "persian": "تو یه برنامه‌ریز ماهری.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194297"
+    },
+    {
+      "english": "Don't doubt yourself, ever.",
+      "persian": "هیچوقت به خودت شک نکن.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194299"
+    },
+    {
+      "english": "Let's visualize success.",
+      "persian": "موفقیت رو تصور کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194300"
+    },
+    {
+      "english": "Teamwork makes the dream work.",
+      "persian": "با هم، رویاها رو واقعی می‌کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194302"
+    },
+    {
+      "english": "Your contribution is vital.",
+      "persian": "مشارکت تو خیلی مهمه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194304"
+    },
+    {
+      "english": "Stay motivated, keep going.",
+      "persian": "انگیزه داشته باش، ادامه بده.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194305"
+    },
+    {
+      "english": "This requires focused energy.",
+      "persian": "این به انرژی متمرکز نیاز داره.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194307"
+    },
+    {
+      "english": "We're creating something great.",
+      "persian": "داریم یه چیز عالی می‌سازیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194309"
+    },
+    {
+      "english": "Let's make a solid plan.",
+      "persian": "بذار یه نقشه محکم بکشیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194311"
+    },
+    {
+      "english": "Positive vibes only, please.",
+      "persian": "فقط انرژی مثبت، لطفاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194313"
+    },
+    {
+      "english": "You have a great mind.",
+      "persian": "ذهن فوق‌العاده‌ای داری.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194314"
+    },
+    {
+      "english": "Let's aim high, together.",
+      "persian": "با هم، اهداف بلندپروازانه بذاریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194316"
+    },
+    {
+      "english": "This is achievable, for sure.",
+      "persian": "این قطعاً دست‌یافتنیه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194317"
+    },
+    {
+      "english": "Your attitude is inspiring.",
+      "persian": "نگرش تو الهام‌بخشه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194319"
+    },
+    {
+      "english": "Let's focus, on execution.",
+      "persian": "بذار رو اجرا تمرکز کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194321"
+    },
+    {
+      "english": "What's the plan, Stan?",
+      "persian": "برنامه چیه، جانم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194323"
+    },
+    {
+      "english": "Let's get the ball, rolling.",
+      "persian": "بذار چرخ تولید رو راه بندازیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194325"
+    },
+    {
+      "english": "Where do we go, from here?",
+      "persian": "از اینجا به بعد چیکار کنیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194328"
+    },
+    {
+      "english": "It's on the table, for now.",
+      "persian": "فعلاً بحثش رو میزه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194330"
+    },
+    {
+      "english": "We need to put our heads, together.",
+      "persian": "باید یه فکری به حالش کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194331"
+    },
+    {
+      "english": "Let's not count our chickens, yet.",
+      "persian": "هنوز زوده برای جشن گرفتن.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194333"
+    },
+    {
+      "english": "What's cooking, good looking?",
+      "persian": "چه خبر، اوضاع چطوره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194336"
+    },
+    {
+      "english": "Let's nail this down, officially.",
+      "persian": "رسماً دیگه قطعی کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194338"
+    },
+    {
+      "english": "This is a tough nut, to crack.",
+      "persian": "این یه گره کوره.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194340"
+    },
+    {
+      "english": "Let's map it, out.",
+      "persian": "بیاید ترسیمش کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194342"
+    },
+    {
+      "english": "What's the game, plan?",
+      "persian": "نقشه چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194343"
+    },
+    {
+      "english": "Let's set sail, on this.",
+      "persian": "بزنیم به دل کار.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194345"
+    },
+    {
+      "english": "It's in the works, for sure.",
+      "persian": "داره انجام میشه، حتماً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194347"
+    },
+    {
+      "english": "We'll cross that bridge, when we come to it.",
+      "persian": "وقتش شد، اون موقع فکر می‌کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194349"
+    },
+    {
+      "english": "Let's make hay, while the sun shines.",
+      "persian": "تا فرصت هست، استفاده کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194350"
+    },
+    {
+      "english": "What's the angle, here?",
+      "persian": "منظور چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194352"
+    },
+    {
+      "english": "Let's get our ducks, in a row.",
+      "persian": "همه چیز رو مرتب کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194354"
+    },
+    {
+      "english": "This is a long shot, maybe.",
+      "persian": "شاید خیلی بعید باشه.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194356"
+    },
+    {
+      "english": "Let's plant the seeds, for success.",
+      "persian": "بذر موفقیت رو بکاریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194359"
+    },
+    {
+      "english": "What's the vibe, we're going for?",
+      "persian": "چه حسی می‌خوایم ایجاد کنیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194361"
+    },
+    {
+      "english": "Let's put it on the back, burner.",
+      "persian": "فعلاً بذاریمش کنار.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194363"
+    },
+    {
+      "english": "It's a done deal, basically.",
+      "persian": "تقریباً دیگه قطعی شده.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194365"
+    },
+    {
+      "english": "Let's build this, from the ground up.",
+      "persian": "از صفر شروع کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194366"
+    },
+    {
+      "english": "What's the master, plan?",
+      "persian": "نقشه اصلی چیه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194368"
+    },
+    {
+      "english": "Let's stir the pot, a little.",
+      "persian": "یه کم اوضاع رو بهم بزنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194369"
+    },
+    {
+      "english": "This is uncharted, territory.",
+      "persian": "این یه منطقه ناشناخته است.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194371"
+    },
+    {
+      "english": "Let's make a splash, with this.",
+      "persian": "با این کار سروصدا کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194372"
+    },
+    {
+      "english": "We're in sync, on this.",
+      "persian": "روی این قضیه هماهنگ هستیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194374"
+    },
+    {
+      "english": "Let's discuss, over coffee.",
+      "persian": "بیا، سر قهوه صحبت کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194383"
+    },
+    {
+      "english": "Can we meet, next week perhaps?",
+      "persian": "می‌تونیم، هفته دیگه شاید، ببینیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194384"
+    },
+    {
+      "english": "Is Saturday evening, free for you?",
+      "persian": "شنبه شب، وقت داری؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194386"
+    },
+    {
+      "english": "Let's confirm, the details later.",
+      "persian": "جزئیات رو، بعداً نهایی کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194388"
+    },
+    {
+      "english": "We should book, a table, soon.",
+      "persian": "باید، یه میز، زود رزرو کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194391"
+    },
+    {
+      "english": "What's the dress code, if any?",
+      "persian": "لباس رسمی، داره؟ اگه آره.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194393"
+    },
+    {
+      "english": "I'll send, the calendar invite.",
+      "persian": "من، دعوتنامه تقویم رو می‌فرستم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194395"
+    },
+    {
+      "english": "Let's agree, on a location.",
+      "persian": "روی یه مکان، توافق کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194396"
+    },
+    {
+      "english": "Who else, should we invite?",
+      "persian": "دیگه چه کسانی، رو دعوت کنیم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194398"
+    },
+    {
+      "english": "We need to finalize, the agenda.",
+      "persian": "باید دستور جلسه رو، نهایی کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194400"
+    },
+    {
+      "english": "Is there, a parking situation?",
+      "persian": "جای پارک، هست؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194403"
+    },
+    {
+      "english": "Let's decide, on transportation.",
+      "persian": "در مورد حمل و نقل، تصمیم بگیریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194404"
+    },
+    {
+      "english": "What's the budget, for this?",
+      "persian": "بودجه‌اش، چقدره؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194406"
+    },
+    {
+      "english": "We should pack, some snacks.",
+      "persian": "باید، یه کم تنقلات، برداریم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194407"
+    },
+    {
+      "english": "Can you bring, your laptop?",
+      "persian": "می‌تونی، لپ‌تاپت رو بیاری؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194409"
+    },
+    {
+      "english": "Let's set, a clear deadline.",
+      "persian": "یه ضرب‌الاجل، مشخص تعیین کنیم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194411"
+    },
+    {
+      "english": "We need a backup, plan, just in case.",
+      "persian": "یه نقشه جایگزین، لازم داریم، برای اطمینان.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-27T08:50:21.194413"
     }
   ],
-  "last_updated": "2026-10-26T08:43:47.740175"
+  "last_updated": "2026-10-27T08:50:21.194414"
 }
