@@ -7919,7 +7919,727 @@
       "persian": "یه نقشه جایگزین، لازم داریم، برای اطمینان.",
       "category": "Making Plans",
       "generated_at": "2026-10-27T08:50:21.194413"
+    },
+    {
+      "english": "I'm happy, really happy.",
+      "persian": "خیلی خوشحالم، واقعاً خوشحالم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104224"
+    },
+    {
+      "english": "I feel good, thank you.",
+      "persian": "حالم خوبه، ممنونم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104241"
+    },
+    {
+      "english": "What's wrong?, you look sad.",
+      "persian": "چی شده؟، غصه داری؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104247"
+    },
+    {
+      "english": "Don't worry, it's okay.",
+      "persian": "نگران نباش، اشکالی نداره.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104251"
+    },
+    {
+      "english": "I'm a little tired, you know?",
+      "persian": "یه کم خسته‌ام، می‌دونی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104254"
+    },
+    {
+      "english": "This is so exciting, wow!",
+      "persian": "چه هیجان‌انگیزه، وای!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104257"
+    },
+    {
+      "english": "I'm feeling a bit down today.",
+      "persian": "امروز یه خورده دلگیرم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104260"
+    },
+    {
+      "english": "Are you surprised?, me too!",
+      "persian": "تعجب کردی؟، منم همینطور!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104266"
+    },
+    {
+      "english": "This is very interesting, really.",
+      "persian": "خیلی جالبه، واقعاً.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104270"
+    },
+    {
+      "english": "I'm so proud of you!",
+      "persian": "خیلی بهت افتخار می‌کنم!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104274"
+    },
+    {
+      "english": "That sounds fun, let's go!",
+      "persian": "باحال به نظر میاد، بریم!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104277"
+    },
+    {
+      "english": "I'm a little nervous, honestly.",
+      "persian": "راستش رو بخوای، یه کم استرس دارم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104280"
+    },
+    {
+      "english": "It's quite annoying, isn't it?",
+      "persian": "خیلی رو مخه، نه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104283"
+    },
+    {
+      "english": "I'm feeling very relieved now.",
+      "persian": "خیلی احساس سبکی می‌کنم الان.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104285"
+    },
+    {
+      "english": "That's a bit disappointing, unfortunately.",
+      "persian": "متاسفانه یه کم ناامیدکننده‌ست.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104288"
+    },
+    {
+      "english": "I'm feeling very comfortable here.",
+      "persian": "اینجا خیلی احساس راحتی می‌کنم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104291"
+    },
+    {
+      "english": "I'm so excited for the trip!",
+      "persian": "برای سفر خیلی هیجان‌زده‌ام!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104293"
+    },
+    {
+      "english": "This is making me angry, really.",
+      "persian": "این واقعاً داره عصبانیم می‌کنه.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104296"
+    },
+    {
+      "english": "I feel so grateful for this.",
+      "persian": "خیلی برای این سپاسگزارم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104299"
+    },
+    {
+      "english": "Are you feeling better now?",
+      "persian": "الان حالت بهتره؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104301"
+    },
+    {
+      "english": "I'm feeling quite optimistic today.",
+      "persian": "امروز خیلی امیدوارم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104304"
+    },
+    {
+      "english": "This is a bit awkward, isn't it?",
+      "persian": "یه کم معذرت‌خواهی داره، نه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104310"
+    },
+    {
+      "english": "I'm feeling very inspired right now.",
+      "persian": "الان خیلی احساس الهام می‌کنم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104312"
+    },
+    {
+      "english": "That's quite concerning, I think.",
+      "persian": "فکر می‌کنم یه کم نگران‌کننده‌ست.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104315"
+    },
+    {
+      "english": "I feel so loved, thank you.",
+      "persian": "خیلی احساس عشق می‌کنم، ممنونم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104318"
+    },
+    {
+      "english": "What a wonderful feeling, truly.",
+      "persian": "چه احساس فوق‌العاده‌ای، واقعاً.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104320"
+    },
+    {
+      "english": "I'm feeling a bit lonely today.",
+      "persian": "امروز یه کم احساس تنهایی می‌کنم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104323"
+    },
+    {
+      "english": "This is so frustrating, ugh!",
+      "persian": "این خیلی کلافه‌کننده‌ست، اَه!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104326"
+    },
+    {
+      "english": "I'm feeling very peaceful now.",
+      "persian": "الان خیلی آرامش دارم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104330"
+    },
+    {
+      "english": "How are you feeling, my friend?",
+      "persian": "حالت چطوره، رفیق؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104333"
+    },
+    {
+      "english": "Did something happen, you seem off?",
+      "persian": "اتفاقی افتاده، یه جوری به نظر میای؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104336"
+    },
+    {
+      "english": "What makes you happy, really?",
+      "persian": "چی خوشحالت می‌کنه، واقعاً؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104339"
+    },
+    {
+      "english": "Are you upset about something?",
+      "persian": "ناراحت چیزی هستی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104342"
+    },
+    {
+      "english": "Should I help, what do you need?",
+      "persian": "کمکی بکنم، چی لازم داری؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104345"
+    },
+    {
+      "english": "Any advice for me, please?",
+      "persian": "راهنمایی داری برام، لطفاً؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104348"
+    },
+    {
+      "english": "Is this bothering you, somehow?",
+      "persian": "این اذیتت می‌کنه، یه جورایی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104350"
+    },
+    {
+      "english": "Are you worried about the future?",
+      "persian": "نگران آینده هستی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104374"
+    },
+    {
+      "english": "Can I make you smile, perhaps?",
+      "persian": "می‌تونم بخندونمت، شاید؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104378"
+    },
+    {
+      "english": "What's the reason for your sigh?",
+      "persian": "دلیل این آهت چیه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104381"
+    },
+    {
+      "english": "How are you coping with this?",
+      "persian": "چطور داری با این کنار میای؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104383"
+    },
+    {
+      "english": "What's your gut feeling about it?",
+      "persian": "حسّ درونی‌ات در موردش چیه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104387"
+    },
+    {
+      "english": "Are you feeling adventurous today?",
+      "persian": "امروز حسّ ماجراجویی داری؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104389"
+    },
+    {
+      "english": "Did that surprise you, a lot?",
+      "persian": "اون تو رو غافلگیر کرد، خیلی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104392"
+    },
+    {
+      "english": "What brings you joy, usually?",
+      "persian": "چیزی که معمولاً شادی میاره برات چیه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104395"
+    },
+    {
+      "english": "Are you feeling overwhelmed, maybe?",
+      "persian": "شاید احساس سردرگمی می‌کنی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104398"
+    },
+    {
+      "english": "What's your reaction to this news?",
+      "persian": "واکنش‌ات به این خبر چیه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104400"
+    },
+    {
+      "english": "Do you need some space, alone?",
+      "persian": "به یه کم فضا، تنهایی نیاز داری؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104403"
+    },
+    {
+      "english": "How do you handle stress, then?",
+      "persian": "پس استرس رو چطور مدیریت می‌کنی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104406"
+    },
+    {
+      "english": "What's making you so thoughtful?",
+      "persian": "چی تو رو اینقدر متفکر کرده؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104409"
+    },
+    {
+      "english": "Are you feeling inspired right now?",
+      "persian": "همین الان الهام گرفته‌ای؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104412"
+    },
+    {
+      "english": "What's your mood like today?",
+      "persian": "حال و هوات امروز چطوره؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104417"
+    },
+    {
+      "english": "What's the best part for you?",
+      "persian": "بهترین قسمتش برات چیه؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104420"
+    },
+    {
+      "english": "Are you looking forward to it?",
+      "persian": "مشتاقانه منتظرشی؟",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104423"
+    },
+    {
+      "english": "Stay positive, no matter what.",
+      "persian": "هر چی شد، مثبت فکر کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104427"
+    },
+    {
+      "english": "You're doing great, really.",
+      "persian": "خیلی خوب داری پیش میری.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104430"
+    },
+    {
+      "english": "What a fantastic idea!",
+      "persian": "چه ایده فوق‌العاده‌ای!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104433"
+    },
+    {
+      "english": "That's a clever solution.",
+      "persian": "این یک راه حل هوشمندانه‌ست.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104435"
+    },
+    {
+      "english": "You have great potential.",
+      "persian": "تو پتانسیل بزرگی داری.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104440"
+    },
+    {
+      "english": "Never stop learning, grow.",
+      "persian": "یادگیری رو هیچ وقت متوقف نکن، رشد کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104442"
+    },
+    {
+      "english": "Let's tackle this challenge.",
+      "persian": "بیا این چالش رو قبول کنیم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104445"
+    },
+    {
+      "english": "Your attitude is amazing.",
+      "persian": "نگرشت عالیه.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104448"
+    },
+    {
+      "english": "Focus on your strengths.",
+      "persian": "روی نقاط قوتت تمرکز کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104450"
+    },
+    {
+      "english": "You are capable of more.",
+      "persian": "تو از این هم توانایی بیشتری داری.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104453"
+    },
+    {
+      "english": "Keep that positive energy.",
+      "persian": "این انرژی مثبت رو حفظ کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104456"
+    },
+    {
+      "english": "Think big, act bravely.",
+      "persian": "بزرگ فکر کن، شجاعانه عمل کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104459"
+    },
+    {
+      "english": "Your determination is key.",
+      "persian": "اراده تو کلید موفقیته.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104462"
+    },
+    {
+      "english": "What a wise decision!",
+      "persian": "چه تصمیم عاقلانه‌ای!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104464"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "persian": "فرآیند یادگیری رو بپذیر.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104467"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "persian": "به توانایی‌هات شک نکن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104469"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "persian": "مقاومت تو الهام بخشه.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104472"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "persian": "مرزهای خودت رو جابجا کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104475"
+    },
+    {
+      "english": "You're making real progress.",
+      "persian": "پیشرفت واقعی داری می‌کنی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104478"
+    },
+    {
+      "english": "Stay hopeful, brighter days.",
+      "persian": "امیدوار باش، روزهای روشن‌تری میاد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104481"
+    },
+    {
+      "english": "My heart is full, happy.",
+      "persian": "دلم پره، از خوشحالی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104483"
+    },
+    {
+      "english": "I feel a bit down, today.",
+      "persian": "یه کم گرفته ام، امروز.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104486"
+    },
+    {
+      "english": "This makes me so angry.",
+      "persian": "این منو خیلی عصبانی می‌کنه.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104488"
+    },
+    {
+      "english": "I'm truly relieved, now.",
+      "persian": "خیالم واقعا راحته، حالا.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104491"
+    },
+    {
+      "english": "What a pleasant surprise!",
+      "persian": "چه غافلگیری خوبی!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104496"
+    },
+    {
+      "english": "I'm very excited, you know.",
+      "persian": "خیلی هیجان دارم، می‌دونی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104499"
+    },
+    {
+      "english": "Feeling a bit nostalgic, maybe.",
+      "persian": "کمی حس نوستالژی دارم، شاید.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104502"
+    },
+    {
+      "english": "This situation is awkward, really.",
+      "persian": "این وضعیت ناجوره، واقعا.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104505"
+    },
+    {
+      "english": "I'm feeling blue, a little.",
+      "persian": "حالم گرفته است، کمی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104508"
+    },
+    {
+      "english": "Completely drained, I am.",
+      "persian": "حسابی خسته ام، کاملا.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104511"
+    },
+    {
+      "english": "A wave of sadness hit me.",
+      "persian": "یه موج غم نشست تو دلم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104515"
+    },
+    {
+      "english": "I'm feeling a bit anxious.",
+      "persian": "یه کم نگرانم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104518"
+    },
+    {
+      "english": "This is quite frustrating.",
+      "persian": "این واقعا رو مخمه.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104524"
+    },
+    {
+      "english": "Feeling hopeful, for sure.",
+      "persian": "امیدوارم، حتما.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104527"
+    },
+    {
+      "english": "I'm bored, out of my mind.",
+      "persian": "از بی‌حوصلگی دارم می‌میرم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104530"
+    },
+    {
+      "english": "Deeply touched, by this.",
+      "persian": "خیلی تحت تاثیر قرار گرفتم، از این.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104533"
+    },
+    {
+      "english": "Feeling a bit lonely, right now.",
+      "persian": "یه کم احساس تنهایی می‌کنم، الان.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104536"
+    },
+    {
+      "english": "This is just unbelievable!",
+      "persian": "باورم نمیشه اینو!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104538"
+    },
+    {
+      "english": "I'm feeling quite content.",
+      "persian": "خیلی راضی ام، از اوضاع.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104541"
+    },
+    {
+      "english": "Feeling a bit guilty, maybe.",
+      "persian": "یه کم احساس گناه می‌کنم، شاید.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104544"
+    },
+    {
+      "english": "This is so disheartening.",
+      "persian": "این خیلی ناامید کننده است.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104546"
+    },
+    {
+      "english": "I'm feeling really downcast.",
+      "persian": "خیلی غمگین و افسرده ام.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104548"
+    },
+    {
+      "english": "What a joyous occasion!",
+      "persian": "چه مناسبت شادی!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104551"
+    },
+    {
+      "english": "Feeling rather indifferent.",
+      "persian": "بی‌تفاوت هستم، تا حدی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104553"
+    },
+    {
+      "english": "I'm filled with gratitude.",
+      "persian": "پر از سپاسگزاری ام.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104556"
+    },
+    {
+      "english": "Feeling a bit sulky, today.",
+      "persian": "یه کم قهر و دلخورم، امروز.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104559"
+    },
+    {
+      "english": "This is deeply unsettling.",
+      "persian": "این واقعا آزاردهنده‌ است.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104561"
+    },
+    {
+      "english": "Overcome with emotion, I am.",
+      "persian": "احساسات بر من غلبه کرده.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104564"
+    },
+    {
+      "english": "Don't let stress overwhelm you, friend.",
+      "persian": "دوست من، نگذار استرس تو را از پا درآورد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104567"
+    },
+    {
+      "english": "Take a deep breath, when you feel tense.",
+      "persian": "وقتی احساس تنش می‌کنی، نفس عمیق بکش.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104569"
+    },
+    {
+      "english": "Share your feelings, it helps a lot.",
+      "persian": "احساست را بگو، خیلی کمک می‌کند.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104572"
+    },
+    {
+      "english": "If you're sad, talk to someone close.",
+      "persian": "اگر ناراحتی، با کسی که نزدیک است حرف بزن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104575"
+    },
+    {
+      "english": "Let go of what makes you upset.",
+      "persian": "از چیزی که ناراحتت می‌کند، بگذر.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104578"
+    },
+    {
+      "english": "Find joy in small, everyday moments.",
+      "persian": "شادی را در لحظه‌های کوچک روزمره پیدا کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104581"
+    },
+    {
+      "english": "Don't bottle up your anger, release it.",
+      "persian": "عصبیّت را در خودت نریز، بیرونش کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104586"
+    },
+    {
+      "english": "When I'm worried, I listen to music.",
+      "persian": "وقتی نگرانم، موسیقی گوش می‌دهم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104589"
+    },
+    {
+      "english": "Feeling anxious? Try a short walk.",
+      "persian": "احساس اضطراب داری؟ یک پیاده‌روی کوتاه بکن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104592"
+    },
+    {
+      "english": "This problem makes me feel so tired.",
+      "persian": "این مشکل من را خیلی خسته می‌کند.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104594"
+    },
+    {
+      "english": "I felt relief, after solving it.",
+      "persian": "بعد از حل کردنش، احساس آرامش کردم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104597"
+    },
+    {
+      "english": "A good friend understands your emotions.",
+      "persian": "یک دوست خوب، احساساتت را می‌فهمد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104600"
+    },
+    {
+      "english": "It's okay to feel lonely sometimes.",
+      "persian": "اشکالی ندارد گاهی احساس تنهایی کنی.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104603"
+    },
+    {
+      "english": "Celebrate small wins, feel the pride.",
+      "persian": "موفقیت‌های کوچک را جشن بگیر، غرور را حس کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104608"
+    },
+    {
+      "english": "This news made me feel so happy.",
+      "persian": "این خبر مرا خیلی خوشحال کرد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104613"
+    },
+    {
+      "english": "I'm feeling a bit frustrated, honestly.",
+      "persian": "راستش را بخواهی، کمی احساس سردرگمی می‌کنم.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104617"
+    },
+    {
+      "english": "Don't let disappointment get you down.",
+      "persian": "نگذار ناامیدی تو را ناراحت کند.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104620"
+    },
+    {
+      "english": "When you're bored, try a new hobby.",
+      "persian": "وقتی حوصله‌ات سر رفته، یک سرگرمی جدید را امتحان کن.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104623"
+    },
+    {
+      "english": "This experience has touched me deeply.",
+      "persian": "این تجربه مرا عمیقاً تحت تأثیر قرار داد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:29:57.104626"
     }
   ],
-  "last_updated": "2026-10-27T08:50:21.194414"
+  "last_updated": "2026-10-28T09:29:57.104628"
 }
