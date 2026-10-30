@@ -8639,7 +8639,727 @@
       "persian": "این تجربه مرا عمیقاً تحت تأثیر قرار داد.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-28T09:29:57.104626"
+    },
+    {
+      "english": "Success is on the way.",
+      "persian": "موفقیت در راه است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666157"
+    },
+    {
+      "english": "Don't give up now.",
+      "persian": "الان تسلیم نشو.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666170"
+    },
+    {
+      "english": "This is your moment.",
+      "persian": "این لحظه توست.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666173"
+    },
+    {
+      "english": "Great job so far.",
+      "persian": "تا اینجا عالی بودی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666176"
+    },
+    {
+      "english": "The future is bright.",
+      "persian": "آینده روشن است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666178"
+    },
+    {
+      "english": "Aim for the stars.",
+      "persian": "ستاره ها رو هدف بگیر.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666181"
+    },
+    {
+      "english": "You're almost there.",
+      "persian": "تقریباً رسیدی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666184"
+    },
+    {
+      "english": "Challenge accepted.",
+      "persian": "چالش پذیرفته شد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666189"
+    },
+    {
+      "english": "Success tastes sweet.",
+      "persian": "موفقیت شیرینه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666196"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "persian": "چشمات به جایزه باشه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666200"
+    },
+    {
+      "english": "Nothing is impossible.",
+      "persian": "هیچ چیز غیرممکن نیست.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666202"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "persian": "تلاشت نتیجه میده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666205"
+    },
+    {
+      "english": "This is just the beginning.",
+      "persian": "این تازه اولشه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666207"
+    },
+    {
+      "english": "Reach for your dreams.",
+      "persian": "به دنبال رویاهات برو.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666210"
+    },
+    {
+      "english": "Today is a good day.",
+      "persian": "امروز روز خوبیه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666212"
+    },
+    {
+      "english": "Victory is within reach.",
+      "persian": "پیروزی نزدیکه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666214"
+    },
+    {
+      "english": "You're a winner.",
+      "persian": "تو یک برنده ای.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666217"
+    },
+    {
+      "english": "Keep pushing forward, you've got this.",
+      "persian": "ادامه بده، تو میتونی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666220"
+    },
+    {
+      "english": "Every step counts, move ahead.",
+      "persian": "هر قدم مهمه، جلو برو.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666223"
+    },
+    {
+      "english": "You're making great progress, amazing!",
+      "persian": "پیشرفت خوبی داری میکنی، عالیه!",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666226"
+    },
+    {
+      "english": "Focus on your goal, stay driven.",
+      "persian": "تمرکز کن رو هدفت، با انگیزه بمون.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666229"
+    },
+    {
+      "english": "One day at a time, win.",
+      "persian": "یه روز در میان، پیروز شو.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666232"
+    },
+    {
+      "english": "Your hard work shines through.",
+      "persian": "تلاش سختت داره خودشو نشون میده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666235"
+    },
+    {
+      "english": "You have the power, unleash it.",
+      "persian": "قدرتشو داری، آزادش کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666238"
+    },
+    {
+      "english": "Stay positive, it's worth it.",
+      "persian": "مثبت باش، ارزششو داره.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666241"
+    },
+    {
+      "english": "This challenge makes you stronger.",
+      "persian": "این چالش تو رو قوی تر میکنه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666243"
+    },
+    {
+      "english": "Great effort, keep it up.",
+      "persian": "تلاش عالی، ادامه‌ش بده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666246"
+    },
+    {
+      "english": "Keep your spirit high, always.",
+      "persian": "روحیه‌تو بالا نگه دار، همیشه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666249"
+    },
+    {
+      "english": "Small wins build big success.",
+      "persian": "موفقیت های کوچیک، موفقیت بزرگ میسازن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666252"
+    },
+    {
+      "english": "You're getting closer, don't stop.",
+      "persian": "داری نزدیکتر میشی، وایسا نه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666257"
+    },
+    {
+      "english": "Persistence pays off, truly.",
+      "persian": "پشتکار جواب میده، واقعا.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666260"
+    },
+    {
+      "english": "What a fantastic achievement!",
+      "persian": "چه دستاورد فوق العاده ای!",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666263"
+    },
+    {
+      "english": "You're building a strong foundation.",
+      "persian": "داری یه پایه محکم میسازی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666266"
+    },
+    {
+      "english": "Embrace the process, learn more.",
+      "persian": "روند رو بپذیر، بیشتر یاد بگیر.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666269"
+    },
+    {
+      "english": "You're exceeding expectations, wow.",
+      "persian": "داری از انتظارها فراتر میری، وای.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666271"
+    },
+    {
+      "english": "Success is a journey, not a destination.",
+      "persian": "موفقیت یه سفره، نه مقصد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666274"
+    },
+    {
+      "english": "You've got the grit, keep going.",
+      "persian": "اراده‌شو داری، ادامه بده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666277"
+    },
+    {
+      "english": "Every effort matters, a lot.",
+      "persian": "هر تلاشی مهمه، خیلی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666282"
+    },
+    {
+      "english": "Keep your focus, you'll win.",
+      "persian": "تمرکزتو حفظ کن، میبری.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666285"
+    },
+    {
+      "english": "This is your chance, seize it.",
+      "persian": "این فرصت توئه، ازش استفاده کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666289"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "persian": "به خودت ایمان داشته باش، میتونی انجامش بدی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666292"
+    },
+    {
+      "english": "Your potential is limitless, explore it.",
+      "persian": "پتانسیل تو بی نهایته، کشفش کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666295"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "persian": "تو از چیزی که فکر میکنی قوی تری.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666298"
+    },
+    {
+      "english": "That's a great idea, pursue it.",
+      "persian": "چه ایده خوبی، دنبالش کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666301"
+    },
+    {
+      "english": "Stay focused, you're doing well.",
+      "persian": "متمرکز باش، داری خوب پیش میری.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666304"
+    },
+    {
+      "english": "Every challenge is a learning opportunity.",
+      "persian": "هر چالشی، فرصت یادگیریه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666308"
+    },
+    {
+      "english": "Don't underestimate your abilities.",
+      "persian": "توانایی هاتو دست کم نگیر.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666311"
+    },
+    {
+      "english": "What a brilliant achievement!",
+      "persian": "چه دستاورد درخشانی!",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666314"
+    },
+    {
+      "english": "Progress, not perfection, is key.",
+      "persian": "پیشرفت، نه کمال، اصل کاره.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666317"
+    },
+    {
+      "english": "You're inspiring others, keep it up.",
+      "persian": "داری دیگران رو الهام میدی، ادامه بده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666320"
+    },
+    {
+      "english": "Embrace the journey, enjoy the ride.",
+      "persian": "سفر رو بپذیر، از مسیر لذت ببر.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666322"
+    },
+    {
+      "english": "Let your passion guide you forward.",
+      "persian": "بذار اشتیاقت هدایتت کنه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666325"
+    },
+    {
+      "english": "This is a fantastic start, well done.",
+      "persian": "این شروع فوق العاده ايه، آفرین.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666328"
+    },
+    {
+      "english": "You're growing, and that's wonderful.",
+      "persian": "داری رشد میکنی، و این عالیه.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666331"
+    },
+    {
+      "english": "Keep that drive alive, you will succeed.",
+      "persian": "این انگیزه رو زنده نگه دار، موفق میشی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666333"
+    },
+    {
+      "english": "Your efforts are noticed and valued.",
+      "persian": "تلاش هات دیده میشه و ارزشمنده.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666336"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "persian": "منحنی یادگیری رو قبول کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666339"
+    },
+    {
+      "english": "You have what it takes.",
+      "persian": "اون چیزی که لازمه رو داری.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666341"
+    },
+    {
+      "english": "Don't be afraid to take risks.",
+      "persian": "از ریسک کردن نترس.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666344"
+    },
+    {
+      "english": "Your vision is powerful, act on it.",
+      "persian": "دیدگاه تو قویه، اجراش کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666347"
+    },
+    {
+      "english": "Stay resilient, bounce back stronger.",
+      "persian": "با قدرت مقاومت کن، قوی تر برگرد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666350"
+    },
+    {
+      "english": "You're building something great.",
+      "persian": "داری یه چیز عالی میسازی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666353"
+    },
+    {
+      "english": "Never stop believing in your dreams.",
+      "persian": "هیچ وقت از رویاهات دست نکش.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666355"
+    },
+    {
+      "english": "Walk your talk, prove it.",
+      "persian": "حرفت را راه برو، ثابت کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666358"
+    },
+    {
+      "english": "Go for it, full steam ahead.",
+      "persian": "بزن به دلِ خطر، با تمام قوا.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666361"
+    },
+    {
+      "english": "The early bird, catches the worm.",
+      "persian": "سحرخیز باش، تا کامروا شوی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666364"
+    },
+    {
+      "english": "Let your actions speak louder.",
+      "persian": "بگذار عملت، گویاتر باشد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666366"
+    },
+    {
+      "english": "Fortune favors the bold, dare.",
+      "persian": "بخت یارِ دلیران است، جسارت کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666369"
+    },
+    {
+      "english": "You've got the Midas touch, shine.",
+      "persian": "تو طلا می‌سازی، بدرخش.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666372"
+    },
+    {
+      "english": "Think big, start now.",
+      "persian": "بزرگ فکر کن، همین حالا شروع کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666377"
+    },
+    {
+      "english": "Where there's a will, there's a way.",
+      "persian": "خواستن توانستن است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666380"
+    },
+    {
+      "english": "Give it your all, no regrets.",
+      "persian": "تمام جانت را بگذار، پشیمان نشوی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666384"
+    },
+    {
+      "english": "Success is built, brick by brick.",
+      "persian": "موفقیت، آجر به آجر ساخته می‌شود.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666387"
+    },
+    {
+      "english": "Plant seeds of success, watch them grow.",
+      "persian": "بذر موفقیت بکار، رشدش را ببین.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666390"
+    },
+    {
+      "english": "The sky's the limit, fly high.",
+      "persian": "آسمان، پایانِ تو نیست، پرواز کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666393"
+    },
+    {
+      "english": "Turn obstacles into stepping stones.",
+      "persian": "موانع را پله کن، برای پیشرفت.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666395"
+    },
+    {
+      "english": "You're a winner, own it.",
+      "persian": "تو برنده‌ای، سهمت را بگیر.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666398"
+    },
+    {
+      "english": "Keep the fire burning, stay driven.",
+      "persian": "آتشی که درونت است را روشن نگه دار.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666401"
+    },
+    {
+      "english": "Make it happen, no excuses.",
+      "persian": "ممکنش کن، بهانه نیاور.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666404"
+    },
+    {
+      "english": "Your dreams are valid, chase them.",
+      "persian": "رویاهایت ارزشمندند، دنبالشان کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666406"
+    },
+    {
+      "english": "Embrace challenges, they shape you.",
+      "persian": "چالش‌ها را بغل کن، تو را می‌سازند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666409"
+    },
+    {
+      "english": "Never give up, the best is yet to come.",
+      "persian": "هیچ‌وقت تسلیم نشو، بهترین‌ها در راهند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666412"
+    },
+    {
+      "english": "Success is a marathon, not a sprint.",
+      "persian": "موفقیت دوی ماراتن است، نه دوی سرعت.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666414"
+    },
+    {
+      "english": "Keep pushing forward, never look back.",
+      "persian": "همیشه رو به جلو برو، عقب را نگاه نکن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666417"
+    },
+    {
+      "english": "Let your passion fuel your progress.",
+      "persian": "بگذار اشتیاقت، سوختِ پیشرفتت باشد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666420"
+    },
+    {
+      "english": "Build momentum, unstoppable force.",
+      "persian": "شتاب بگیر، نیرویی که متوقف نمی‌شود.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666422"
+    },
+    {
+      "english": "You're destined for greatness, rise up.",
+      "persian": "سرنوشت تو با عظمت است، برخیز.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666426"
+    },
+    {
+      "english": "Every step counts, keep moving.",
+      "persian": "هر قدمی مهم است، حرکت کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666428"
+    },
+    {
+      "english": "Dare to dream, dare to do.",
+      "persian": "جرأت رویاپردازی کن، جرأت عمل کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666431"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "persian": "سخت‌کوشی تو، نتیجه خواهد داد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666434"
+    },
+    {
+      "english": "Deep breaths, then dive in.",
+      "persian": "نفس عمیق، بعد وارد شو.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666436"
+    },
+    {
+      "english": "Trust your gut feeling.",
+      "persian": "به حس درونت اعتماد کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666439"
+    },
+    {
+      "english": "This quiet moment, is progress.",
+      "persian": "این لحظه آرامش، پیشرفت است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666441"
+    },
+    {
+      "english": "Sometimes, less is truly more.",
+      "persian": "گاهی، کمتر واقعاً بیشتر است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666444"
+    },
+    {
+      "english": "What are you learning, today?",
+      "persian": "امروز، چه چیزی یاد می‌گیری؟",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666447"
+    },
+    {
+      "english": "Honesty, opens many doors.",
+      "persian": "صداقت، درهای زیادی باز می‌کند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666452"
+    },
+    {
+      "english": "My truth, is my strength.",
+      "persian": "حقیقت من، قدرت من است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666454"
+    },
+    {
+      "english": "Allow yourself, to feel it.",
+      "persian": "اجازه بده، خودت آن را حس کنی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666457"
+    },
+    {
+      "english": "Patience, is a quiet virtue.",
+      "persian": "صبر، فضیلتی آرام است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666460"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "persian": "چه چیزی واقعاً برایت مهم است؟",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666462"
+    },
+    {
+      "english": "Slow down, to speed up.",
+      "persian": "کند کن، تا تندتر روی.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666465"
+    },
+    {
+      "english": "This feeling, is temporary.",
+      "persian": "این احساس، موقتی است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666469"
+    },
+    {
+      "english": "Reflect, before you react.",
+      "persian": "تأمل کن، قبل از واکنش.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666472"
+    },
+    {
+      "english": "Inner peace, fuels outer success.",
+      "persian": "آرامش درونی، موفقیت بیرونی را تغذیه می‌کند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666477"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "persian": "به قلبت، با دقت گوش کن.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666479"
+    },
+    {
+      "english": "Vulnerability, is a hidden strength.",
+      "persian": "آسیب‌پذیری، یک قدرت پنهان است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666482"
+    },
+    {
+      "english": "What makes you, truly happy?",
+      "persian": "چه چیزی واقعاً تو را خوشحال می‌کند؟",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666485"
+    },
+    {
+      "english": "Be kind, especially to yourself.",
+      "persian": "مهربان باش، بخصوص با خودت.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666488"
+    },
+    {
+      "english": "Mistakes, are lessons learned.",
+      "persian": "اشتباهات، درس‌های آموخته شده هستند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666490"
+    },
+    {
+      "english": "The pause, between notes matters.",
+      "persian": "مکث، بین نت‌ها اهمیت دارد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666493"
+    },
+    {
+      "english": "Is this worth, your energy?",
+      "persian": "آیا این ارزش، انرژی تو را دارد؟",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666496"
+    },
+    {
+      "english": "Gratitude, shifts your perspective.",
+      "persian": "سپاسگزاری، دیدگاه تو را تغییر می‌دهد.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666499"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "persian": "بخشش، تو را آزاد می‌کند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666501"
+    },
+    {
+      "english": "Are you breathing, deeply enough?",
+      "persian": "آیا به اندازه کافی, عمیق نفس می‌کشی؟",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666504"
+    },
+    {
+      "english": "This feeling, is a signal.",
+      "persian": "این حس، یک نشانه است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666506"
+    },
+    {
+      "english": "Self-compassion, is essential.",
+      "persian": "شفقت به خود، ضروری است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666509"
+    },
+    {
+      "english": "Let go, of what's heavy.",
+      "persian": "رها کن، آنچه سنگین است.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666512"
+    },
+    {
+      "english": "Your inner voice, knows best.",
+      "persian": "صدای درونیت، بهترین را می‌داند.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666515"
+    },
+    {
+      "english": "Ask for help, it's a sign of strength.",
+      "persian": "کمک بخواه، نشانه قدرته.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666518"
+    },
+    {
+      "english": "Learn a little Persian, every day.",
+      "persian": "هر روز فارسی یاد بگیر، کم کم.",
+      "category": "Success",
+      "generated_at": "2026-10-30T09:48:59.666520"
     }
   ],
-  "last_updated": "2026-10-28T09:29:57.104628"
+  "last_updated": "2026-10-30T09:48:59.666522"
 }
