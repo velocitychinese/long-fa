@@ -10799,7 +10799,727 @@
       "persian": "اختلاف رو، با همدلی حل کن.",
       "category": "Inner Peace",
       "generated_at": "2026-11-01T10:17:29.192479"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "persian": "سلام، چطورین؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232809"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "persian": "از دیدنتون خوشحالم، واقعا.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232824"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "persian": "خوش آمدید، بفرمایید داخل.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232826"
+    },
+    {
+      "english": "What's your name, please?",
+      "persian": "اسمتون چیه، لطفا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232828"
+    },
+    {
+      "english": "My name is [Name], nice to meet you.",
+      "persian": "اسم من [اسم] هست، خوشبختم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232831"
+    },
+    {
+      "english": "Good morning, hope you're well.",
+      "persian": "صبح بخیر، امیدوارم حالتون خوب باشه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232833"
+    },
+    {
+      "english": "Good afternoon, how's it going?",
+      "persian": "عصر بخیر، اوضاع چطوره؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232836"
+    },
+    {
+      "english": "Good evening, have a nice night.",
+      "persian": "شب بخیر، شب خوبی داشته باشید.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232840"
+    },
+    {
+      "english": "How have you been lately?",
+      "persian": "این مدت چطور بودید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232842"
+    },
+    {
+      "english": "I'm doing great, thanks for asking.",
+      "persian": "من عالی هستم، ممنون که پرسیدید.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232844"
+    },
+    {
+      "english": "Not too bad, and you?",
+      "persian": "بد نیستم، شما چطور؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232846"
+    },
+    {
+      "english": "So, what brings you here?",
+      "persian": "خب، شما رو به اینجا چه چیزی آورده؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232848"
+    },
+    {
+      "english": "Are you new to this area?",
+      "persian": "شما تازه به این منطقه اومدید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232849"
+    },
+    {
+      "english": "Yes, I just moved in.",
+      "persian": "بله، تازه اینجا ساکن شدم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232852"
+    },
+    {
+      "english": "No, I've lived here for years.",
+      "persian": "نه، سال‌هاست که اینجا زندگی می‌کنم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232854"
+    },
+    {
+      "english": "What do you do for a living?",
+      "persian": "شغل شما چیه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232856"
+    },
+    {
+      "english": "I'm a student, studying [Subject].",
+      "persian": "من دانشجو هستم، در رشته [رشته] درس می‌خوانم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232858"
+    },
+    {
+      "english": "I work in [Industry], it's interesting.",
+      "persian": "من در [صنعت] کار می‌کنم، جالب است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232860"
+    },
+    {
+      "english": "It's lovely weather today, isn't it?",
+      "persian": "امروز هوا خیلی خوبه، نه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232862"
+    },
+    {
+      "english": "I hope it doesn't rain later.",
+      "persian": "امیدوارم بعدا باران نبارد.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232864"
+    },
+    {
+      "english": "Have you tried the local food yet?",
+      "persian": "غذای محلی را امتحان کرده‌اید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232866"
+    },
+    {
+      "english": "This place is really nice.",
+      "persian": "اینجا واقعا جای خوبی است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232867"
+    },
+    {
+      "english": "I'm glad we could meet up.",
+      "persian": "خوشحالم که توانستیم همدیگر را ببینیم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232869"
+    },
+    {
+      "english": "See you around, take care.",
+      "persian": "باز هم می‌بینمتون، مراقب خودتون باشید.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232871"
+    },
+    {
+      "english": "It was nice talking to you.",
+      "persian": "از صحبت با شما لذت بردم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232872"
+    },
+    {
+      "english": "Sure, here you go.",
+      "persian": "حتما، بفرمایید.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232874"
+    },
+    {
+      "english": "Let's keep in touch, okay?",
+      "persian": "در تماس باشیم، باشه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232877"
+    },
+    {
+      "english": "Definitely, I'd like that.",
+      "persian": "قطعا، دوست دارم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232879"
+    },
+    {
+      "english": "Can I ask, where are you from?",
+      "persian": "میشه پرسید، اهل کجا هستید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232881"
+    },
+    {
+      "english": "Are you here for business, or pleasure?",
+      "persian": "برای کار آمدید، یا تفریح؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232883"
+    },
+    {
+      "english": "What brings you to Tehran, specifically?",
+      "persian": "دقیقا، چه شما را به تهران آورد؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232885"
+    },
+    {
+      "english": "Have you visited Iran before, perhaps?",
+      "persian": "قبلا، ایران را دیده‌اید، شاید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232887"
+    },
+    {
+      "english": "How do you find our city, so far?",
+      "persian": "تا اینجا، شهر ما را چطور می‌یابید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232889"
+    },
+    {
+      "english": "Is this your first time in this neighborhood?",
+      "persian": "این اولین بارتان است، در این محله؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232892"
+    },
+    {
+      "english": "What's your favorite thing, about Persian culture?",
+      "persian": "مورد علاقه شما، در فرهنگ ایران چیست؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232894"
+    },
+    {
+      "english": "Are you learning Persian, by any chance?",
+      "persian": "ممکن است فارسی یاد بگیرید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232896"
+    },
+    {
+      "english": "How long have you been studying, Persian language?",
+      "persian": "چه مدت است، زبان فارسی می‌خوانید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232899"
+    },
+    {
+      "english": "Can you recommend any good restaurants nearby?",
+      "persian": "رستوران خوب، در نزدیکی پیشنهاد می‌کنید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232900"
+    },
+    {
+      "english": "Do you have any advice, for a newcomer?",
+      "persian": "توصیه‌ای دارید، برای تازه‌وارد؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232902"
+    },
+    {
+      "english": "Where is the best place, to buy souvenirs?",
+      "persian": "بهترین جا کجاست، برای خرید سوغاتی؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232903"
+    },
+    {
+      "english": "What should I absolutely see, while I'm here?",
+      "persian": "حتما چه چیزی را ببینم، تا اینجا هستم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232905"
+    },
+    {
+      "english": "Is there a popular local spot, you frequent?",
+      "persian": "جای محبوبی هست، که زیاد می‌روید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232907"
+    },
+    {
+      "english": "Could you help me with this, perhaps?",
+      "persian": "ممکن است کمکم کنید، با این؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232909"
+    },
+    {
+      "english": "Do you know any good Persian movies, maybe?",
+      "persian": "فیلم ایرانی خوبی، سراغ دارید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232911"
+    },
+    {
+      "english": "What kind of music, do you usually listen to?",
+      "persian": "چه نوع موسیقی، معمولا گوش می‌دهید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232913"
+    },
+    {
+      "english": "Are there any upcoming events, worth attending?",
+      "persian": "رویدادهای آینده‌ای هست، که ارزش دیدن دارد؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232914"
+    },
+    {
+      "english": "How long will you be staying, in Iran?",
+      "persian": "چه مدت در ایران خواهید ماند؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232921"
+    },
+    {
+      "english": "What's your favorite Persian dish, to eat?",
+      "persian": "غذای مورد علاقه شما، چیست؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232923"
+    },
+    {
+      "english": "Do you have any recommendations, for activities?",
+      "persian": "فعالیت خاصی، پیشنهاد می‌کنید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232924"
+    },
+    {
+      "english": "Is there anything I should avoid, doing?",
+      "persian": "چیزی هست که باید از انجامش پرهیز کنم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232926"
+    },
+    {
+      "english": "What's the best time, to visit this city?",
+      "persian": "بهترین زمان برای بازدید، از این شهر کی است؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232930"
+    },
+    {
+      "english": "Are you familiar with, the local customs?",
+      "persian": "با رسوم محلی، آشنایی دارید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232932"
+    },
+    {
+      "english": "How often do you come here, generally?",
+      "persian": "معمولا، چند وقت یکبار اینجا می‌آیید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232933"
+    },
+    {
+      "english": "What are your hobbies, outside of work?",
+      "persian": "سرگرمی‌های شما، بیرون از کار چیست؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232935"
+    },
+    {
+      "english": "Do you prefer tea, or coffee, in the morning?",
+      "persian": "صبح‌ها چای ترجیح می‌دهید، یا قهوه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232937"
+    },
+    {
+      "english": "What's your opinion, on the current situation?",
+      "persian": "نظر شما، در مورد اوضاع فعلی چیست؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232939"
+    },
+    {
+      "english": "Do you think it will rain, later today?",
+      "persian": "فکر می‌کنید، باران خواهد بارید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232941"
+    },
+    {
+      "english": "Every conversation, is a learning opportunity.",
+      "persian": "هر مکالمه، فرصتی برای یادگیری است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232943"
+    },
+    {
+      "english": "Don't be afraid, to be yourself.",
+      "persian": "از اینکه خودت باشی، نترس.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232946"
+    },
+    {
+      "english": "Keep pushing forward, you're doing great.",
+      "persian": "به جلو رفتن ادامه بده، عالی هستی.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232948"
+    },
+    {
+      "english": "Positive energy, is contagious.",
+      "persian": "انرژی مثبت، مسری است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232950"
+    },
+    {
+      "english": "Be open, to new experiences.",
+      "persian": "به تجربه‌های جدید، باز باش.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232951"
+    },
+    {
+      "english": "Your courage, is inspiring.",
+      "persian": "شجاعت تو، الهام‌بخش است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232953"
+    },
+    {
+      "english": "Every interaction, matters.",
+      "persian": "هر تعاملی، مهم است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232955"
+    },
+    {
+      "english": "Stay curious, ask questions.",
+      "persian": "کنجکاو بمان، سؤال بپرس.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232957"
+    },
+    {
+      "english": "Spread kindness, wherever you go.",
+      "persian": "مهربانی را، همه جا پخش کن.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232958"
+    },
+    {
+      "english": "This is a great start.",
+      "persian": "این یک شروع عالی است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232960"
+    },
+    {
+      "english": "You're making progress, beautifully.",
+      "persian": "تو داری زیبا پیشرفت می‌کنی.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232962"
+    },
+    {
+      "english": "Don't underestimate, your own strength.",
+      "persian": "قدرت خودت را، دست کم نگیر.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232964"
+    },
+    {
+      "english": "Be proud, of your achievements.",
+      "persian": "به دستاوردهایت، افتخار کن.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232966"
+    },
+    {
+      "english": "Embrace the journey, with joy.",
+      "persian": "سفر را، با شادی در آغوش بگیر.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232967"
+    },
+    {
+      "english": "Kind words, build bridges.",
+      "persian": "کلمات مهربان، پل می‌سازند.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232969"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "persian": "جرأت کن، رؤیاهای بزرگ ببینی.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232971"
+    },
+    {
+      "english": "You radiate, positivity.",
+      "persian": "تو مثبت‌اندیشی، را تابش می‌کنی.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232973"
+    },
+    {
+      "english": "Never give up, on yourself.",
+      "persian": "هرگز، تسلیم خودت نشو.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232974"
+    },
+    {
+      "english": "Where are you from, originally?",
+      "persian": "اصالتاً اهل کجایید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232976"
+    },
+    {
+      "english": "This place is great, isn't it?",
+      "persian": "اینجا خیلی باحاله، نه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232978"
+    },
+    {
+      "english": "Have you seen, this before?",
+      "persian": "قبلاً اینو دیدین؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232980"
+    },
+    {
+      "english": "It's a small world, indeed.",
+      "persian": "دنیای کوچیکیه، واقعا.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232982"
+    },
+    {
+      "english": "Mind if I join you?",
+      "persian": "اشکالی نداره، بیام پیشتون؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232983"
+    },
+    {
+      "english": "I love your style, honestly.",
+      "persian": "صادقانه بگم، تیپت رو دوست دارم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232986"
+    },
+    {
+      "english": "This is a fantastic coincidence.",
+      "persian": "چه تصادف خوبی!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232988"
+    },
+    {
+      "english": "Are you enjoying yourself?",
+      "persian": "بهتون خوش میگذره؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232989"
+    },
+    {
+      "english": "Let's grab a coffee, sometime.",
+      "persian": "یه قهوه ای با هم بزنیم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232991"
+    },
+    {
+      "english": "It's been ages, since we met.",
+      "persian": "خیلی وقته همدیگه رو ندیدیم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232993"
+    },
+    {
+      "english": "You look familiar, somehow.",
+      "persian": "یه جورایی آشنا به نظر میایین.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232995"
+    },
+    {
+      "english": "I'm so glad, we ran into each other.",
+      "persian": "خیلی خوشحالم که به هم برخوردیم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232996"
+    },
+    {
+      "english": "Do you speak English, a little?",
+      "persian": "انگلیسی کمی صحبت می‌کنید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.232998"
+    },
+    {
+      "english": "My Persian, is still beginner level.",
+      "persian": "فارسی من هنوز اولشه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233000"
+    },
+    {
+      "english": "That's a great insight, thanks.",
+      "persian": "چه دیدگاه خوبی، ممنون.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233002"
+    },
+    {
+      "english": "I'm visiting, from out of town.",
+      "persian": "من مسافر این شهرم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233005"
+    },
+    {
+      "english": "How is your day, going so far?",
+      "persian": "روزتون تا اینجا چطور بوده؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233007"
+    },
+    {
+      "english": "This is quite the gathering.",
+      "persian": "چه دورهمی خوبی!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233009"
+    },
+    {
+      "english": "You have a lovely accent.",
+      "persian": "لهجه قشنگی دارین.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233011"
+    },
+    {
+      "english": "I hope we meet again.",
+      "persian": "امیدوارم دوباره ببینمتون.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233012"
+    },
+    {
+      "english": "Are you enjoying the event?",
+      "persian": "از مراسم لذت می‌برید؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233014"
+    },
+    {
+      "english": "Can I offer you, something?",
+      "persian": "چیزی میل دارین؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233016"
+    },
+    {
+      "english": "It's a pleasure, talking to you.",
+      "persian": "از صحبت با شما خوشحالم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233018"
+    },
+    {
+      "english": "I feel a real connection, honestly.",
+      "persian": "واقعاً احساس نزدیکی می‌کنم، راستش.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233019"
+    },
+    {
+      "english": "This conversation, truly touched me.",
+      "persian": "این گفتگو، واقعاً منو تحت تاثیر قرار داد.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233021"
+    },
+    {
+      "english": "Your perspective, is very insightful.",
+      "persian": "دیدگاه شما، خیلی روشنگرانه است.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233024"
+    },
+    {
+      "english": "It's refreshing, to meet someone sincere.",
+      "persian": "آشنایی با یک آدم صادق، دلنشینه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233026"
+    },
+    {
+      "english": "I appreciate, your patience with me.",
+      "persian": "از صبر شما با من، سپاسگزارم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233027"
+    },
+    {
+      "english": "This moment feels, quite meaningful.",
+      "persian": "این لحظه، حس معنا‌داری داره.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233029"
+    },
+    {
+      "english": "I'm glad, we had this chat.",
+      "persian": "خوشحالم که این گپ رو زدیم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233032"
+    },
+    {
+      "english": "Your openness, is really appreciated.",
+      "persian": "رک گویی شما، واقعا ارزشمنده.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233033"
+    },
+    {
+      "english": "It feels good, to be understood.",
+      "persian": "احساس خوبیه، که فهمیده بشی.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233035"
+    },
+    {
+      "english": "I'm reflecting, on what you said.",
+      "persian": "دارم به حرف‌هاتون فکر می‌کنم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233037"
+    },
+    {
+      "english": "This connection, feels quite genuine.",
+      "persian": "این ارتباط، خیلی واقعیه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233039"
+    },
+    {
+      "english": "I'm genuinely happy, to meet you.",
+      "persian": "از دیدن شما، واقعا خوشحالم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233042"
+    },
+    {
+      "english": "Your thoughts, resonate deeply.",
+      "persian": "افکار شما، عمیقاً تاثیر گذاره.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233044"
+    },
+    {
+      "english": "It's a relief, to find common ground.",
+      "persian": "پیدا کردن نقطه مشترک، آرامش بخشه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233045"
+    },
+    {
+      "english": "I value, this sincerity.",
+      "persian": "این صداقت رو، گرامی می‌دارم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233048"
+    },
+    {
+      "english": "You've given me, much to consider.",
+      "persian": "خیلی چیزها برای فکر کردن، به من دادید.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233050"
+    },
+    {
+      "english": "This meeting, feels serendipitous.",
+      "persian": "این دیدار، یه جورایی اتفاقیه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233052"
+    },
+    {
+      "english": "I'm truly enjoying, our talk.",
+      "persian": "گفتگو با شما، واقعا لذت بخشه.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233053"
+    },
+    {
+      "english": "It's comforting, to connect like this.",
+      "persian": "اینطور وصل شدن، دلگرم‌کننده‌ست.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233055"
+    },
+    {
+      "english": "I feel a sense, of understanding.",
+      "persian": "حس می‌کنم یه درکی هست.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233057"
+    },
+    {
+      "english": "This interaction, feels valuable.",
+      "persian": "این تعامل، ارزشمنده.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233059"
+    },
+    {
+      "english": "I'm grateful, for this moment.",
+      "persian": "از این لحظه، سپاسگزارم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-02T10:49:15.233061"
     }
   ],
-  "last_updated": "2026-11-01T10:17:29.192481"
+  "last_updated": "2026-11-02T10:49:15.233062"
 }
