@@ -11519,7 +11519,727 @@
       "persian": "از این لحظه، سپاسگزارم.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-02T10:49:15.233061"
+    },
+    {
+      "english": "I’m on my way, see you soon.",
+      "persian": "دارم میام، زود می‌بینمت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142390"
+    },
+    {
+      "english": "Just a second, I’m checking now.",
+      "persian": "فقط یه ثانیه، الان چک می‌کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142405"
+    },
+    {
+      "english": "Sorry, I lost the email, where is it?",
+      "persian": "ببخشید، ایمیل رو گم کردم، کجاست؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142409"
+    },
+    {
+      "english": "Wait, let me open the file.",
+      "persian": "صبر کن، بذار فایل رو باز کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142412"
+    },
+    {
+      "english": "No worries, we can fix it.",
+      "persian": "نگران نباش، می‌تونیم درستش کنیم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142415"
+    },
+    {
+      "english": "I think we missed the deadline.",
+      "persian": "فکر کنم ددلاین رو جا انداختیم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142418"
+    },
+    {
+      "english": "Who is the contact for this project?",
+      "persian": "برای این پروژه، تماس‌گیر کیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142421"
+    },
+    {
+      "english": "Could you send it to me again?",
+      "persian": "می‌تونی دوباره برام بفرستی؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142426"
+    },
+    {
+      "english": "Let’s circle back on this tomorrow.",
+      "persian": "بیایم فردا دوباره روش حرف بزنیم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142431"
+    },
+    {
+      "english": "That makes sense, I understand.",
+      "persian": "آره، کاملاً منطقیه، فهمیدم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142434"
+    },
+    {
+      "english": "I’m running late, sorry about that.",
+      "persian": "دارم دیر می‌رسم، ببخشید.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142438"
+    },
+    {
+      "english": "Give me five minutes, please.",
+      "persian": "پنج دقیقه بهم وقت بده، لطفاً.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142440"
+    },
+    {
+      "english": "Let me think, give me a moment.",
+      "persian": "بذار فکر کنم، یه لحظه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142443"
+    },
+    {
+      "english": "I’ll handle it, don’t worry.",
+      "persian": "من انجامش می‌دم، نگران نباش.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142447"
+    },
+    {
+      "english": "That’s a good idea, let’s do it.",
+      "persian": "ایده‌ی خوبیِه، انجامش بدیم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142451"
+    },
+    {
+      "english": "Can we meet at 3, works for me?",
+      "persian": "می‌تونیم ساعت سه همدیگه رو ببینیم، اوکیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142453"
+    },
+    {
+      "english": "I’ll join the meeting in a minute.",
+      "persian": "یه دقیقه دیگه میام جلسه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142456"
+    },
+    {
+      "english": "Where do I submit this form?",
+      "persian": "این فرم رو کجا باید تحویل بدم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142459"
+    },
+    {
+      "english": "Please, keep me in the loop.",
+      "persian": "لطفاً من رو در جریان بذار.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142462"
+    },
+    {
+      "english": "Thanks, I’ve got it now.",
+      "persian": "ممنون، الان گرفتمش.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142465"
+    },
+    {
+      "english": "What’s the next step, exactly?",
+      "persian": "قدم بعدی دقیقاً چیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142469"
+    },
+    {
+      "english": "I’m stuck, how should I proceed?",
+      "persian": "گیر کردم، باید چطور ادامه بدم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142472"
+    },
+    {
+      "english": "That’s not what I meant, sorry.",
+      "persian": "منظورم اون نبود، ببخشید.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142475"
+    },
+    {
+      "english": "We need this ASAP, seriously.",
+      "persian": "این رو هرچه زودتر لازم داریم، جدی.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142478"
+    },
+    {
+      "english": "I’ll follow up after lunch.",
+      "persian": "بعد از ناهار پیگیری می‌کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142481"
+    },
+    {
+      "english": "No, I’m not available right now.",
+      "persian": "نه، الان وقت ندارم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142484"
+    },
+    {
+      "english": "That’s great news, congrats!",
+      "persian": "خبر عالیه، مبارک باشه!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142492"
+    },
+    {
+      "english": "How did it go, any updates?",
+      "persian": "چطور پیش رفت، خبری هست؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142495"
+    },
+    {
+      "english": "I can’t access the system.",
+      "persian": "به سیستم دسترسی ندارم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142498"
+    },
+    {
+      "english": "Understood, I’ll do it today.",
+      "persian": "متوجه شدم، امروز انجامش می‌دم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142501"
+    },
+    {
+      "english": "Can you confirm the meeting time?",
+      "persian": "می‌شود ساعت جلسه را تایید کنید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142504"
+    },
+    {
+      "english": "What should I prepare for today?",
+      "persian": "برای امروز چی آماده کنم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142506"
+    },
+    {
+      "english": "Who’s reviewing my draft, exactly?",
+      "persian": "دقیقاً چه کسی پیش‌نویسم را بررسی می‌کند؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142510"
+    },
+    {
+      "english": "Could you clarify the task requirements?",
+      "persian": "لطفاً شرایط کار را روشن‌تر بفرمایید.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142513"
+    },
+    {
+      "english": "Do you prefer email or chat?",
+      "persian": "ایمیل را ترجیح می‌دهید یا چت؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142516"
+    },
+    {
+      "english": "What’s the priority for this week?",
+      "persian": "اولویت این هفته چیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142519"
+    },
+    {
+      "english": "Is there a deadline I should know?",
+      "persian": "مهلت مشخصی هست که باید بدونم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142521"
+    },
+    {
+      "english": "May I ask who’s in charge here?",
+      "persian": "می‌تونم بپرسم مسئول اینجا کیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142525"
+    },
+    {
+      "english": "Can you share your feedback, please?",
+      "persian": "میشه نظرتون رو لطفاً بگید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142528"
+    },
+    {
+      "english": "How do we submit this internally?",
+      "persian": "این رو داخل شرکت چطور ثبت می‌کنیم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142530"
+    },
+    {
+      "english": "What’s the best way to reach you?",
+      "persian": "بهترین راه برای تماس با شما چیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142533"
+    },
+    {
+      "english": "Do you want the short version or full?",
+      "persian": "نسخه کوتاه رو می‌خواید یا کامل؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142536"
+    },
+    {
+      "english": "Should I update the spreadsheet now?",
+      "persian": "الان جدول رو به‌روزرسانی کنم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142538"
+    },
+    {
+      "english": "Which document is the latest version?",
+      "persian": "جدیدترین سند کدومه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142541"
+    },
+    {
+      "english": "Can we align on the goal first?",
+      "persian": "اول هدف رو با هم هماهنگ کنیم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142544"
+    },
+    {
+      "english": "What problem are we solving exactly?",
+      "persian": "دقیقاً داریم چه مشکلی رو حل می‌کنیم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142548"
+    },
+    {
+      "english": "How soon do you need the final copy?",
+      "persian": "نسخه نهایی رو کی لازم دارید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142551"
+    },
+    {
+      "english": "Would you mind reviewing this tomorrow morning?",
+      "persian": "میشه فردا صبح این رو بررسی کنید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142554"
+    },
+    {
+      "english": "Is the client expecting any specific changes?",
+      "persian": "مشتری منتظر تغییر خاصی هست؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142556"
+    },
+    {
+      "english": "Where can I find the guidelines?",
+      "persian": "دستورالعمل‌ها رو کجا پیدا کنم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142559"
+    },
+    {
+      "english": "What’s your recommendation for next steps?",
+      "persian": "برای قدم‌های بعدی چی پیشنهاد می‌دید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142562"
+    },
+    {
+      "english": "Do we have approval from the manager?",
+      "persian": "از طرف مدیر تایید داریم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142565"
+    },
+    {
+      "english": "Can you confirm the budget for this?",
+      "persian": "می‌تونید بودجه این کار رو تایید کنید؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142567"
+    },
+    {
+      "english": "Should I call you or message you?",
+      "persian": "زنگ بزنم یا پیام بدم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142570"
+    },
+    {
+      "english": "What’s the status of the task right now?",
+      "persian": "الان وضعیت این کار چیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142573"
+    },
+    {
+      "english": "If anything changes, let me know.",
+      "persian": "اگه چیزی تغییر کرد، به من خبر بدید.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142576"
+    },
+    {
+      "english": "How should I prioritize these requests?",
+      "persian": "این درخواست‌ها رو چطور اولویت‌بندی کنم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142578"
+    },
+    {
+      "english": "Are we meeting in person or online?",
+      "persian": "حضوری جلسه داریم یا آنلاین؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142583"
+    },
+    {
+      "english": "What risks should we watch for here?",
+      "persian": "اینجا چه ریسک‌هایی رو باید حواسمون باشه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142586"
+    },
+    {
+      "english": "You’ve got this, take it one step",
+      "persian": "تو می‌تونی، فقط قدم‌به‌قدم جلو برو",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142589"
+    },
+    {
+      "english": "Small progress, every day, adds up fast",
+      "persian": "پیشرفت کوچیک، هر روز، سریع جمع می‌شه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142592"
+    },
+    {
+      "english": "Clear mind, focused work, then you relax",
+      "persian": "ذهنِ آروم، کارِ متمرکز، بعدش راحت",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142595"
+    },
+    {
+      "english": "Start early, you’ll feel in control",
+      "persian": "زود شروع کن، کنترل دستته",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142599"
+    },
+    {
+      "english": "Don’t overthink, just draft the first version",
+      "persian": "زیادی فکر نکن، فقط نسخه اول رو بنویس",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142603"
+    },
+    {
+      "english": "Focus on solutions, not the noise",
+      "persian": "به راه‌حل فکر کن، نه حاشیه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142606"
+    },
+    {
+      "english": "You’re building momentum, keep going today",
+      "persian": "داری ریتم می‌گیری، امروز ادامه بده",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142611"
+    },
+    {
+      "english": "Nice work, that’s exactly the tone we need",
+      "persian": "آفرین، دقیقاً همون حسِ لازم بود",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142616"
+    },
+    {
+      "english": "Great job, your effort really shows",
+      "persian": "عالی بود، تلاش‌ت کاملاً معلومه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142619"
+    },
+    {
+      "english": "Perfect isn’t required, progress is enough",
+      "persian": "کامل بودن لازم نیست، پیشرفت کافیه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142623"
+    },
+    {
+      "english": "Breathe, reset, then tackle the task",
+      "persian": "نفس بکش، ریست کن، بعد کار رو بزن",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142626"
+    },
+    {
+      "english": "Keep it simple, you’ll move faster",
+      "persian": "ساده نگه دار، سریع‌تر جلو می‌ری",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142629"
+    },
+    {
+      "english": "You’re learning, mistakes are just data",
+      "persian": "داری یاد می‌گیری، اشتباه‌ها فقط داده‌ان",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142632"
+    },
+    {
+      "english": "Confidence grows with each completed task",
+      "persian": "اعتمادبه‌نفس با هر کارِ انجام‌شده بیشتر می‌شه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142635"
+    },
+    {
+      "english": "Good call, that decision fits the goal",
+      "persian": "انتخاب خوبی بود، اون تصمیم به هدف می‌خوره",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142638"
+    },
+    {
+      "english": "Let’s stay calm, we’ll handle it",
+      "persian": "آروم بمون، خودش درست می‌شه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142641"
+    },
+    {
+      "english": "You’re doing fine, just keep your pace",
+      "persian": "خوب داری جلو می‌ری، همون ریتم رو نگه دار",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142645"
+    },
+    {
+      "english": "Ask for help early, it saves time",
+      "persian": "زود کمک بخواه، زمانو نجات می‌ده",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142647"
+    },
+    {
+      "english": "That was smart, you handled it cleanly",
+      "persian": "هوشمندانه بود، خیلی تمیز مدیریت کردی",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142650"
+    },
+    {
+      "english": "Today, focus on impact, not perfection",
+      "persian": "امروز تمرکزت روی اثره، نه کمال",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142653"
+    },
+    {
+      "english": "You don’t need motivation, just start",
+      "persian": "انگیزه لازم نیست، فقط شروع کن",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142656"
+    },
+    {
+      "english": "Keep your goals visible, you’ll stay driven",
+      "persian": "هدف‌هات جلوت باشه، انگیزه‌ات می‌مونه",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142660"
+    },
+    {
+      "english": "Nice discipline, that schedule works",
+      "persian": "چه نظم خوبی، این برنامه جواب می‌ده",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142663"
+    },
+    {
+      "english": "Every call matters, be ready and clear",
+      "persian": "هر تماس مهمه، آماده و شفاف باش",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142665"
+    },
+    {
+      "english": "Small wins count, celebrate them quietly",
+      "persian": "بردهای کوچیک مهمه، آروم جشن بگیر",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142668"
+    },
+    {
+      "english": "Stay positive, the next try will work",
+      "persian": "مثبت بمون، دفعه بعدی جواب می‌ده",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142670"
+    },
+    {
+      "english": "You’re closer than you think, keep going",
+      "persian": "از چیزی که فکر می‌کنی نزدیک‌تری، ادامه بده",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142674"
+    },
+    {
+      "english": "Don’t fear deadlines, plan and move",
+      "persian": "از ددلاین نترس، برنامه‌ریزی کن و برو",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142677"
+    },
+    {
+      "english": "You handled pressure well, respect",
+      "persian": "زیر فشار خوب جمعش کردی، آفرین",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142679"
+    },
+    {
+      "english": "Honestly, I’m a bit overwhelmed today, but okay.",
+      "persian": "راستش، امروز یه‌کم تحت فشارم، ولی اوکی‌ام.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142683"
+    },
+    {
+      "english": "I need a moment, my brain is offline.",
+      "persian": "یه لحظه وقت لازم دارم، مغزم آفلاینه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142688"
+    },
+    {
+      "english": "I’m trying to stay patient, even with delays.",
+      "persian": "دارم سعی می‌کنم صبور باشم، حتی با تاخیرها.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142691"
+    },
+    {
+      "english": "I don’t want to rush, it’s not worth it.",
+      "persian": "نمی‌خوام عجله کنم، ارزشش رو نداره.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142695"
+    },
+    {
+      "english": "I’m okay admitting I need help right now.",
+      "persian": "اِشکالی نداره بگم الان کمک لازم دارم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142700"
+    },
+    {
+      "english": "I’m reflecting, what went wrong last week?",
+      "persian": "دارم فکر می‌کنم، هفته پیش چی اشتباه شد؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142704"
+    },
+    {
+      "english": "To be real, I’m stressed, but functional.",
+      "persian": "واقعی بگم، استرِس دارم، ولی کار راه می‌افته.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142707"
+    },
+    {
+      "english": "I’m keeping it honest, the timeline feels tight.",
+      "persian": "واقعی می‌گم، زمان‌بندی خیلی فشرده‌ست.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142710"
+    },
+    {
+      "english": "I’m learning, mistakes happen, no big drama.",
+      "persian": "دارم یاد می‌گیرم، اشتباه پیش میاد، درام نداریم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142714"
+    },
+    {
+      "english": "I want to do better, not just finish.",
+      "persian": "می‌خوام بهتر انجام بدم، فقط تمومش نکنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142719"
+    },
+    {
+      "english": "I’m listening, even if I disagree softly.",
+      "persian": "دارم گوش می‌کنم، حتی اگه آروم مخالفت کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142722"
+    },
+    {
+      "english": "I’m not mad, I’m just trying to clarify.",
+      "persian": "عصبانی نیستم، فقط دارم روشنش می‌کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142726"
+    },
+    {
+      "english": "If I’m quiet, I’m thinking, give me space.",
+      "persian": "اگه ساکتم، دارم فکر می‌کنم، فضا بده.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142729"
+    },
+    {
+      "english": "I can feel burnout coming, I’ll adjust.",
+      "persian": "می‌تونم حس کنم فرسودگی داره میاد، تنظیم می‌کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142733"
+    },
+    {
+      "english": "Today, I’m choosing calm over speed.",
+      "persian": "امروز، دارم آرامش رو به سرعت ترجیح می‌دم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142736"
+    },
+    {
+      "english": "I’m honest: this task is more emotional than it looks.",
+      "persian": "راستش رو بگم: این کار از چیزی که دیده می‌شه احساسی‌تره.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142740"
+    },
+    {
+      "english": "I want feedback, kindly, not like a jump-scare.",
+      "persian": "بازخورد می‌خوام، محترمانه، نه مثل ترس ناگهانی.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142743"
+    },
+    {
+      "english": "I’m trying to unfreeze, step by step.",
+      "persian": "دارم سعی می‌کنم از حالت یخ‌زده دربیام، قدم‌به‌قدم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142746"
+    },
+    {
+      "english": "I respect the process, even when I’m impatient.",
+      "persian": "فرآیند رو احترام می‌ذارم، حتی وقتی بی‌صبرم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142750"
+    },
+    {
+      "english": "I’m not giving up, I’m resetting my approach.",
+      "persian": "ول نمی‌کنم، دارم روشمو از نو می‌چینم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142753"
+    },
+    {
+      "english": "I feel heard, that helps me focus again.",
+      "persian": "حس می‌کنم حرفم رو شنیدن، دوباره تمرکزم بهتر می‌شه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142756"
+    },
+    {
+      "english": "I’m okay with delays, as long as it’s transparent.",
+      "persian": "با تاخیر مشکلی ندارم، فقط باید شفاف باشه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142760"
+    },
+    {
+      "english": "I’m taking responsibility, even if it’s uncomfortable.",
+      "persian": "دارم مسئولیت رو می‌پذیرم، حتی اگه ناراحت‌کننده‌ست.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142763"
+    },
+    {
+      "english": "I need clear expectations, my anxiety hates vagueness.",
+      "persian": "انتظارهای روشن می‌خوام، ابهام بهم می‌ریزه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142767"
+    },
+    {
+      "english": "I’m choosing honesty, the numbers don’t lie.",
+      "persian": "دارم صداقت رو انتخاب می‌کنم، عددها دروغ نمی‌گن.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142770"
+    },
+    {
+      "english": "I’m a little hurt, but I’ll handle it professionally.",
+      "persian": "یه‌کم دلم شکسته، ولی حرفه‌ای جمعش می‌کنم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142774"
+    },
+    {
+      "english": "I’m not perfect, but I’m consistent with my effort.",
+      "persian": "من کامل نیستم، ولی با تلاش‌م ثابتم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142777"
+    },
+    {
+      "english": "I’ll slow down, quality matters more to me.",
+      "persian": "کندتر پیش می‌رم، کیفیت برام مهم‌تره.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142783"
+    },
+    {
+      "english": "I’m trying to learn the lesson, not blame.",
+      "persian": "دارم یاد می‌گیرم، نه اینکه دنبال مقصر بگردم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142786"
+    },
+    {
+      "english": "Thanks for checking in, it steadies me.",
+      "persian": "ممنون که پیگیری کردی، بهم آرامش می‌ده.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142789"
+    },
+    {
+      "english": "Quick check, what’s the priority today?",
+      "persian": "یه چک سریع، اولویت امروز چیه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142792"
+    },
+    {
+      "english": "Send it now, we’ll review after lunch.",
+      "persian": "الان بفرستش، بعد از ناهار بررسی می‌کنیم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-03T10:41:36.142796"
     }
   ],
-  "last_updated": "2026-11-02T10:49:15.233062"
+  "last_updated": "2026-11-03T10:41:36.142798"
 }
