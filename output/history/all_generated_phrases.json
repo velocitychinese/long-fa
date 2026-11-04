@@ -12239,7 +12239,727 @@
       "persian": "الان بفرستش، بعد از ناهار بررسی می‌کنیم.",
       "category": "Work & Office",
       "generated_at": "2026-11-03T10:41:36.142796"
+    },
+    {
+      "english": "I’m trying, not giving up.",
+      "persian": "دارم تلاش می‌کنم، ول نمی‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.921992"
+    },
+    {
+      "english": "No worries, we’ll handle it.",
+      "persian": "نگران نباش، خودش درست می‌شه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922007"
+    },
+    {
+      "english": "Stay strong, it gets better.",
+      "persian": "قوی باش، بهتر می‌شه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922011"
+    },
+    {
+      "english": "Tell me what’s happening, please.",
+      "persian": "بگو چی شده، لطفاً.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922024"
+    },
+    {
+      "english": "That’s tough, but you can.",
+      "persian": "سختِ، ولی می‌تونی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922028"
+    },
+    {
+      "english": "Hold on, I’m coming now.",
+      "persian": "صبر کن، همین الآن میام.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922031"
+    },
+    {
+      "english": "Let it be, we’ll fix it.",
+      "persian": "ولش کن، درستش می‌کنیم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922035"
+    },
+    {
+      "english": "Are you okay, really?",
+      "persian": "حالت خوبه، واقعاً؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922040"
+    },
+    {
+      "english": "I mean it, don’t quit.",
+      "persian": "جدی می‌گم، ول نکن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922044"
+    },
+    {
+      "english": "We can do this, together.",
+      "persian": "میشه انجامش داد، با هم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922047"
+    },
+    {
+      "english": "I hear you, keep talking.",
+      "persian": "می‌فهمم، ادامه بده.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922050"
+    },
+    {
+      "english": "One step at a time, okay?",
+      "persian": "آروم آروم، یه‌قدم یه‌قدم، باشه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922055"
+    },
+    {
+      "english": "That’s nothing, you’ll be fine.",
+      "persian": "چیزی نیست، اوکی می‌شی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922060"
+    },
+    {
+      "english": "Wait, I’ll help you.",
+      "persian": "صبر کن، کمک می‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922064"
+    },
+    {
+      "english": "I’ve got your back, trust me.",
+      "persian": "پشتم به پشتم هست، باور کن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922067"
+    },
+    {
+      "english": "Don’t overthink it, breathe.",
+      "persian": "زیادی فکر نکن، یه نفس بکش.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922070"
+    },
+    {
+      "english": "That hurts, but you’re brave.",
+      "persian": "درد داره، ولی تو شجاعی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922073"
+    },
+    {
+      "english": "Okay, let’s try again.",
+      "persian": "باشه، دوباره امتحان کنیم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922076"
+    },
+    {
+      "english": "Be patient, it’ll work out.",
+      "persian": "صبور باش، درست می‌شه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922079"
+    },
+    {
+      "english": "I’m with you, step by step.",
+      "persian": "کنارتم، قدم‌به‌قدم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922082"
+    },
+    {
+      "english": "Keep it simple, just do it.",
+      "persian": "ساده نگه دار، انجام بده.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922085"
+    },
+    {
+      "english": "Oh wow, that’s impressive.",
+      "persian": "وای، چه عالیه!",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922088"
+    },
+    {
+      "english": "I’ll take care of it, promise.",
+      "persian": "من رسیدگی می‌کنم، قول.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922091"
+    },
+    {
+      "english": "Calm down, everything’s fine.",
+      "persian": "آرام باش، همه چی اوکیه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922094"
+    },
+    {
+      "english": "Give me a sec, I’m here.",
+      "persian": "یه دقیقه بده، من هستم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922097"
+    },
+    {
+      "english": "Don’t say that, you’ll recover.",
+      "persian": "این حرفو نزن، خوب می‌شی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922102"
+    },
+    {
+      "english": "Good job, you handled it well.",
+      "persian": "آفرین، خوب از پسش بر اومدی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922105"
+    },
+    {
+      "english": "How do you stay so strong, really?",
+      "persian": "واقعاً چطور اینقدر قوی می‌مونی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922108"
+    },
+    {
+      "english": "What helps you keep going, day to day?",
+      "persian": "روزمره چی بهت کمک می‌کنه ادامه بدی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922111"
+    },
+    {
+      "english": "When it gets hard, what do you do?",
+      "persian": "وقتی سخت می‌شه، چی کار می‌کنی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922114"
+    },
+    {
+      "english": "Do you have a routine that works?",
+      "persian": "یه برنامه ثابت داری که جواب می‌ده؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922116"
+    },
+    {
+      "english": "Tell me, what’s your secret mindset?",
+      "persian": "بگو، راز فکر و روحت چیه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922120"
+    },
+    {
+      "english": "How do you deal with stress, honestly?",
+      "persian": "راستش با استرس چطور کنار میای؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922122"
+    },
+    {
+      "english": "Want advice, or just someone to listen?",
+      "persian": "مشاوره می‌خوای، یا فقط یه نفر گوش بده؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922125"
+    },
+    {
+      "english": "Should I be worried about you?",
+      "persian": "باید نگرانِ تو باشم؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922128"
+    },
+    {
+      "english": "What motivates you, when things slow down?",
+      "persian": "وقتی اوضاع کند می‌شه، چی بهت انگیزه می‌ده؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922131"
+    },
+    {
+      "english": "Can we talk, I’m curious about you.",
+      "persian": "می‌شه حرف بزنیم؟ راجع به تو کنجکاوم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922134"
+    },
+    {
+      "english": "Do you ever feel weak, or no?",
+      "persian": "تا حالا حس کردی ضعیفی، یا نه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922137"
+    },
+    {
+      "english": "What’s one small win you’re proud of?",
+      "persian": "یه برد کوچیک که بهش افتخار می‌کنی چیه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922140"
+    },
+    {
+      "english": "Where do you get your courage from?",
+      "persian": "جرأتم رو از کجا میاری؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922142"
+    },
+    {
+      "english": "If you could restart, what would you do?",
+      "persian": "اگه از نو شروع کنی، چی کار می‌کنی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922145"
+    },
+    {
+      "english": "I’m impressed, but how did you learn?",
+      "persian": "واقعاً تحسینت می‌کنم، ولی چطور یاد گرفتی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922148"
+    },
+    {
+      "english": "Can I hold your hand through this?",
+      "persian": "اجازه می‌دی تو این مسیر کنارت باشم؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922150"
+    },
+    {
+      "english": "What boundaries keep you strong and calm?",
+      "persian": "چه مرزبندی‌هایی تو رو قوی و آروم نگه می‌داره؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922155"
+    },
+    {
+      "english": "How do you bounce back after setbacks?",
+      "persian": "بعد از شکست‌ها چطور برمی‌گردی جلو؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922157"
+    },
+    {
+      "english": "Want to share your latest struggle with me?",
+      "persian": "می‌خوای تازه‌ترین سختی‌هات رو بگی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922160"
+    },
+    {
+      "english": "Is it okay if I ask what hurts?",
+      "persian": "میشه بپرسم چی اذیتت می‌کنه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922162"
+    },
+    {
+      "english": "What’s your plan for tonight, strength-wise?",
+      "persian": "برای امشب برنامه‌ات چیه، از نظر قدرت؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922166"
+    },
+    {
+      "english": "You seem different today, what changed?",
+      "persian": "امروز فرق کردی، چی تغییر کرد؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922169"
+    },
+    {
+      "english": "Can I hype you up, just a bit?",
+      "persian": "اجازه هست یه کم تشویقت کنم؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922171"
+    },
+    {
+      "english": "Do you want support, or space right now?",
+      "persian": "الان حمایت می‌خوای، یا یه کم فضا؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922174"
+    },
+    {
+      "english": "What’s the next step you’re choosing?",
+      "persian": "قدم بعدی رو قراره چطور انتخاب کنی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922177"
+    },
+    {
+      "english": "Tell me your pace, I’ll match it.",
+      "persian": "سرعتت رو بگو، من همون‌طور میام جلو.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922180"
+    },
+    {
+      "english": "How do you protect your energy?",
+      "persian": "چطور انرژی‌ت رو محافظت می‌کنی؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922183"
+    },
+    {
+      "english": "Are you ready to try again with me?",
+      "persian": "آماده‌ای با هم دوباره امتحان کنیم؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922185"
+    },
+    {
+      "english": "Promise me, what’s your next move?",
+      "persian": "قول بده، قدم بعدی‌ات چیه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922188"
+    },
+    {
+      "english": "Strong thoughts, steady breath, keep moving.",
+      "persian": "فکر قوی، نفسِ آرام، ادامه بده.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922191"
+    },
+    {
+      "english": "You’ve got this, one moment at a time.",
+      "persian": "تو از پسش برمیای، فقط همین لحظه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922195"
+    },
+    {
+      "english": "Even small courage counts, today and tomorrow.",
+      "persian": "حتی شجاعتِ کوچک هم حساب میشه، امروز و فردا.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922198"
+    },
+    {
+      "english": "Mistakes teach, you’re learning your way up.",
+      "persian": "اشتباه‌ها یاد میدن، داری راهت رو بالا پیدا می‌کنی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922201"
+    },
+    {
+      "english": "Say it in your head, I can.",
+      "persian": "توی ذهنت بگو، من می‌تونم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922204"
+    },
+    {
+      "english": "No drama, just breathe and reset.",
+      "persian": "دروغِ زندگی نگو، نفس بکش و از نو شروع کن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922207"
+    },
+    {
+      "english": "When you fall, stand up wiser.",
+      "persian": "هر وقت افتادی، با تجربه‌تر بلند شو.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922209"
+    },
+    {
+      "english": "Your mind is training, keep showing up.",
+      "persian": "ذهن تو تمرین می‌کنه، بیا سر وقت.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922214"
+    },
+    {
+      "english": "You’re not stuck, you’re growing.",
+      "persian": "تو گیر نکردی، داری رشد می‌کنی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922217"
+    },
+    {
+      "english": "Let fear talk, you choose action.",
+      "persian": "ترس حرف بزنه، تو اقدام رو انتخاب کن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922220"
+    },
+    {
+      "english": "Give yourself credit, you worked for it.",
+      "persian": "به خودت پاداش بده، زحمت کشیدی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922222"
+    },
+    {
+      "english": "Today’s effort becomes tomorrow’s strength.",
+      "persian": "تلاشِ امروز، قدرتِ فرداست.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922226"
+    },
+    {
+      "english": "Keep your promises to yourself.",
+      "persian": "به قول‌هایی که به خودت دادی پایبند باش.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922228"
+    },
+    {
+      "english": "You’re allowed to be tired, not broken.",
+      "persian": "حق داری خسته باشی، ولی شکسته نه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922232"
+    },
+    {
+      "english": "One step beats perfect every time.",
+      "persian": "یک قدم از کامل بودن بهتره.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922234"
+    },
+    {
+      "english": "Good vibes start where you decide.",
+      "persian": "حال خوب از جایی شروع میشه که تصمیم می‌گیری.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922237"
+    },
+    {
+      "english": "Don’t chase courage, bring it with you.",
+      "persian": "دنبال شجاعت ندو، با خودت بیارش.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922240"
+    },
+    {
+      "english": "Your progress is real, even if quiet.",
+      "persian": "پیشرفتت واقعی است، حتی اگه آرومه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922243"
+    },
+    {
+      "english": "Talk to yourself like a teammate.",
+      "persian": "با خودت مثل هم‌تیمی حرف بزن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922245"
+    },
+    {
+      "english": "Say “I’ll try,” and watch it shift.",
+      "persian": "بگو «تلاش می‌کنم»، می‌بینی چی عوض میشه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922251"
+    },
+    {
+      "english": "You can handle this, trust your strength.",
+      "persian": "از پسش برمیای، به قدرتت اعتماد کن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922253"
+    },
+    {
+      "english": "Keep the focus, let the rest go.",
+      "persian": "تمرکز رو نگه دار، بقیه رو ول کن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922256"
+    },
+    {
+      "english": "Proud of you, you didn’t quit.",
+      "persian": "بهت افتخار می‌کنم، ول نکردی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922264"
+    },
+    {
+      "english": "Calm mind, firm heart, clear choices.",
+      "persian": "ذهن آروم، دل محکم، تصمیم درست.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922269"
+    },
+    {
+      "english": "Try again, but with kinder thoughts.",
+      "persian": "دوباره تلاش کن، با فکرهای مهربون‌تر.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922271"
+    },
+    {
+      "english": "Small steps today, big wins later.",
+      "persian": "قدم‌های کوچیک امروز، بردهای بزرگ بعداً.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922274"
+    },
+    {
+      "english": "You’re building strength, not just surviving.",
+      "persian": "داری قدرت می‌سازی، فقط زنده موندن نیست.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922278"
+    },
+    {
+      "english": "Trust the process, you’ll get there.",
+      "persian": "به مسیر اعتماد کن، می‌رسی.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922281"
+    },
+    {
+      "english": "Give yourself a break, then move.",
+      "persian": "به خودت استراحت بده، بعدش برو جلو.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922283"
+    },
+    {
+      "english": "Say “I’m learning,” and keep your pace.",
+      "persian": "بگو «دارم یاد می‌گیرم»، همون ریتم رو نگه دار.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922287"
+    },
+    {
+      "english": "Honestly, I feel calmer right now, thanks.",
+      "persian": "راستش، الان احساس آرامش می‌کنم، ممنون.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922290"
+    },
+    {
+      "english": "I’m scared, but I’m still moving forward.",
+      "persian": "می‌ترسم، ولی همچنان دارم جلو می‌رم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922293"
+    },
+    {
+      "english": "Sometimes I need patience, not pressure.",
+      "persian": "گاهی به صبر نیاز دارم، نه فشار.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922296"
+    },
+    {
+      "english": "I’ll be real, my heart is heavy today.",
+      "persian": "واقعی بگم، امروز دلم سنگینه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922299"
+    },
+    {
+      "english": "I listen first, then I speak from truth.",
+      "persian": "اول گوش می‌دم، بعد از روی حقیقت حرف می‌زنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922301"
+    },
+    {
+      "english": "I’m learning how to be gentle with myself.",
+      "persian": "دارم یاد می‌گیرم با خودم مهربون‌تر باشم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922304"
+    },
+    {
+      "english": "No rush, I’m processing things slowly.",
+      "persian": "عجله نیست، دارم آروم‌آروم پردازشش می‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922308"
+    },
+    {
+      "english": "I don’t hide it, I’m doing my best.",
+      "persian": "پنهان نمی‌کنم، بهترین تلاشم رو می‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922311"
+    },
+    {
+      "english": "I can miss you, and still be strong.",
+      "persian": "ممکنه دلتنگت بشم، و بازم قوی بمونم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922314"
+    },
+    {
+      "english": "I choose honesty, even when it’s uncomfortable.",
+      "persian": "حقیقت رو انتخاب می‌کنم، حتی وقتی سخت باشه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922317"
+    },
+    {
+      "english": "My feelings are valid, and I act anyway.",
+      "persian": "احساسام حق دارن، با این حال عمل می‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922320"
+    },
+    {
+      "english": "I pause, breathe, then I decide calmly.",
+      "persian": "می‌ایستم، نفس می‌کشم، بعد آروم تصمیم می‌گیرم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922323"
+    },
+    {
+      "english": "I’ll say it softly, but I mean it.",
+      "persian": "آروم می‌گم، ولی جدی هست.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922326"
+    },
+    {
+      "english": "I’m not okay, but I’m still here.",
+      "persian": "حالِ خوبی ندارم، ولی هنوز اینجام.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922329"
+    },
+    {
+      "english": "Let my words match my real pace.",
+      "persian": "بذار حرف‌هام با سرعت واقعی‌م یکی باشه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922331"
+    },
+    {
+      "english": "I reflect quietly, then I move with purpose.",
+      "persian": "آروم فکر می‌کنم، بعد با هدف حرکت می‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922334"
+    },
+    {
+      "english": "Some days, strength is just staying present.",
+      "persian": "بعضی روزها، قدرت یعنی فقط همین‌جا حاضر موندن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922337"
+    },
+    {
+      "english": "I don’t need to win, I need truth.",
+      "persian": "لازم نیست برنده بشم، حقیقت رو می‌خوام.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922341"
+    },
+    {
+      "english": "I’m allowed to feel, and still choose.",
+      "persian": "حق دارم حس کنم، و بازم انتخاب کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922345"
+    },
+    {
+      "english": "I’m rebuilding my trust, slowly, day by day.",
+      "persian": "دارم اعتمادم رو دوباره می‌سازم، آروم‌آروم، روز به روز.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922348"
+    },
+    {
+      "english": "If I’m hurt, I’ll say it plainly.",
+      "persian": "اگه زخمی‌ام، صریح می‌گم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922352"
+    },
+    {
+      "english": "I can be proud, and still be humble.",
+      "persian": "می‌تونم به خودم افتخار کنم، و بازم فروتن بمونم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922356"
+    },
+    {
+      "english": "I keep it real, I need time to heal.",
+      "persian": "واقعی بگم، زمان می‌خوام برای خوب شدن.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922359"
+    },
+    {
+      "english": "I’ll stop overthinking, and just do one thing.",
+      "persian": "بس می‌کنم بیش‌فکری، فقط یه کار ساده.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922362"
+    },
+    {
+      "english": "I’m grateful for small calm moments.",
+      "persian": "ممنونم برای لحظه‌های کوچیکِ آرامش.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922365"
+    },
+    {
+      "english": "I don’t bargain with my boundaries anymore.",
+      "persian": "دیگه با مرزهام معامله نمی‌کنم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922368"
+    },
+    {
+      "english": "I’m learning to ask for support, honestly.",
+      "persian": "دارم یاد می‌گیرم صادقانه کمک بخوام.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922428"
+    },
+    {
+      "english": "I can cry, then get back to work.",
+      "persian": "می‌تونم گریه کنم، بعد دوباره برگردم سر کار.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922431"
+    },
+    {
+      "english": "I’m choosing growth, even when it hurts.",
+      "persian": "رشد رو انتخاب می‌کنم، حتی اگه درد داشته باشه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922434"
+    },
+    {
+      "english": "I’ll trust myself, and keep it simple.",
+      "persian": "به خودم اعتماد می‌کنم، و ساده نگهش می‌دارم.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922437"
+    },
+    {
+      "english": "Breathe, then text back, no drama.",
+      "persian": "نفس بکش، بعد پیام بده، بی‌حاشیه.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922440"
+    },
+    {
+      "english": "Say it kindly, even when you’re annoyed.",
+      "persian": "مودبانه بگو، حتی وقتی عصبانی‌ای.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922443"
+    },
+    {
+      "english": "I’ll handle it, step one first.",
+      "persian": "خودم درستش می‌کنم، اول قدم اول.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922446"
+    },
+    {
+      "english": "Ask for help, it’s not a weakness.",
+      "persian": "کمک بخواه، این ضعف نیست.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T10:43:44.922450"
     }
   ],
-  "last_updated": "2026-11-03T10:41:36.142798"
+  "last_updated": "2026-11-04T10:43:44.922452"
 }
