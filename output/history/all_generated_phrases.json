@@ -12959,7 +12959,727 @@
       "persian": "کمک بخواه، این ضعف نیست.",
       "category": "Strength",
       "generated_at": "2026-11-04T10:43:44.922450"
+    },
+    {
+      "english": "Excuse me, where is the platform?",
+      "persian": "ببخشید، سکو کجاست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307404"
+    },
+    {
+      "english": "Which line goes to the center?",
+      "persian": "کدوم خط میره مرکز؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307425"
+    },
+    {
+      "english": "Does this bus stop near the station?",
+      "persian": "این اتوبوس نزدیک ایستگاه توقف می‌کنه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307427"
+    },
+    {
+      "english": "How long until it arrives, please?",
+      "persian": "لطفا تا رسیدنش چقدر مونده؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307429"
+    },
+    {
+      "english": "Is the next train departing now?",
+      "persian": "قطار بعدی الان حرکت می‌کنه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307431"
+    },
+    {
+      "english": "Sorry, I’m getting off here.",
+      "persian": "ببخشید، همینجا پیاده می‌شم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307433"
+    },
+    {
+      "english": "Please, can you move a bit?",
+      "persian": "خواهش می‌کنم، یه کم جا می‌دی؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307435"
+    },
+    {
+      "english": "Mind the gap, please.",
+      "persian": "لطفا حواست به فاصله باشه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307439"
+    },
+    {
+      "english": "I need a ticket, where do I go?",
+      "persian": "بلیط می‌خوام، کجا برم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307442"
+    },
+    {
+      "english": "How much is a single ride?",
+      "persian": "کرایه تک‌سفر چقدره؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307444"
+    },
+    {
+      "english": "Do I tap the card here?",
+      "persian": "اینجا کارت رو بکشم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307446"
+    },
+    {
+      "english": "Where can I buy a day pass?",
+      "persian": "کجا بلیت روزانه بخرم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307447"
+    },
+    {
+      "english": "Sorry, is there a free seat?",
+      "persian": "ببخشید، جایی خالی هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307449"
+    },
+    {
+      "english": "I’m going to stop at Park Street.",
+      "persian": "می‌خوام تو خیابون پارک پیاده شم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307451"
+    },
+    {
+      "english": "Is this the right direction?",
+      "persian": "این مسیر درسته؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307453"
+    },
+    {
+      "english": "When is the last bus, do you know?",
+      "persian": "آخرین اتوبوس کیه، می‌دونی؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307455"
+    },
+    {
+      "english": "Where do I transfer for downtown?",
+      "persian": "برای مرکز شهر، کجا تعویض کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307457"
+    },
+    {
+      "english": "Quick question, what time is it?",
+      "persian": "یه سوال کوتاه، ساعت چنده؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307458"
+    },
+    {
+      "english": "Is Wi-Fi available on this train?",
+      "persian": "روی این قطار اینترنت هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307460"
+    },
+    {
+      "english": "Please hold the door, thanks.",
+      "persian": "لطفا در رو نگه دار، ممنون.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307462"
+    },
+    {
+      "english": "The bus is late, right?",
+      "persian": "اتوبوس دیر کرده، درسته؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307464"
+    },
+    {
+      "english": "Can I use cash for the fare?",
+      "persian": "می‌شه با پول نقد کرایه داد؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307465"
+    },
+    {
+      "english": "Are we there yet, or almost?",
+      "persian": "رسیدیم یا هنوز مونده؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307467"
+    },
+    {
+      "english": "I missed my stop, what now?",
+      "persian": "ایستگاه رو جا انداختم، حالا چی کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307469"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "persian": "نگران نباش، درست می‌کنیم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307471"
+    },
+    {
+      "english": "It’s crowded, can you squeeze in?",
+      "persian": "شلوغه، جا می‌شی؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307473"
+    },
+    {
+      "english": "Please keep your bag close.",
+      "persian": "لطفا کیف‌ت رو نزدیک نگه دار.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307474"
+    },
+    {
+      "english": "Sorry, I need to get past you.",
+      "persian": "ببخشید، می‌شه رد بشم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307476"
+    },
+    {
+      "english": "The train is delayed again.",
+      "persian": "باز هم قطار عقب افتاد.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307478"
+    },
+    {
+      "english": "Thank you, have a nice day!",
+      "persian": "ممنون، روز خوبی داشته باشی!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307481"
+    },
+    {
+      "english": "Hi, can I ask you something quickly?",
+      "persian": "سلام، می‌تونم یه سوال کوتاه بپرسم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307484"
+    },
+    {
+      "english": "What’s the fastest way to get there?",
+      "persian": "سریع‌ترین راهش چیه که برسیم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307487"
+    },
+    {
+      "english": "Is this route going past the hospital?",
+      "persian": "این مسیر، از جلوی بیمارستان رد می‌شه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307489"
+    },
+    {
+      "english": "Do I need to change buses here?",
+      "persian": "اینجا باید اتوبوس عوض کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307491"
+    },
+    {
+      "english": "Which stop should I watch for?",
+      "persian": "کدوم ایستگاه رو باید نگا کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307492"
+    },
+    {
+      "english": "Does this tram go downtown, too?",
+      "persian": "این تراموا هم مرکز شهر رو می‌ره؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307494"
+    },
+    {
+      "english": "Can you tell me the next stop?",
+      "persian": "می‌شه لطفا ایستگاه بعدی رو بگید؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307496"
+    },
+    {
+      "english": "How often do buses come on weekends?",
+      "persian": "آخر هفته‌ها اتوبوس‌ها هر چند می‌آد؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307498"
+    },
+    {
+      "english": "Is there a restroom on this line?",
+      "persian": "روی این خط، سرویس بهداشتی هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307507"
+    },
+    {
+      "english": "What time is the morning rush least busy?",
+      "persian": "صبح‌ها کی کم‌جمعیته؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307508"
+    },
+    {
+      "english": "Should I queue at the front door?",
+      "persian": "باید جلو در صف بایستم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307510"
+    },
+    {
+      "english": "Is there luggage space for a suitcase?",
+      "persian": "جای چمدون کجاست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307512"
+    },
+    {
+      "english": "Do you know if it’s wheelchair friendly?",
+      "persian": "می‌دونید برای ویلچر مناسب هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307514"
+    },
+    {
+      "english": "Which platform number is it, exactly?",
+      "persian": "دقیقاً شماره سکوی چندش هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307516"
+    },
+    {
+      "english": "Can I get an transfer in the app?",
+      "persian": "می‌تونم انتقال رو توی اپ بگیرم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307518"
+    },
+    {
+      "english": "Is there a map of the routes here?",
+      "persian": "نقشه مسیرها اینجاست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307520"
+    },
+    {
+      "english": "What’s your advice for avoiding crowds?",
+      "persian": "برای شلوغی، چه پیشنهادی داری؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307522"
+    },
+    {
+      "english": "Do students ride for cheaper here?",
+      "persian": "برای دانشجوها تخفیف هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307524"
+    },
+    {
+      "english": "Is there a stop near my hotel?",
+      "persian": "نزدیک هتلم ایستگاه هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307525"
+    },
+    {
+      "english": "How do I confirm the right direction?",
+      "persian": "چطور بفهمم مسیر درسته؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307527"
+    },
+    {
+      "english": "If I miss it, what’s the backup plan?",
+      "persian": "اگه رد بشه، چیکار کنیم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307529"
+    },
+    {
+      "english": "Are there announcements in English, by chance?",
+      "persian": "توی ایستگاه، اعلام انگلیسی هم هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307531"
+    },
+    {
+      "english": "Where should I stand while waiting?",
+      "persian": "هنگام انتظار، کجا وایستم بهتره؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307533"
+    },
+    {
+      "english": "Does this bus accept mobile tickets?",
+      "persian": "این اتوبوس بلیت موبایلی قبول می‌کنه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307535"
+    },
+    {
+      "english": "Can I check the timetable with you?",
+      "persian": "می‌شه برنامه حرکت رو با هم چک کنیم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307539"
+    },
+    {
+      "english": "Is the next connection within ten minutes?",
+      "persian": "اتصال بعدی زیر ده دقیقه هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307542"
+    },
+    {
+      "english": "What happens if my card doesn’t work?",
+      "persian": "اگه کارت جواب نده، چی کار کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307545"
+    },
+    {
+      "english": "Do you know where I can recharge?",
+      "persian": "می‌دونی کجا شارژ کنم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307548"
+    },
+    {
+      "english": "Is it okay to ask the driver?",
+      "persian": "می‌شه از راننده سوال پرسید؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307550"
+    },
+    {
+      "english": "Thanks, last one—what stop is closest?",
+      "persian": "مرسی، آخرین سوال، نزدیک‌ترین ایستگاه کدومه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307553"
+    },
+    {
+      "english": "Driver, does this go straight, right?",
+      "persian": "راننده، این مستقیم میره، نه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307556"
+    },
+    {
+      "english": "I’ll pay, you just tap the card.",
+      "persian": "من پول میدم، تو فقط کارت رو بزن.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307562"
+    },
+    {
+      "english": "Hold on, the doors close fast.",
+      "persian": "صبر کن، درها زود بسته میشن.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307564"
+    },
+    {
+      "english": "At the next station, we switch lines.",
+      "persian": "ایستگاه بعدی، خطمون عوض میشه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307567"
+    },
+    {
+      "english": "Is there a spot for my backpack?",
+      "persian": "برای کوله‌پشتم جا هست؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307570"
+    },
+    {
+      "english": "When it stops, everyone jumps in.",
+      "persian": "همین که نگه میداره، همه میپرن تو.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307573"
+    },
+    {
+      "english": "Take it easy, we have time.",
+      "persian": "آرام باش، وقت داریم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307575"
+    },
+    {
+      "english": "This line gets busy around five.",
+      "persian": "این خط حوالی پنج شلوغ میشه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307578"
+    },
+    {
+      "english": "Tell me, which gate does it stop at?",
+      "persian": "بگو کدوم در می‌ایسته، لطفا.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307582"
+    },
+    {
+      "english": "No need to rush, it comes often.",
+      "persian": "عجله نکن، پرتکراره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307584"
+    },
+    {
+      "english": "If you miss it, the next one follows.",
+      "persian": "اگه جا بمونی، یکی دیگه دنبالش میاد.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307587"
+    },
+    {
+      "english": "Do they check tickets on this bus?",
+      "persian": "این اتوبوس بلیط رو چک می‌کنن؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307590"
+    },
+    {
+      "english": "I’m getting off, thanks for the heads-up.",
+      "persian": "من پیاده میشم، مرسی از تذکر.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307595"
+    },
+    {
+      "english": "Are we turning here, or going around?",
+      "persian": "اینجا پیچ می‌کنه، یا دور می‌زنه؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307597"
+    },
+    {
+      "english": "Keep your phone safe in your hand.",
+      "persian": "گوشی رو تو دستت امن نگه دار.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307600"
+    },
+    {
+      "english": "They’re selling cards at the counter, right?",
+      "persian": "اونجا کارت می‌فروشن، درسته؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307603"
+    },
+    {
+      "english": "The station is right across the street.",
+      "persian": "ایستگاه اون طرف خیابونِه، همینه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307605"
+    },
+    {
+      "english": "I prefer the middle, it’s quieter.",
+      "persian": "واسطش بهتره، آروم‌تره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307608"
+    },
+    {
+      "english": "Don’t block the aisle, please.",
+      "persian": "راهرو رو نبند، خواهش می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307611"
+    },
+    {
+      "english": "Is this seat reserved, or free?",
+      "persian": "این صندلی رزروئه، یا آزاد؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307614"
+    },
+    {
+      "english": "Which direction is the city center?",
+      "persian": "برای مرکز شهر باید کدوم سمت باشیم؟",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307616"
+    },
+    {
+      "english": "Just follow the signs, you’ll be fine.",
+      "persian": "فقط تابلوها رو دنبال کن، مشکلی نیست.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307620"
+    },
+    {
+      "english": "We’ll get off, then walk a bit.",
+      "persian": "پیاده میشیم، بعدش یه کم راه میریم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307622"
+    },
+    {
+      "english": "The platform is changing, listen up.",
+      "persian": "سکوی ایستگاه عوض شده، گوش کن.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307625"
+    },
+    {
+      "english": "This stop is a real landmark here.",
+      "persian": "این ایستگاه اینجا معروفه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307629"
+    },
+    {
+      "english": "When in doubt, ask someone nearby.",
+      "persian": "اگه شک داری، از یکی نزدیک بپرس.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307631"
+    },
+    {
+      "english": "After work, it’s chaos on the bus.",
+      "persian": "بعد از کار، اتوبوس تبدیل میشه به شلوغی.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307634"
+    },
+    {
+      "english": "Your turn—show me your ticket, please.",
+      "persian": "نوبت شماست، بلیط رو نشون بده.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307637"
+    },
+    {
+      "english": "Let’s catch the next one, fast.",
+      "persian": "زود باش، بریم سرِ بعدی.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307640"
+    },
+    {
+      "english": "Even if you’re late, it’s never over.",
+      "persian": "دیر هم بشی، تمومه دیگه نیست.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307643"
+    },
+    {
+      "english": "I’m a little nervous, but I’ll manage.",
+      "persian": "کمی نگرانم، ولی خودم جمع‌وجورش می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307646"
+    },
+    {
+      "english": "Today I just want a calm ride.",
+      "persian": "امروز فقط یه مسیر آروم می‌خوام.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307649"
+    },
+    {
+      "english": "I’ll breathe, wait, and stay patient.",
+      "persian": "نفس می‌کشم، صبر می‌کنم، آروم می‌مونم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307652"
+    },
+    {
+      "english": "Honestly, I lose track when it’s crowded.",
+      "persian": "راستش، وقتی شلوغه گیجم می‌ره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307657"
+    },
+    {
+      "english": "I try to stay cool, even late.",
+      "persian": "سعی می‌کنم حتی اگه دیر شد، آروم بمونم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307659"
+    },
+    {
+      "english": "This ride feels longer than it should.",
+      "persian": "این سفر از چیزی که باید، طولانی‌تره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307662"
+    },
+    {
+      "english": "I’m learning routes by quiet trial and error.",
+      "persian": "دارم مسیرها رو با آزمون و خطای آروم یاد می‌گیرم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307665"
+    },
+    {
+      "english": "I don’t mind waiting, it builds trust.",
+      "persian": "منتظر موندن برام مهم نیست، اعتماد می‌سازه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307668"
+    },
+    {
+      "english": "Sometimes I feel brave, just getting on.",
+      "persian": "گاهی وقتی فقط سوار می‌شم، احساس شجاعت می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307670"
+    },
+    {
+      "english": "I’ll keep my wallet close, no panic.",
+      "persian": "پول‌هام رو نزدیک نگه می‌دارم، وحشت نه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307672"
+    },
+    {
+      "english": "I need clarity, not confusion today.",
+      "persian": "امروز فقط وضوح می‌خوام، نه گیجی.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307674"
+    },
+    {
+      "english": "I’m grateful when someone offers real help.",
+      "persian": "وقتی کسی کمک واقعی می‌کنه، واقعاً ممنون می‌شم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307676"
+    },
+    {
+      "english": "I keep my expectations low, it helps.",
+      "persian": "انتظارمو پایین نگه می‌دارم، بهتر می‌شه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307678"
+    },
+    {
+      "english": "If I’m unsure, I’ll ask kindly, calmly.",
+      "persian": "اگه مطمئن نیستم، محترمانه و آروم می‌پرسم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307680"
+    },
+    {
+      "english": "I’m proud I’m figuring this out.",
+      "persian": "خوشحالم که دارم سر و تهش رو درمیارم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307683"
+    },
+    {
+      "english": "The best moves are quiet and simple.",
+      "persian": "بهترین تصمیم‌ها ساد‌ه‌ان، آروم و بی‌حاشیه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307684"
+    },
+    {
+      "english": "I can’t rush, I’m part of the flow.",
+      "persian": "نمی‌تونم عجله کنم، منم بخشی از جریانم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307686"
+    },
+    {
+      "english": "I hate getting overwhelmed, so I pause.",
+      "persian": "از شلوغیِ ذهنی خوشم نمیاد، پس مکث می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307688"
+    },
+    {
+      "english": "I’m trying to read the signs, slowly.",
+      "persian": "دارم سعی می‌کنم تابلوها رو آروم‌آروم بخونم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307692"
+    },
+    {
+      "english": "Even crowded rides can feel peaceful, sometimes.",
+      "persian": "گاهی حتی توی شلوغی هم می‌تونه آروم باشه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307694"
+    },
+    {
+      "english": "I remind myself, it’s okay to be new.",
+      "persian": "به خودم یادآوری می‌کنم، تازه‌کار بودن اشکالی نداره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307697"
+    },
+    {
+      "english": "My plan is simple, one stop at a time.",
+      "persian": "برنامم ساده‌ست، یه توقف به یه توقف.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307698"
+    },
+    {
+      "english": "I’m listening to my instincts, not stress.",
+      "persian": "به حس درونم گوش می‌دم، نه به استرس.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307700"
+    },
+    {
+      "english": "Right now, I just want things to work.",
+      "persian": "الان فقط می‌خوام همه چی درست پیش بره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307703"
+    },
+    {
+      "english": "I feel safer when I keep calm.",
+      "persian": "وقتی آرومم، بیشتر احساس امنیت می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307705"
+    },
+    {
+      "english": "I don’t judge, I just adjust my pace.",
+      "persian": "قضاوت نمی‌کنم، فقط سرعت خودمو تنظیم می‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307708"
+    },
+    {
+      "english": "I’m grateful for every smooth transfer today.",
+      "persian": "امروز هر جابه‌جاییِ روانی که می‌شه، ممنونم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307710"
+    },
+    {
+      "english": "Sometimes I overthink, but the bus keeps moving.",
+      "persian": "گاهی زیادی فکر می‌کنم، ولی اتوبوس راه خودش رو می‌ره.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307712"
+    },
+    {
+      "english": "I’ll stay alert, but I won’t panic.",
+      "persian": "هوشیار می‌مونم، ولی وحشت نمی‌کنم.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307714"
+    },
+    {
+      "english": "My heart settles when I find my seat.",
+      "persian": "وقتی جای خودمو پیدا می‌کنم، دلم آروم می‌شه.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-05T10:39:01.307716"
     }
   ],
-  "last_updated": "2026-11-04T10:43:44.922452"
+  "last_updated": "2026-11-05T10:39:01.307718"
 }
