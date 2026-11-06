@@ -13679,7 +13679,727 @@
       "persian": "وقتی جای خودمو پیدا می‌کنم، دلم آروم می‌شه.",
       "category": "Public Transportation",
       "generated_at": "2026-11-05T10:39:01.307716"
+    },
+    {
+      "english": "Pause for a second, notice what’s happening.",
+      "persian": "یه ثانیه مکث کن، ببین چی داره می‌گذره.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918789"
+    },
+    {
+      "english": "It’s okay, let it pass, slowly.",
+      "persian": "اشکال نداره، بذار رد بشه، آروم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918804"
+    },
+    {
+      "english": "Ground yourself, feel your feet, right now.",
+      "persian": "خودتو زمین‌گیر کن، حس کن پات کجاست، همین‌حالا.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918810"
+    },
+    {
+      "english": "Quick check-in, how do you feel, honestly?",
+      "persian": "یه چک سریع، خودت راستش چطوری، حسّش چیه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918813"
+    },
+    {
+      "english": "Say it softly, I’m here, I’m safe.",
+      "persian": "آروم به خودت بگو، من اینجام، امنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918816"
+    },
+    {
+      "english": "Hold on, breathe in, then breathe out.",
+      "persian": "صبر کن، نفس بکش تو، بعد بیرون بده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918819"
+    },
+    {
+      "english": "Slow down, don’t rush this moment.",
+      "persian": "آروم‌تر برو، عجله نکن برای این لحظه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918822"
+    },
+    {
+      "english": "Let go of that thought, gently.",
+      "persian": "اون فکر رو ول کن، با مهربونی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918826"
+    },
+    {
+      "english": "Look around, what do you notice first?",
+      "persian": "دورت رو نگاه کن، اول چی به چشم میاد؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918829"
+    },
+    {
+      "english": "I hear you, let’s take it slowly.",
+      "persian": "می‌فهمم چی می‌گی، بذار آروم‌آروم بریم جلو.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918832"
+    },
+    {
+      "english": "No stress, we’ve got time, trust me.",
+      "persian": "استرس نه، ما وقت داریم، به من اعتماد کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918835"
+    },
+    {
+      "english": "Stay present, don’t jump to the future.",
+      "persian": "همین‌الان باش، نپر به آینده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918838"
+    },
+    {
+      "english": "Right now, just focus on one thing.",
+      "persian": "همین الان، فقط روی یه چیز تمرکز کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918840"
+    },
+    {
+      "english": "This feeling will pass, okay?",
+      "persian": "این حس می‌گذره، باشه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918842"
+    },
+    {
+      "english": "Notice your body, shoulders, jaw, breathing.",
+      "persian": "بدنت رو ببین، شونه‌ها، فک، نفس کشیدنت.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918845"
+    },
+    {
+      "english": "Catch the moment, it’s enough for now.",
+      "persian": "لحظه رو بگیر، همین الان کافیه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918847"
+    },
+    {
+      "english": "I’m here with you, breathe together.",
+      "persian": "من کنارتم، با هم نفس بکشیم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918850"
+    },
+    {
+      "english": "Let it be, don’t fight with it.",
+      "persian": "بذارش باشه، باهاش نجنگ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918853"
+    },
+    {
+      "english": "When you notice, don’t judge, just observe.",
+      "persian": "وقتی فهمیدی، قضاوت نکن، فقط نگاه کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918856"
+    },
+    {
+      "english": "Relax your face, release the tension.",
+      "persian": "صورتت رو رها کن، تنش رو کم کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918858"
+    },
+    {
+      "english": "You can reset, right now, quietly.",
+      "persian": "می‌تونی از نو شروع کنی، همین‌حالا، آروم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918860"
+    },
+    {
+      "english": "What do you need, right at this second?",
+      "persian": "الان دقیقاً چی لازم داری، همین ثانیه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918862"
+    },
+    {
+      "english": "Be kind to yourself, small steps count.",
+      "persian": "با خودت مهربون باش، قدم‌های کوچیک مهمه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918865"
+    },
+    {
+      "english": "Let your thoughts slow down, a bit.",
+      "persian": "فکرهات رو آروم‌تر کن، یه کم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918866"
+    },
+    {
+      "english": "Stop, look, listen, then respond calmly.",
+      "persian": "ایست کن، نگاه کن، گوش بده، بعد آروم جواب بده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918869"
+    },
+    {
+      "english": "It’s fine, just breathe and continue.",
+      "persian": "فقط اوکیه، نفس بکش و ادامه بده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918871"
+    },
+    {
+      "english": "Right away, soften your grip, on purpose.",
+      "persian": "همین الان، مشت رو شُل کن، عمداً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918876"
+    },
+    {
+      "english": "If it’s too much, take a break.",
+      "persian": "اگه زیادیه، یه وقفه بگیر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918879"
+    },
+    {
+      "english": "No big deal, you’re doing your best.",
+      "persian": "چیزی نیست، تو نهایت تلاشت رو می‌کنی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918881"
+    },
+    {
+      "english": "Do you want advice or just to talk?",
+      "persian": "دوست داری راهنمایی بگیری، یا فقط حرف بزنی؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918885"
+    },
+    {
+      "english": "Can you name one feeling, without explaining?",
+      "persian": "می‌تونی فقط یک حس رو بگی، بدون توضیح؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918888"
+    },
+    {
+      "english": "Where do you feel it in your body?",
+      "persian": "این حس کجای بدنت تو رو می‌گیره؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918898"
+    },
+    {
+      "english": "Should we slow down, or keep moving?",
+      "persian": "کم‌کم‌تر بریم، یا همین‌طور ادامه بدیم؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918901"
+    },
+    {
+      "english": "What would be a kinder next step?",
+      "persian": "اگه بخوای مهربون‌تر جلو بری، بعدش چی کار کنی؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918903"
+    },
+    {
+      "english": "Are you okay, but maybe overwhelmed?",
+      "persian": "خوبی، ولی شاید زیادی سنگینه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918905"
+    },
+    {
+      "english": "Do you want to vent, or breathe first?",
+      "persian": "می‌خوای خالی کنی، یا اول نفس بگیری؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918907"
+    },
+    {
+      "english": "What helps, when your mind gets noisy?",
+      "persian": "وقتی ذهنت شلوغه، چی بهت کمک می‌کنه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918909"
+    },
+    {
+      "english": "Can you ask yourself, 'What do I need?'",
+      "persian": "می‌تونی از خودت بپرسی، «چی لازم دارم؟»",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918912"
+    },
+    {
+      "english": "Is this thought helpful, or just repeating?",
+      "persian": "این فکر بهت کمک می‌کنه، یا فقط تکرار می‌شه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918914"
+    },
+    {
+      "english": "Do you want a quick check-in now?",
+      "persian": "الان یه چک‌این کوتاه می‌خوای؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918916"
+    },
+    {
+      "english": "Where is your attention, right this moment?",
+      "persian": "الان توی ذهنت، توجه‌ات کجاست؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918918"
+    },
+    {
+      "english": "What’s one question you can explore gently?",
+      "persian": "یه سؤال آروم که می‌تونی بررسی کنی چیه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918922"
+    },
+    {
+      "english": "Do you notice any tension, even small?",
+      "persian": "می‌تونی حتی یه کم تنش رو حس کنی؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918924"
+    },
+    {
+      "english": "Can you answer with one word, maybe?",
+      "persian": "می‌تونی با یک کلمه جواب بدی، شاید؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918926"
+    },
+    {
+      "english": "What does your body say, right now?",
+      "persian": "بدنت الان چی می‌گه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918931"
+    },
+    {
+      "english": "Should we practice curiosity, not pressure?",
+      "persian": "تمرین کنجکاوی بهتره، نه فشار، باشه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918933"
+    },
+    {
+      "english": "How do you want to feel, today?",
+      "persian": "دوست داری امروز چه حسی داشته باشی؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918935"
+    },
+    {
+      "english": "What’s the smallest thing you can change?",
+      "persian": "کمترین تغییری که می‌تونی انجام بدی چیه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918937"
+    },
+    {
+      "english": "Do you want to talk about the trigger?",
+      "persian": "می‌خوای درباره‌ی چیزی که تحریکت کرد حرف بزنیم؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918940"
+    },
+    {
+      "english": "Is your mind racing, or staying steady?",
+      "persian": "ذهن‌ت می‌دوه، یا آروم و ثابت مونده؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918942"
+    },
+    {
+      "english": "What would 'safe' feel like for you?",
+      "persian": "«امن» بودن برای تو چه حسی داره؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918944"
+    },
+    {
+      "english": "Can you be honest, without being harsh?",
+      "persian": "می‌تونی صادق باشی، بی‌رحمانه نه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918946"
+    },
+    {
+      "english": "Do you need support, or space to breathe?",
+      "persian": "کمک می‌خوای، یا فضای تنفس لازم داری؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918948"
+    },
+    {
+      "english": "What are you avoiding, even a little?",
+      "persian": "حتی یه ذره چی رو داری دور می‌زنی؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918950"
+    },
+    {
+      "english": "Can we turn that into a question?",
+      "persian": "می‌تونیمش تبدیل کنیم به یک سؤال؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918952"
+    },
+    {
+      "english": "What’s the next thought you can let pass?",
+      "persian": "فکر بعدی‌ای که می‌تونی ولش کنی چیه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918954"
+    },
+    {
+      "english": "If it hurts, what do you want most?",
+      "persian": "اگه درد داره، بیشتر از همه چی می‌خوای؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918958"
+    },
+    {
+      "english": "Ready to try, one tiny mindful moment?",
+      "persian": "آماده‌ای، یه لحظه خیلی کوچیک تمرین کنیم؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918960"
+    },
+    {
+      "english": "You’re doing fine, even if it’s messy.",
+      "persian": "تو داری خوب پیش می‌ری، حتی اگر قاطی‌پاطی باشه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918965"
+    },
+    {
+      "english": "Keep going, slow and steady, no drama.",
+      "persian": "ادامه بده، آروم و پیوسته، بی‌حاشیه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918968"
+    },
+    {
+      "english": "Tell your mind, 'Thanks', then let it go.",
+      "persian": "به ذهنت بگو، «ممنون»، بعد ولش کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918970"
+    },
+    {
+      "english": "Good job noticing, you’re already practicing.",
+      "persian": "آفرین که متوجه شدی، همین خودش تمرینه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918973"
+    },
+    {
+      "english": "Your thoughts are visitors, not your boss.",
+      "persian": "فکرت مهمانِ میهمان است، رئیسِ تو نیست.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918976"
+    },
+    {
+      "english": "Be gentle, you don’t have to win.",
+      "persian": "مهربون باش، مجبور نیستی برنده بشی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918978"
+    },
+    {
+      "english": "Tiny wins count, seriously, keep stacking them.",
+      "persian": "بردهای کوچیک حساب می‌شه، جدی، دونه‌دونه جمعش کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918981"
+    },
+    {
+      "english": "Breathe like you mean it, right now.",
+      "persian": "نفس بکش، جدی جدی، همین الان.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918983"
+    },
+    {
+      "english": "Say yes to calm, one second at a time.",
+      "persian": "به آرامش بله بگو، هر ثانیه یکی‌یکی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918985"
+    },
+    {
+      "english": "Let it be, you’re not behind.",
+      "persian": "ولش کن، از بقیه عقب نیستی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918988"
+    },
+    {
+      "english": "Your body knows, listen, don’t argue.",
+      "persian": "بدنت می‌فهمه، گوش بده، دعوا نکن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918991"
+    },
+    {
+      "english": "You can start over, even mid-day.",
+      "persian": "می‌تونی از نو شروع کنی، حتی وسط روز.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918993"
+    },
+    {
+      "english": "It’s okay to pause, you’re still you.",
+      "persian": "اشکالی نداره مکث کنی، تو همونی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918996"
+    },
+    {
+      "english": "Challenge the panic, but keep it soft.",
+      "persian": "به وحشت گیر بده، ولی نرم و آروم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.918998"
+    },
+    {
+      "english": "Focus on now, the rest can wait.",
+      "persian": "روی همین لحظه تمرکز کن، بقیه بعداً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919000"
+    },
+    {
+      "english": "Praise yourself quietly, that’s a real skill.",
+      "persian": "آروم به خودت آفرین بگو، این مهارته.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919003"
+    },
+    {
+      "english": "Don’t fight the feeling, just stand with it.",
+      "persian": "با احساس نجنگ، فقط کنارش بایست.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919006"
+    },
+    {
+      "english": "Ask, 'What’s my next kind action?'",
+      "persian": "بپرس، «بعدش چه کارِ مهربونیه؟».",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919009"
+    },
+    {
+      "english": "You don’t need perfect, just present.",
+      "persian": "کمال لازم نیست، فقط حضور داشته باش.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919012"
+    },
+    {
+      "english": "Give your brain a break, no guilt.",
+      "persian": "به مغزت استراحت بده، بی‌گناهی نداره.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919014"
+    },
+    {
+      "english": "Progress is progress, even tiny.",
+      "persian": "پیشرفت همون پیشرفته، حتی اگه کوچیک باشه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919016"
+    },
+    {
+      "english": "If it’s loud, reduce the volume, breathe.",
+      "persian": "اگه صداش زیاده، ولوم رو کم کن، نفس بکش.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919019"
+    },
+    {
+      "english": "Choose patience, it pays off fast.",
+      "persian": "صبور باش، خیلی زود جواب می‌ده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919023"
+    },
+    {
+      "english": "Your mind can wander, you’re still learning.",
+      "persian": "ذهنت می‌پره، ولی تو داری یاد می‌گیری.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919026"
+    },
+    {
+      "english": "Re-center gently, like adjusting a pillow.",
+      "persian": "دوباره آروم برگرد سر جای درست، مثل بالش.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919028"
+    },
+    {
+      "english": "Say 'I’ve got this', then soften your shoulders.",
+      "persian": "به خودت بگو، «از پسش برمیام»، بعد شونه‌ها رو شُل کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919031"
+    },
+    {
+      "english": "Be proud, you’re practicing in real life.",
+      "persian": "به خودت افتخار کن، داری توی زندگی تمرین می‌کنی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919034"
+    },
+    {
+      "english": "Notice the good too, don’t skip it.",
+      "persian": "اون خوبی‌ها رو هم ببین، ردش نکن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919036"
+    },
+    {
+      "english": "Keep your inner voice friendly, not savage.",
+      "persian": "با صدای درونی‌ت مهربون باش، بی‌رحم نباش.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919038"
+    },
+    {
+      "english": "Today counts, because you showed up.",
+      "persian": "امروز ارزش داره، چون حاضر شدی.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919041"
+    },
+    {
+      "english": "Right now, I can name what I feel.",
+      "persian": "الان می‌توانم احساسِ خودم را نام ببرم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919043"
+    },
+    {
+      "english": "I don’t have to fix everything today.",
+      "persian": "لازم نیست امروز همه‌چیز را درست کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919048"
+    },
+    {
+      "english": "I’m allowed to be real, not polished.",
+      "persian": "حق دارم واقعی باشم، نه بزک‌شده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919052"
+    },
+    {
+      "english": "What I feel is information, not a verdict.",
+      "persian": "حسّ من فقط اطلاعات است، حکم نیست.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919055"
+    },
+    {
+      "english": "I can slow down, even in my head.",
+      "persian": "می‌توانم حتی توی ذهنم هم آهسته‌تر شوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919058"
+    },
+    {
+      "english": "Let me check in, with no pressure.",
+      "persian": "بگذارم چک کنم، بدون فشار.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919060"
+    },
+    {
+      "english": "My feelings deserve respect, not silence.",
+      "persian": "احساساتم احترام می‌خواهند، نه سکوت.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919062"
+    },
+    {
+      "english": "I’ll meet myself where I am.",
+      "persian": "خودم را همان‌جا که هستم ملاقات می‌کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919065"
+    },
+    {
+      "english": "Sometimes I need patience, not answers.",
+      "persian": "گاهی صبر لازم است، نه جواب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919067"
+    },
+    {
+      "english": "I can breathe, and soften my inner grip.",
+      "persian": "نفس می‌کشم، و فشار درونم را نرم می‌کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919069"
+    },
+    {
+      "english": "Even a small pause, feels like relief.",
+      "persian": "حتی یک مکث کوچک، حسِ آرامش می‌دهد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919071"
+    },
+    {
+      "english": "I’m not behind, I’m just human.",
+      "persian": "عقب نیستم، فقط آدمم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919074"
+    },
+    {
+      "english": "If I’m tense, I can notice gently.",
+      "persian": "اگر گرفته‌ام، می‌توانم آرام توجه کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919077"
+    },
+    {
+      "english": "My mind talks, I don’t have to obey.",
+      "persian": "ذهنم حرف می‌زند، لازم نیست گوش کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919079"
+    },
+    {
+      "english": "I can admit, “I’m not okay,” calmly.",
+      "persian": "می‌توانم بگویم، «حالم خوب نیست»، با آرامش.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919082"
+    },
+    {
+      "english": "Let the emotion move, without chasing it.",
+      "persian": "بگذار احساس حرکت کند، بدون دنبال‌کردن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919085"
+    },
+    {
+      "english": "I can feel this fully, then breathe through.",
+      "persian": "می‌توانم کامل احساسش کنم، بعد ازش نفس بکشم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919087"
+    },
+    {
+      "english": "Right now, I’m allowed to be unsure.",
+      "persian": "الان حق دارم مطمئن نباشم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919089"
+    },
+    {
+      "english": "What I’m thinking, may not be true.",
+      "persian": "چیزی که فکر می‌کنم، شاید واقعی نباشد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919091"
+    },
+    {
+      "english": "I don’t need to win this moment.",
+      "persian": "لازم نیست همین لحظه را برنده شوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919094"
+    },
+    {
+      "english": "I can notice, then choose my next step.",
+      "persian": "می‌توانم متوجه شوم، بعد قدم بعدی را انتخاب کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919096"
+    },
+    {
+      "english": "My boundaries protect me, gently.",
+      "persian": "مرزهایم با مهربانی از من محافظت می‌کنند.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919099"
+    },
+    {
+      "english": "I can ask for kindness, not perfection.",
+      "persian": "می‌توانم مهربانی بخواهم، نه کمال.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919101"
+    },
+    {
+      "english": "If I’m overwhelmed, I can make it smaller.",
+      "persian": "اگر تحت فشارم، می‌توانم کوچکش کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919104"
+    },
+    {
+      "english": "I don’t judge my mood, I learn from it.",
+      "persian": "حال‌وهوایم را قضاوت نمی‌کنم، ازش یاد می‌گیرم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919106"
+    },
+    {
+      "english": "Be patient with my pace, not your standards.",
+      "persian": "با سرعت من صبور باش، نه با معیارهای تو.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919109"
+    },
+    {
+      "english": "I can let thoughts pass, without grabbing them.",
+      "persian": "می‌توانم فکرها رد شوند، بدون چنگ زدن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919111"
+    },
+    {
+      "english": "I’m learning to trust my own timing.",
+      "persian": "دارم یاد می‌گیرم به زمانِ خودم اعتماد کنم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919114"
+    },
+    {
+      "english": "Tonight, I’ll be kinder to my inner life.",
+      "persian": "امشب با زندگیِ درونم مهربان‌تر می‌شوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919116"
+    },
+    {
+      "english": "Pause, take one slow breath, then reply.",
+      "persian": "مکث کن, یک نفسِ آهسته بکش, بعد جواب بده.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919119"
+    },
+    {
+      "english": "Before meetings, set one calm intention.",
+      "persian": "قبل جلسه‌ها, یک نیتِ آرام تعیین کن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919121"
+    },
+    {
+      "english": "Notice, your body first, then your thoughts.",
+      "persian": "اول بدن را ببین, بعد فکرها را.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-06T10:40:08.919128"
     }
   ],
-  "last_updated": "2026-11-05T10:39:01.307718"
+  "last_updated": "2026-11-06T10:40:08.919129"
 }
