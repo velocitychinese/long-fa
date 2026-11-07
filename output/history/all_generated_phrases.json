@@ -14399,7 +14399,727 @@
       "persian": "اول بدن را ببین, بعد فکرها را.",
       "category": "Mindfulness",
       "generated_at": "2026-11-06T10:40:08.919128"
+    },
+    {
+      "english": "Ready, set, go, let's warm up!",
+      "persian": "آماده‌ای، یک، دو، سه، بزن بریم گرم کنیم!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542928"
+    },
+    {
+      "english": "I’m tired, but I’ll push through.",
+      "persian": "خسته‌ام، ولی فشار میارم و ادامه میدم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542942"
+    },
+    {
+      "english": "Nice! You’re doing it, keep going.",
+      "persian": "آفرین! داری انجامش میدی، ادامه بده.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542946"
+    },
+    {
+      "english": "Ouch, that hurt, stop for a sec.",
+      "persian": "اوخ، درد گرفت، یه دقیقه وایسا.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542950"
+    },
+    {
+      "english": "Again? Seriously, one more rep!",
+      "persian": "باز هم؟ جدی؟ یه تکرار دیگه!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542953"
+    },
+    {
+      "english": "Hold on, my form feels off.",
+      "persian": "صبر کن، فرم تمرینم بهم ریخته.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542956"
+    },
+    {
+      "english": "Breath in, breathe out, stay calm.",
+      "persian": "نفس بکش، بیرون بده، آروم بمون.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542959"
+    },
+    {
+      "english": "Good stretch, wow, that feels great!",
+      "persian": "کِشِش خوبه، واو، خیلی خوبه!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542965"
+    },
+    {
+      "english": "No excuses, just show up today.",
+      "persian": "بهونه نیار، امروز فقط بیا.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542968"
+    },
+    {
+      "english": "How’s your energy, ready for more?",
+      "persian": "انرژی‌ات چطوره، برای بیشتر آماده‌ای؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542973"
+    },
+    {
+      "english": "That’s it, lock your core, keep steady.",
+      "persian": "همینه، شکم رو سفت کن، ثابت نگه دار.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542976"
+    },
+    {
+      "english": "I can’t, I need a quick break.",
+      "persian": "نمی‌تونم، یه استراحت کوتاه لازم دارم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542980"
+    },
+    {
+      "english": "Let’s go, we’re almost there!",
+      "persian": "بزن بریم، تقریبا رسیدیم!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542983"
+    },
+    {
+      "english": "Careful, that’s a slippery step!",
+      "persian": "مواظب باش، این یه پله لیزه!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542986"
+    },
+    {
+      "english": "Nice one, your timing is perfect!",
+      "persian": "آفرین، تایمینگت عالیه!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542989"
+    },
+    {
+      "english": "Wow, you’re faster than me today!",
+      "persian": "وای، امروز از من تندتری!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542992"
+    },
+    {
+      "english": "Stop, check your wrist, don’t force it.",
+      "persian": "توقف کن، مچت رو چک کن، زور نزن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.542998"
+    },
+    {
+      "english": "Mind your form, not just your speed.",
+      "persian": "فقط سرعت نه، فرم رو هم رعایت کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543000"
+    },
+    {
+      "english": "Water now, don’t forget, stay hydrated.",
+      "persian": "الان آب، یادت نره، آب‌رسان بمون.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543006"
+    },
+    {
+      "english": "Okay, easy mode, we’ll recover.",
+      "persian": "باشه، حالت راحت، برمی‌گردیم ریکاور.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543009"
+    },
+    {
+      "english": "That burn is normal, keep breathing.",
+      "persian": "این سوزش طبیعیه، نفس بکش.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543014"
+    },
+    {
+      "english": "I’m sweating, but I feel stronger.",
+      "persian": "دارم عرق می‌کنم، ولی قوی‌ترم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543017"
+    },
+    {
+      "english": "What’s your goal today, reps or miles?",
+      "persian": "امروز هدفت چیه، تکرار یا مسافت؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543020"
+    },
+    {
+      "english": "Let’s cool down, stretch those muscles.",
+      "persian": "بریم سرد کنیم، عضله‌ها رو بکش.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543023"
+    },
+    {
+      "english": "I’m sore tomorrow, so warm up well.",
+      "persian": "فردا کوفته‌ام، پس گرم کردن درست انجام بده.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543026"
+    },
+    {
+      "english": "Leg day! Don’t skip, you’ll thank yourself.",
+      "persian": "روزِ پا! جا ننداز، بعدا خودت رو می‌بخشی.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543030"
+    },
+    {
+      "english": "Need a partner? I’ve got your back.",
+      "persian": "هم‌تیمی می‌خوای؟ پشتت هستم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543033"
+    },
+    {
+      "english": "No pain, no gain—okay, mild pain!",
+      "persian": "درد نداشته باش، بهره هم نداشته باش—باشه، دردِ ملایم!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543036"
+    },
+    {
+      "english": "Stop rolling your eyes, focus on reps!",
+      "persian": "این چشم‌غره‌ها رو بس کن، برو سر تکرار!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543039"
+    },
+    {
+      "english": "Good job! Recovery time, breathe slowly.",
+      "persian": "آفرین! وقت ریکاوره، آروم نفس بکش.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543041"
+    },
+    {
+      "english": "Which workout feels better, cardio or weights?",
+      "persian": "کدوم تمرین برات بهتره، هوازی یا وزنه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543044"
+    },
+    {
+      "english": "How long do you rest between sets?",
+      "persian": "بین هر ست، چقدر استراحت می‌کنی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543047"
+    },
+    {
+      "english": "Should I start slow, or go steady?",
+      "persian": "از آروم شروع کنم، یا ثابت پیش برم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543050"
+    },
+    {
+      "english": "What’s the safest way to lift that?",
+      "persian": "امن‌ترین راه برای بلند کردن این چیه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543053"
+    },
+    {
+      "english": "Can you spot me on this exercise?",
+      "persian": "می‌تونی کمکم کنی، این حرکت رو؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543055"
+    },
+    {
+      "english": "Any tips for better form, please?",
+      "persian": "برای فرم بهتر، یه نکته می‌دی لطفاً؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543058"
+    },
+    {
+      "english": "Do you stretch before workouts or after?",
+      "persian": "قبل تمرین کشش می‌دی، یا بعدش؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543061"
+    },
+    {
+      "english": "Is my breathing okay, like this?",
+      "persian": "نفس کشیدنم خوبه، همین‌طوری؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543063"
+    },
+    {
+      "english": "How do I know I’m training hard?",
+      "persian": "از کجا بفهمم دارم جدی تمرین می‌کنم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543066"
+    },
+    {
+      "english": "What’s your warm-up routine, exactly?",
+      "persian": "دقیقاً روال گرم‌کردنت چیه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543071"
+    },
+    {
+      "english": "Should I increase weight today, or wait?",
+      "persian": "امروز وزن رو بیشتر کنم، یا صبر کنم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543074"
+    },
+    {
+      "english": "How many reps is enough for you?",
+      "persian": "برای تو چند تکرار کافیه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543077"
+    },
+    {
+      "english": "Do you track your steps, or just vibe?",
+      "persian": "قدم‌هات رو می‌شمری، یا فقط حس می‌کنی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543079"
+    },
+    {
+      "english": "What should I eat before training?",
+      "persian": "قبل تمرین چی بخورم بهتره؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543082"
+    },
+    {
+      "english": "After workout, when do you rehydrate?",
+      "persian": "بعد تمرین، کی آب‌رسانی می‌کنی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543085"
+    },
+    {
+      "english": "Are you training for strength, or stamina?",
+      "persian": "هدف‌ت قدرتِ، یا استقامته؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543087"
+    },
+    {
+      "english": "Which muscle hurts, and where exactly?",
+      "persian": "کدوم عضله درد می‌کنه، دقیقاً کجاست؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543090"
+    },
+    {
+      "english": "Can I adjust the bench height?",
+      "persian": "می‌شه ارتفاع نیمکت رو تنظیم کنم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543093"
+    },
+    {
+      "english": "Do you cool down slowly, every time?",
+      "persian": "هر بار آروم سرد می‌کنی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543097"
+    },
+    {
+      "english": "What’s your best recovery trick, honestly?",
+      "persian": "راستش بهترین راه ریکاورت چیه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543101"
+    },
+    {
+      "english": "Should I rest today, or keep moving?",
+      "persian": "امروز استراحت کنم، یا ادامه بدم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543104"
+    },
+    {
+      "english": "How often do you train this muscle?",
+      "persian": "چند وقت یک‌بار این عضله رو تمرین می‌دی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543106"
+    },
+    {
+      "english": "Is it normal to feel this burn?",
+      "persian": "این سوزش طبیعی‌ه، نه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543108"
+    },
+    {
+      "english": "What’s better, slow reps or fast ones?",
+      "persian": "کدوم بهتره، تکرارِ آروم یا سریع؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543112"
+    },
+    {
+      "english": "Can you teach me the first step?",
+      "persian": "می‌تونی قدم اول رو به من یاد بدی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543114"
+    },
+    {
+      "english": "How’s your posture, shoulders relaxed?",
+      "persian": "پشتت صافه، شونه‌هات ریلکسه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543117"
+    },
+    {
+      "english": "Do you warm up with walking first?",
+      "persian": "اول با راه رفتن گرم می‌کنی؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543120"
+    },
+    {
+      "english": "Want to compare times, or reps today?",
+      "persian": "امروز زمان‌ها رو با هم می‌سنجیم، یا تکرارها؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543123"
+    },
+    {
+      "english": "What’s your favorite exercise for beginners?",
+      "persian": "برای مبتدی‌ها، بهترین تمرینت چیه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543126"
+    },
+    {
+      "english": "Should I stop, or push through a bit?",
+      "persian": "متوقف شم، یا یه کم ادامه بدم؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543130"
+    },
+    {
+      "english": "Warm up first, don’t rush the engine.",
+      "persian": "اول گرم کن, عجله نکن موتور رو.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543134"
+    },
+    {
+      "english": "Slow is smooth, smooth makes you faster.",
+      "persian": "آروم باش, نرمی یعنی سرعت.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543136"
+    },
+    {
+      "english": "Form first, weight later, حرف آخر رو بزن.",
+      "persian": "فرم اول, وزنه بعد, آخرش همین است.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543142"
+    },
+    {
+      "english": "Push hard, but don’t go crazy, نه؟",
+      "persian": "سخت فشار بیار, ولی دیوونه‌بازی نه, مگه نه؟",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543145"
+    },
+    {
+      "english": "Train like you mean it, نه نصفه.",
+      "persian": "تمرین کن یعنی واقعی, نه نصفه‌نیمه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543149"
+    },
+    {
+      "english": "Last reps bite back, keep your head.",
+      "persian": "دور آخرا دندون تیز می‌کنن, سرجاش بمون.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543152"
+    },
+    {
+      "english": "Sweat now, brag later, حقته!",
+      "persian": "عرق الان, تعریف بعداً, حقته!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543156"
+    },
+    {
+      "english": "No excuses, just reps, همون امروزی.",
+      "persian": "بهانه نه, فقط تکرار, همین امروز.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543160"
+    },
+    {
+      "english": "Your body adapts, صبر داشته باش.",
+      "persian": "بدنت خودش سازگار میشه, صبر کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543164"
+    },
+    {
+      "english": "If you skip, tomorrow pays the bill.",
+      "persian": "اگه جا بدی, فردا قبضش رو میدی.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543166"
+    },
+    {
+      "english": "One more, don’t quit right before it counts.",
+      "persian": "یکی دیگه, درست قبلِ نتیجه ول نکن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543170"
+    },
+    {
+      "english": "Change it up, یکنواختی می‌کشه‌ت رو.",
+      "persian": "یه کم جابه‌جا کن, یکنواختی لهت می‌کنه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543175"
+    },
+    {
+      "english": "Hydrate, آب که باشه، قدرت هم هست.",
+      "persian": "آب بخور, وقتی آب هست، نیرو هم هست.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543179"
+    },
+    {
+      "english": "Rest is training too, نفسِت رو پس بگیر.",
+      "persian": "استراحت هم تمرینه, نفس‌تو پس بگیر.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543184"
+    },
+    {
+      "english": "Pain that’s sharp, stop, don’t be stubborn.",
+      "persian": "اگه درد تیزه, وایسا, لج نکن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543188"
+    },
+    {
+      "english": "Build muscle, slow and steady wins.",
+      "persian": "عضله بساز, آروم و پیوسته برد می‌کنه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543191"
+    },
+    {
+      "english": "You’re not late, just start from today.",
+      "persian": "دیر نیستی, از امروز شروع کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543194"
+    },
+    {
+      "english": "Breathing out, shoulders drop, راحت‌تر شو.",
+      "persian": "بازدم بده, شونه‌ها بیاد پایین, راحت شو.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543198"
+    },
+    {
+      "english": "Consistency beats motivation, هر روز یه ذره.",
+      "persian": "پیوستگی از انگیزه قوی‌تره, هر روز یه ذره.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543202"
+    },
+    {
+      "english": "Mind-muscle connection, توی ذهنت زنده‌اش کن.",
+      "persian": "ارتباط ذهن و عضله, توی مغزت احساسش کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543209"
+    },
+    {
+      "english": "Don’t chase ego, دنبال غرور نرو.",
+      "persian": "غرور رو ول کن, وزنه رو به خودت بسپار.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543213"
+    },
+    {
+      "english": "Earn it, after effort, نتیجه میاد.",
+      "persian": "با تلاش بگیرش, بعدش نتیجه میاد.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543217"
+    },
+    {
+      "english": "Today is leg day energy, جون بده!",
+      "persian": "امروز انرژی روز پاهاست, جون بده!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543220"
+    },
+    {
+      "english": "Cardio clears the head, برو سبک کن.",
+      "persian": "کاردیو سر رو صاف می‌کنه, برو سبک‌تر.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543224"
+    },
+    {
+      "english": "Weights aren’t magic, ولی کار می‌کنی.",
+      "persian": "وزنه جادو نیست, اما جواب می‌ده.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543228"
+    },
+    {
+      "english": "Train smart, not just hard, حساب‌شده.",
+      "persian": "عاقلانه تمرین کن, فقط کوبیدن نه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543232"
+    },
+    {
+      "english": "When it burns, keep it clean, درست انجام بده.",
+      "persian": "وقتی می‌سوزه, تمیز انجام بده, خرابش نکن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543236"
+    },
+    {
+      "english": "After the workout, eat like you’ve earned it.",
+      "persian": "بعد تمرین بخور, انگار حقته.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543240"
+    },
+    {
+      "english": "Get your sweat in, خودت رو شارژ کن.",
+      "persian": "عرق‌تو دربیار, خودتو شارژ کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543244"
+    },
+    {
+      "english": "I feel proud, even on small wins.",
+      "persian": "از بردهای کوچیک هم خوشحال می‌شم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543246"
+    },
+    {
+      "english": "Today I’m listening to my body, honestly.",
+      "persian": "امروز دارم به بدنم گوش می‌دم، راستش.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543249"
+    },
+    {
+      "english": "I need patience, gains aren’t instant.",
+      "persian": "حوصله می‌خوام، پیشرفت فوری نیست.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543253"
+    },
+    {
+      "english": "Some days I’m strong, some days I’m learning.",
+      "persian": "یه روز قوی‌ام، یه روز دارم یاد می‌گیرم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543258"
+    },
+    {
+      "english": "I’m okay slowing down, no panic.",
+      "persian": "اشکالی نداره کندتر برم، استرس نه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543262"
+    },
+    {
+      "english": "Between sets, I breathe and reset my mind.",
+      "persian": "بین ست‌ها نفس می‌کشم، ذهنم رو ریست می‌کنم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543266"
+    },
+    {
+      "english": "I don’t chase perfection, I chase progress.",
+      "persian": "دنبال کمال نیستم، دنبال پیشرفتم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543269"
+    },
+    {
+      "english": "I admit it, some days motivation is low.",
+      "persian": "واقعیتش، بعضی روزها انگیزه‌ام پایینه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543272"
+    },
+    {
+      "english": "My form feels better when I focus.",
+      "persian": "وقتی تمرکز می‌کنم، فرمم بهتر می‌شه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543275"
+    },
+    {
+      "english": "I’m learning to trust the process.",
+      "persian": "دارم یاد می‌گیرم به روند اعتماد کنم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543277"
+    },
+    {
+      "english": "Honest effort beats fancy excuses, every time.",
+      "persian": "تلاش واقعی از بهونه‌های قشنگ بهتره، همیشه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543280"
+    },
+    {
+      "english": "When I slow down, I feel safer.",
+      "persian": "وقتی کندتر می‌شم، حس امنیت بیشتر دارم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543283"
+    },
+    {
+      "english": "I’m allowed to rest, it’s part of training.",
+      "persian": "استراحت کردن حقمه، بخشی از تمرینه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543286"
+    },
+    {
+      "english": "I’m not quitting, I’m adjusting my pace.",
+      "persian": "من ول نمی‌کنم، دارم سرعت رو تنظیم می‌کنم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543291"
+    },
+    {
+      "english": "I keep my thoughts calm, during hard moments.",
+      "persian": "وقتی سخته، ذهنم رو آروم نگه می‌دارم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543295"
+    },
+    {
+      "english": "I’m proud I showed up, not perfect.",
+      "persian": "خوشحالم که اومدم، کامل نیستم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543298"
+    },
+    {
+      "english": "Some soreness is fine, but listen closely.",
+      "persian": "یه مقدار درد اوکیه، ولی دقیق گوش کن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543300"
+    },
+    {
+      "english": "I recover best when I’m consistent.",
+      "persian": "بهترین ریکاورتم وقتی منظم باشم اتفاق می‌افته.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543303"
+    },
+    {
+      "english": "I train to feel better, not to punish myself.",
+      "persian": "تمرین می‌کنم تا بهتر حس کنم، نه اینکه خودم رو تنبیه کنم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543306"
+    },
+    {
+      "english": "Today I’m honest about my limits, and that’s okay.",
+      "persian": "امروز محدودیت‌هام رو صادقانه می‌پذیرم، مهمه.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543310"
+    },
+    {
+      "english": "I want strength, but I respect my body.",
+      "persian": "قدرت می‌خوام، ولی به بدنم احترام می‌ذارم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543313"
+    },
+    {
+      "english": "After stress, workouts help me breathe again.",
+      "persian": "بعد از استرس، تمرین کمکم می‌کنه دوباره نفس بکشم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543315"
+    },
+    {
+      "english": "I don’t measure my worth by one session.",
+      "persian": "ارزشم رو با یک جلسه نمی‌سنجم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543318"
+    },
+    {
+      "english": "I try again tomorrow, no shame in that.",
+      "persian": "فردا دوباره تلاش می‌کنم، شرم نداره.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543323"
+    },
+    {
+      "english": "I’m building confidence, rep by rep.",
+      "persian": "دارم اعتمادبه‌نفس می‌سازم، دونه‌دونه تکرار.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543326"
+    },
+    {
+      "english": "When I feel stuck, I change the routine gently.",
+      "persian": "وقتی گیر می‌کنم، روتین رو آروم عوض می‌کنم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543329"
+    },
+    {
+      "english": "I’m learning to love the boring parts, too.",
+      "persian": "دارم یاد می‌گیرم حتی قسمت‌های خسته‌کننده رو دوست داشته باشم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543332"
+    },
+    {
+      "english": "I trust time, small steps compound fast.",
+      "persian": "به زمان اعتماد دارم، قدم‌های کوچیک زود جمع می‌شن.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543335"
+    },
+    {
+      "english": "Even if I’m tired, I show up with care.",
+      "persian": "حتی اگر خسته‌ام، با دقت حاضر می‌شم.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543338"
+    },
+    {
+      "english": "My goal is calm progress, not chaos.",
+      "persian": "هدفم پیشرفت آرومه، نه آشوب.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543341"
+    },
+    {
+      "english": "Warm up first, move easy, then build speed.",
+      "persian": "اول گرم کن، آروم حرکت کن، بعد سرعت بگیر.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-07T09:50:37.543343"
     }
   ],
-  "last_updated": "2026-11-06T10:40:08.919129"
+  "last_updated": "2026-11-07T09:50:37.543345"
 }
