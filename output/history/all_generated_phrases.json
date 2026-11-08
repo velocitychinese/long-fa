@@ -15119,7 +15119,727 @@
       "persian": "اول گرم کن، آروم حرکت کن، بعد سرعت بگیر.",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-07T09:50:37.543343"
+    },
+    {
+      "english": "Excuse me, where is the metro station?",
+      "persian": "ببخشید، ایستگاه مترو کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719351"
+    },
+    {
+      "english": "Sorry, how do I get to the pharmacy?",
+      "persian": "ببخشید، چطور می‌روم داروخانه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719367"
+    },
+    {
+      "english": "Hi, can you point me to a bank?",
+      "persian": "سلام، می‌شود بانک را نشان بدهید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719370"
+    },
+    {
+      "english": "Excuse me, is there a post office nearby?",
+      "persian": "ببخشید، پست نزدیکه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719372"
+    },
+    {
+      "english": "Sorry, which street is this?",
+      "persian": "ببخشید، این خیابون کدومه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719374"
+    },
+    {
+      "english": "Excuse me, where are the restrooms?",
+      "persian": "ببخشید، دستشویی کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719376"
+    },
+    {
+      "english": "Thanks, is it far from here?",
+      "persian": "ممنون، از اینجا دوره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719378"
+    },
+    {
+      "english": "Wait, what’s the next stop?",
+      "persian": "صبر کن، ایستگاه بعدی کدومه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719382"
+    },
+    {
+      "english": "Hello, can I get directions to here?",
+      "persian": "سلام، می‌فرمایید چطور برسم اینجا؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719384"
+    },
+    {
+      "english": "Excuse me, I think I’m lost.",
+      "persian": "ببخشید، فکر کنم گم شدم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719387"
+    },
+    {
+      "english": "Where should I turn, left or right?",
+      "persian": "کجا باید بپیچم، چپ یا راست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719388"
+    },
+    {
+      "english": "Is this the right way to downtown?",
+      "persian": "این راه به مرکز شهر درسته؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719390"
+    },
+    {
+      "english": "How long does it take, on foot?",
+      "persian": "پیاده چقدر زمان می‌بره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719391"
+    },
+    {
+      "english": "Do I go straight, then stop?",
+      "persian": "راست میرم، بعدش می‌ایستم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719393"
+    },
+    {
+      "english": "Quick question, where’s the nearest bus stop?",
+      "persian": "یه سوال، نزدیک‌ترین ایستگاه اتوبوس کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719398"
+    },
+    {
+      "english": "Sorry, what’s the name of this place?",
+      "persian": "ببخشید، اسم اینجا چیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719401"
+    },
+    {
+      "english": "Can you speak a bit slower, please?",
+      "persian": "می‌شه کمی آروم‌تر بگید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719403"
+    },
+    {
+      "english": "Great, how much is the ticket?",
+      "persian": "عالیه، بلیط چنده؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719405"
+    },
+    {
+      "english": "Sorry, I don’t understand, please repeat.",
+      "persian": "ببخشید، متوجه نشدم، لطفاً تکرار کنید.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719407"
+    },
+    {
+      "english": "Okay, I’ll go this way, thanks.",
+      "persian": "باشه، از این طرف میرم، ممنون.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719409"
+    },
+    {
+      "english": "Is there a landmark nearby, like a mall?",
+      "persian": "نزدیکش یه نشونه هست، مثل پاساژ؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719410"
+    },
+    {
+      "english": "I need the entrance, where is it?",
+      "persian": "من ورودی رو می‌خوام، کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719412"
+    },
+    {
+      "english": "Do you have a map on your phone?",
+      "persian": "موقعی نقشه تو موبایلت دارید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719414"
+    },
+    {
+      "english": "Just one more thing, which lane?",
+      "persian": "فقط یه چیز دیگه، کدوم لاین؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719415"
+    },
+    {
+      "english": "Excuse me, is it open right now?",
+      "persian": "ببخشید، الان بازه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719417"
+    },
+    {
+      "english": "Oh, I see, it’s near the corner.",
+      "persian": "آها، فهمیدم، گوشه‌ی خیابون هست.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719419"
+    },
+    {
+      "english": "Sorry, I’m running late, please.",
+      "persian": "ببخشید، دارم دیر می‌کنم، لطفاً.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719421"
+    },
+    {
+      "english": "Can I take this bus, to there?",
+      "persian": "این اتوبوسه، می‌رم اونجا؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719423"
+    },
+    {
+      "english": "Thanks a lot, you’re super helpful.",
+      "persian": "خیلی ممنون، خیلی کمکم کردید.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719425"
+    },
+    {
+      "english": "Can you help me, I’m new here?",
+      "persian": "میشه کمکم کنید، من اینجا تازه‌ام؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719427"
+    },
+    {
+      "english": "Which way is better, by bus or walk?",
+      "persian": "کدوم راه بهتره، با اتوبوس یا پیاده؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719432"
+    },
+    {
+      "english": "Is this street busy, or quieter nearby?",
+      "persian": "این خیابون شلوغه، یا نزدیکش آروم‌تره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719433"
+    },
+    {
+      "english": "Where can I ask, about directions?",
+      "persian": "کجا می‌تونم سوال بپرسم، درباره مسیر؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719435"
+    },
+    {
+      "english": "Do you know this place’s exact address?",
+      "persian": "آدرس دقیق اینجا رو می‌دونید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719437"
+    },
+    {
+      "english": "I heard it’s close, is it true?",
+      "persian": "شنیدم نزدیکه، واقعاً همینطوره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719439"
+    },
+    {
+      "english": "What’s the easiest route from here?",
+      "persian": "راحت‌ترین مسیر از اینجا چیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719441"
+    },
+    {
+      "english": "Can I go there with one transfer?",
+      "persian": "می‌شه با یک بار تعویض برسیم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719443"
+    },
+    {
+      "english": "How do locals usually get there?",
+      "persian": "مردم معمولاً چطور می‌رن اونجا؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719444"
+    },
+    {
+      "english": "Is there a safe shortcut nearby?",
+      "persian": "یه راه میان‌بُر امن نزدیکه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719446"
+    },
+    {
+      "english": "Which stop should I get off at?",
+      "persian": "کدوم ایستگاه پیاده شم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719448"
+    },
+    {
+      "english": "Do I need to cross the main road?",
+      "persian": "باید خیابون اصلی رو رد کنم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719449"
+    },
+    {
+      "english": "When I arrive, what should I look for?",
+      "persian": "وقتی رسیدم، چی باید ببینم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719451"
+    },
+    {
+      "english": "Is it okay to walk there at night?",
+      "persian": "شب هم پیاده رفتنش اوکیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719453"
+    },
+    {
+      "english": "Could you tell me the next turn?",
+      "persian": "میشه نوبت بعدی رو بگید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719454"
+    },
+    {
+      "english": "Is there a pedestrian bridge nearby?",
+      "persian": "نزدیکش پل عابر پیاده هست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719456"
+    },
+    {
+      "english": "What’s the name of the neighborhood here?",
+      "persian": "اسم محله اینجا چیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719458"
+    },
+    {
+      "english": "Do you have a suggestion for me?",
+      "persian": "برای من یه پیشنهاد دارید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719461"
+    },
+    {
+      "english": "Where should I wait for the bus?",
+      "persian": "کجا منتظر اتوبوس بشم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719463"
+    },
+    {
+      "english": "If I’m late, is there another bus?",
+      "persian": "اگه دیر بشه، اتوبوس دیگه‌ای هست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719465"
+    },
+    {
+      "english": "Is it closer on the other side?",
+      "persian": "اون طرف نزدیک‌تره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719467"
+    },
+    {
+      "english": "How much is the ride, roughly?",
+      "persian": "حدود کرایه چقدره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719469"
+    },
+    {
+      "english": "What’s the best time to go there?",
+      "persian": "بهترین ساعت برای رفتن کیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719471"
+    },
+    {
+      "english": "Can I take a taxi from here?",
+      "persian": "از اینجا تاکسی می‌شه گرفت؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719473"
+    },
+    {
+      "english": "How many minutes from here, roughly?",
+      "persian": "حدود چند دقیقه از اینجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719474"
+    },
+    {
+      "english": "Is there parking near the entrance?",
+      "persian": "نزدیک ورودی پارکینگ هست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719476"
+    },
+    {
+      "english": "Which bus line goes there, exactly?",
+      "persian": "کدوم خط اتوبوس دقیقاً اونجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719477"
+    },
+    {
+      "english": "I’m aiming for the museum, correct?",
+      "persian": "من موزه رو می‌خوام، درسته؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719480"
+    },
+    {
+      "english": "Take a breath, you’ve got this.",
+      "persian": "یک نفس عمیق بکش، تو از پسش برمیای.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719482"
+    },
+    {
+      "english": "Let’s do this, step by step.",
+      "persian": "بیا، قدم‌به‌قدم جلو بریم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719484"
+    },
+    {
+      "english": "Trust your instincts, ask one more time.",
+      "persian": "به حس‌ات اعتماد کن، یه بار دیگه بپرس.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719486"
+    },
+    {
+      "english": "You’re learning fast, don’t panic.",
+      "persian": "داری سریع یاد می‌گیری، نگران نشو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719488"
+    },
+    {
+      "english": "Quick question, where is the station?",
+      "persian": "یه سوال کوتاه، ایستگاه کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719490"
+    },
+    {
+      "english": "Thanks, I’ll follow your guidance.",
+      "persian": "ممنون، راهنماییت رو دنبال می‌کنم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719492"
+    },
+    {
+      "english": "What’s the best way from here, please?",
+      "persian": "بهترین راه از اینجا چیه، لطفاً؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719495"
+    },
+    {
+      "english": "Say it again slowly, I’m with you.",
+      "persian": "آروم‌تر دوباره بگو، دارم گوش می‌دم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719498"
+    },
+    {
+      "english": "I can do this, show me the direction.",
+      "persian": "من می‌تونم، جهتش رو نشون بده.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719500"
+    },
+    {
+      "english": "Good question, what landmark is nearby?",
+      "persian": "سوال خوبه، چی نزدیک‌تره به عنوان نشونه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719501"
+    },
+    {
+      "english": "You’re helping a lot, really.",
+      "persian": "واقعاً خیلی کمکم کردی.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719503"
+    },
+    {
+      "english": "I’ve got the point, just confirm.",
+      "persian": "متوجه شدم، فقط تاییدش کن.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719505"
+    },
+    {
+      "english": "No worries, tell me the shortest way.",
+      "persian": "نگران نباش، کوتاه‌ترین راه رو بگو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719507"
+    },
+    {
+      "english": "Let’s aim for easy, where to turn?",
+      "persian": "آسان بریم جلو، کجا باید پیچید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719509"
+    },
+    {
+      "english": "You’re clear, I understand the flow.",
+      "persian": "خیلی روشن گفتی، مسیر رو فهمیدم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719511"
+    },
+    {
+      "english": "Stay positive, I’ll manage the rest.",
+      "persian": "مثبت بمون، بقیه‌ش رو خودم جور می‌کنم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719513"
+    },
+    {
+      "english": "Quick check, is it straight from here?",
+      "persian": "یه چک سریع، از همین‌جا مستقیمه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719514"
+    },
+    {
+      "english": "That helps, keep going with the directions.",
+      "persian": "این خیلی کمک کرد، ادامه بده با راهنمایی.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719516"
+    },
+    {
+      "english": "You’re a star, where should I head?",
+      "persian": "تو فوق‌العاده‌ای، من کجا برم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719518"
+    },
+    {
+      "english": "It’s okay, I’ll learn by asking.",
+      "persian": "اشکالی نداره، با پرسیدن یاد می‌گیرم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719524"
+    },
+    {
+      "english": "Which side is better, left or right?",
+      "persian": "کدوم سمت بهتره، چپ یا راست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719526"
+    },
+    {
+      "english": "I’m confident, just tell me the landmark.",
+      "persian": "با اطمینان می‌پرسم، فقط نشونه رو بگو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719530"
+    },
+    {
+      "english": "You’ve got it, keep your directions simple.",
+      "persian": "تو از پسش برمیای، راهنمایی رو ساده بگو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719532"
+    },
+    {
+      "english": "One moment, I’m writing this down.",
+      "persian": "یه لحظه، دارم اینا رو یادداشت می‌کنم.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719534"
+    },
+    {
+      "english": "Thanks again, you made this easier.",
+      "persian": "باز هم ممنون، کار رو برام راحت کردی.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719536"
+    },
+    {
+      "english": "Let’s check, what’s the next street over?",
+      "persian": "یه چک کنیم، بعدی کدوم خیابونه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719538"
+    },
+    {
+      "english": "I’m getting there, is it close by?",
+      "persian": "دارم نزدیک می‌شم، خیلی دور نیست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719540"
+    },
+    {
+      "english": "Keep calm, tell me how long it takes.",
+      "persian": "آرامش رو حفظ کن، حدوداً چقدر طول می‌کشه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719542"
+    },
+    {
+      "english": "You’re awesome, I’ll be there soon.",
+      "persian": "تو عالی‌ای، زودی می‌رسم اونجا.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719544"
+    },
+    {
+      "english": "I’m a bit nervous, where’s the entrance?",
+      "persian": "کمی نگرانم، ورودی کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719546"
+    },
+    {
+      "english": "I’m trying to stay patient, tell me the route.",
+      "persian": "دارم سعی می‌کنم صبور باشم، مسیر رو بگو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719548"
+    },
+    {
+      "english": "To be honest, I lost track, where now?",
+      "persian": "راستش گم شدم، الان کجاییم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719550"
+    },
+    {
+      "english": "I just need calm directions, what’s next?",
+      "persian": "فقط راهنمای آروم می‌خوام، قدم بعدی چیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719552"
+    },
+    {
+      "english": "I’m reflecting, what’s the simplest way there?",
+      "persian": "دارم فکر می‌کنم، ساده‌ترین راهش چیه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719554"
+    },
+    {
+      "english": "I want to get it right, where do I turn?",
+      "persian": "می‌خوام درستش کنم، کجا باید پیچید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719556"
+    },
+    {
+      "english": "I’m listening carefully, is it toward downtown?",
+      "persian": "دارم دقیق گوش می‌دم، به سمت مرکز شهره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719558"
+    },
+    {
+      "english": "I don’t mind walking, how do I get there?",
+      "persian": "اگه لازم باشه پیاده میرم، چطور برم اونجا؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719560"
+    },
+    {
+      "english": "I’m checking my phone, where should I head?",
+      "persian": "دارم با موبایلم چک می‌کنم، سمت چی برم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719569"
+    },
+    {
+      "english": "I’m trying not to rush, which way is right?",
+      "persian": "دارم عجله نمی‌کنم، مسیر درست کدومه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719571"
+    },
+    {
+      "english": "I feel a little stuck, can you guide me?",
+      "persian": "یه کم گیر کردم، میشه کمکم کنی؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719574"
+    },
+    {
+      "english": "I’m learning as I go, where should I go first?",
+      "persian": "دارم با تجربه جلو میرم، اول کجا برم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719576"
+    },
+    {
+      "english": "Honestly, I’m not sure, how do I find it?",
+      "persian": "راستش مطمئن نیستم، چطور پیداش کنم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719579"
+    },
+    {
+      "english": "I want to do this smoothly, what’s the turn?",
+      "persian": "می‌خوام روان پیش برم، کجا باید بپیچم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719581"
+    },
+    {
+      "english": "I’m grateful, just tell me the main road.",
+      "persian": "ممنونم، فقط بگو خیابون اصلی کدومه.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719583"
+    },
+    {
+      "english": "I’m worried I’ll take the wrong street, which one?",
+      "persian": "می‌ترسم اشتباهی بپیچم، کدوم خیابونه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719585"
+    },
+    {
+      "english": "I’ll be careful, where’s the safest route?",
+      "persian": "مواظبم، راه امنش کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719587"
+    },
+    {
+      "english": "I’m thinking ahead, is it walkable from here?",
+      "persian": "دارم از قبل حساب می‌کنم، پیاده میشه رفت؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719589"
+    },
+    {
+      "english": "I might be overthinking, what’s the simplest landmark?",
+      "persian": "شاید دارم زیاد فکر می‌کنم، مهم‌ترین نشونه کدومه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719591"
+    },
+    {
+      "english": "I’m trying to understand, how far is it, roughly?",
+      "persian": "دارم سعی می‌کنم بفهمم، حدوداً چقدره؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719594"
+    },
+    {
+      "english": "Please, I’m a little lost, what’s the next stop?",
+      "persian": "لطفاً، یه کم گم شدم، ایستگاه بعدی کجاست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719596"
+    },
+    {
+      "english": "I want a honest shortcut, where should I go?",
+      "persian": "می‌خوام یه راه میان‌بُر واقعی، کجا برم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719599"
+    },
+    {
+      "english": "I’m calming down now, confirm the direction for me.",
+      "persian": "الان آروم شدم، جهت رو برای من تأیید کن.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719601"
+    },
+    {
+      "english": "I’ll take it slow, when do I turn left?",
+      "persian": "آروم میرم، چه وقت باید سمت چپ بپیچم؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719604"
+    },
+    {
+      "english": "I’m learning, so speak in simple steps, please.",
+      "persian": "دارم یاد می‌گیرم، لطفاً مرحله‌ای ساده بگو.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719606"
+    },
+    {
+      "english": "If I hesitate, it’s my nerves, help me.",
+      "persian": "اگه مکث کردم، از استرسمه، کمکم کن.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719608"
+    },
+    {
+      "english": "I’d rather avoid crowds, what’s the quieter way?",
+      "persian": "ترجیح می‌دم شلوغی نباشه، مسیر خلوت‌تر کدومه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719610"
+    },
+    {
+      "english": "I’m trying to be brave, which way first?",
+      "persian": "دارم شجاع‌تر میشم، اول کدوم طرفه؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719612"
+    },
+    {
+      "english": "I’m just making sure, is this the correct street?",
+      "persian": "فقط دارم مطمئن می‌شم، این خیابون درسته؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719614"
+    },
+    {
+      "english": "I appreciate your patience, can you repeat directions?",
+      "persian": "ممنون از صبرت، میشه راهنمايی رو دوباره بگی؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719616"
+    },
+    {
+      "english": "Sorry, can you show me the bus stop?",
+      "persian": "ببخشید، می‌شود ایستگاه اتوبوس را نشانم بدهید؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719618"
+    },
+    {
+      "english": "Where do I enter, left or right?",
+      "persian": "برای ورود کجاست، سمت چپ یا راست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719620"
+    },
+    {
+      "english": "Is there a shortcut by the park?",
+      "persian": "از اون طرف پارک، یه راه میان‌بر هست؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719621"
+    },
+    {
+      "english": "I keep missing the turns, what next?",
+      "persian": "من هی پیچ‌ها رو گم می‌کنم، بعدش چی؟",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T10:03:20.719623"
     }
   ],
-  "last_updated": "2026-11-07T09:50:37.543345"
+  "last_updated": "2026-11-08T10:03:20.719625"
 }
