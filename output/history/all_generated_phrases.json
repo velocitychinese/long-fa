@@ -16559,7 +16559,727 @@
       "persian": "محیط رو مرتب می‌کنم، ذهنم هم دنبالش میاد.",
       "category": "Self Improvement",
       "generated_at": "2026-11-09T11:13:26.471008"
+    },
+    {
+      "english": "You’ve got this, keep going, don’t stop.",
+      "persian": "تو می‌تونی، ادامه بده، دست نکش.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791151"
+    },
+    {
+      "english": "Small steps, big dreams, start today, okay?",
+      "persian": "قدم‌های کوچک، رویاهای بزرگ، از امروز شروع کن، اوکی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791167"
+    },
+    {
+      "english": "Nice try, breathe, then try again.",
+      "persian": "آفرین، نفس بکش، بعد دوباره امتحان کن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791171"
+    },
+    {
+      "english": "It’s okay, you’re learning, keep your pace.",
+      "persian": "اشکال نداره، داری یاد می‌گیری، با سرعت خودت برو.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791174"
+    },
+    {
+      "english": "Wow, that’s powerful, keep that energy.",
+      "persian": "وای، چه قوی، همین انرژی رو نگه دار.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791177"
+    },
+    {
+      "english": "Come on, you can do it, really.",
+      "persian": "بیا جلو، می‌تونی، جدی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791179"
+    },
+    {
+      "english": "Don’t overthink, just take the next step.",
+      "persian": "زیادی فکر نکن، فقط قدم بعدی رو بردار.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791182"
+    },
+    {
+      "english": "Today counts, do one good thing.",
+      "persian": "امروز حسابه، فقط یک کار خوب بکن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791188"
+    },
+    {
+      "english": "Hang in there, it’ll get better soon.",
+      "persian": "جون بده، زود بهتر می‌شه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791191"
+    },
+    {
+      "english": "Great idea, go for it, right now.",
+      "persian": "ایده عالیه، برو سمتش، همین الان.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791194"
+    },
+    {
+      "english": "Let’s start small, then build momentum.",
+      "persian": "از کوچیک شروع کنیم، بعد کم‌کم حرکت می‌گیره.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791197"
+    },
+    {
+      "english": "That’s it, keep your focus, stay steady.",
+      "persian": "همینه، حواست جمع، آروم و ثابت.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791199"
+    },
+    {
+      "english": "I’m proud of you, seriously, that’s progress.",
+      "persian": "بهت افتخار می‌کنم، جدی، این پیشرفته.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791202"
+    },
+    {
+      "english": "Keep trying, the result will come.",
+      "persian": "ادامه بده، نتیجه خودش میاد.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791205"
+    },
+    {
+      "english": "Make it happen, don’t wait for luck.",
+      "persian": "خودت انجامش بده، منتظر شانس نباش.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791209"
+    },
+    {
+      "english": "Alright, reset, breathe, you’re ready.",
+      "persian": "باشه، از نو شروع کن، نفس بکش، آماده‌ای.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791212"
+    },
+    {
+      "english": "That’s a win, celebrate, then plan next.",
+      "persian": "این برده، جشن بگیر، بعد برنامه بعدی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791214"
+    },
+    {
+      "english": "You’re close, don’t quit now.",
+      "persian": "نزدیکی، همین الان ول نکن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791217"
+    },
+    {
+      "english": "Honestly, you’re improving, I can see it.",
+      "persian": "واقعاً داری بهتر می‌شی، می‌بینمش.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791220"
+    },
+    {
+      "english": "Let’s go, time to move forward.",
+      "persian": "بریم، وقتشه جلو بریم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791222"
+    },
+    {
+      "english": "That was brave, keep showing up.",
+      "persian": "این شجاعانه بود، ادامه بده بیای جلو.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791224"
+    },
+    {
+      "english": "Say it, believe it, then do it.",
+      "persian": "بگو، باور کن، بعد انجام بده.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791226"
+    },
+    {
+      "english": "No excuses, just do it step by step.",
+      "persian": "بهونه نیار، قدم به قدم انجام بده.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791229"
+    },
+    {
+      "english": "What’s the next move? Let’s decide.",
+      "persian": "قدم بعدی چیه؟ بریم تصمیم بگیریم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791231"
+    },
+    {
+      "english": "I’ve got your back, you’re not alone.",
+      "persian": "پشتمت هستم، تنها نیستی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791234"
+    },
+    {
+      "english": "Really? That’s awesome, I’m inspired.",
+      "persian": "واقعاً؟ عالیه، من الهام گرفتم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791239"
+    },
+    {
+      "english": "Keep it simple, start now, go.",
+      "persian": "ساده نگه دار، همین الان شروع کن، برو.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791241"
+    },
+    {
+      "english": "What do you want to ask me today?",
+      "persian": "امروز چی می‌خوای از من بپرسی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791243"
+    },
+    {
+      "english": "Can I get your honest opinion on this?",
+      "persian": "می‌شه نظر صادقانه‌ات رو درباره‌اش بگی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791245"
+    },
+    {
+      "english": "How did you find your motivation?",
+      "persian": "انگیزه‌ات رو چطور پیدا کردی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791248"
+    },
+    {
+      "english": "Where do you usually get inspiration?",
+      "persian": "معمولاً الهام رو از کجا میاری؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791252"
+    },
+    {
+      "english": "What’s one question you’re afraid to ask?",
+      "persian": "یک سوالی که از پرسیدنش می‌ترسی چیه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791254"
+    },
+    {
+      "english": "What’s your plan for the next week?",
+      "persian": "برای هفته‌ی بعد برنامه‌ات چیه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791256"
+    },
+    {
+      "english": "Can you tell me your biggest challenge?",
+      "persian": "می‌تونی بزرگ‌ترین چالشت رو بگی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791309"
+    },
+    {
+      "english": "Do you want advice, or just a listen?",
+      "persian": "مشورت می‌خوای، یا فقط گوش بدم؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791312"
+    },
+    {
+      "english": "What helped you most this time?",
+      "persian": "این دفعه چی بیشتر کمکت کرد؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791314"
+    },
+    {
+      "english": "How can we make this easier for you?",
+      "persian": "چطور می‌تونیم براتش راحت‌تر کنیم؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791316"
+    },
+    {
+      "english": "What’s the real reason behind your doubt?",
+      "persian": "واقعاً دلیل شک‌ت چیه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791318"
+    },
+    {
+      "english": "What would you do differently next time?",
+      "persian": "اگه دفعه‌ی بعد باشه، چی رو فرق می‌کنی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791321"
+    },
+    {
+      "english": "Who inspires you lately, and why?",
+      "persian": "این روزها چی یا کی الهام‌بخشت می‌شه، چرا؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791324"
+    },
+    {
+      "english": "Can you ask for help when you need it?",
+      "persian": "وقتی لازم داری کمک بگیری، می‌تونی بخوای؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791326"
+    },
+    {
+      "english": "What small habit could change everything?",
+      "persian": "کدوم عادت کوچیک می‌تونه همه‌چی رو عوض کنه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791328"
+    },
+    {
+      "english": "How do you keep your thoughts focused?",
+      "persian": "چطور ذهنت رو متمرکز نگه می‌داری؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791330"
+    },
+    {
+      "english": "Do you want to reflect, or take action?",
+      "persian": "می‌خوای فکر کنی، یا اقدام کنی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791332"
+    },
+    {
+      "english": "What’s the best time for you to start?",
+      "persian": "بهترین زمان برای شروع کردن تو کیه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791335"
+    },
+    {
+      "english": "What’s your next goal, in one sentence?",
+      "persian": "هدفت بعدی چیه، تو یک جمله؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791337"
+    },
+    {
+      "english": "Can I ask you something, real quick?",
+      "persian": "یه سوال خیلی کوتاه می‌پرسم، اوکی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791339"
+    },
+    {
+      "english": "What do you need right now, honestly?",
+      "persian": "الان واقعاً چی لازم داری؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791341"
+    },
+    {
+      "english": "How do you turn fear into focus?",
+      "persian": "ترس رو چطور تبدیل به تمرکز می‌کنی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791343"
+    },
+    {
+      "english": "Can we check in, how are you feeling?",
+      "persian": "یه سر چک کنیم، حالت چطوره؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791346"
+    },
+    {
+      "english": "What would success look like for you?",
+      "persian": "موفقیت برای تو چه شکلیه؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791347"
+    },
+    {
+      "english": "Do you want to brainstorm together?",
+      "persian": "دوست داری با هم ایده‌پردازی کنیم؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791350"
+    },
+    {
+      "english": "What’s stopping you, step by step?",
+      "persian": "چی جلوت رو می‌گیره، قدم به قدم؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791352"
+    },
+    {
+      "english": "Can you share a lesson you learned?",
+      "persian": "یه درسی که یاد گرفتی رو می‌گی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791354"
+    },
+    {
+      "english": "What’s one thing you’ll do today, quietly?",
+      "persian": "امروز یه کار کوچیک رو بی‌صدا انجام می‌دی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791357"
+    },
+    {
+      "english": "How do you stay kind to yourself?",
+      "persian": "چطور با خودت مهربون می‌مونی؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791359"
+    },
+    {
+      "english": "Want to plan, or just talk it out?",
+      "persian": "برنامه بچینیم، یا فقط حرف بزنیم؟",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791361"
+    },
+    {
+      "english": "Your effort shows, even on slow days.",
+      "persian": "تالاشت پیداست، حتی توی روزهای کند.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791363"
+    },
+    {
+      "english": "New day, same you, bigger wins.",
+      "persian": "روز تازه، همون تو، بردهای بزرگ‌تر.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791365"
+    },
+    {
+      "english": "Say it kindly, then move anyway.",
+      "persian": "با مهربونی به خودت بگو، بعدش برو جلو.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791367"
+    },
+    {
+      "english": "Mindset first, speed comes later.",
+      "persian": "اول ذهنیت، بعد سرعت میاد.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791370"
+    },
+    {
+      "english": "Small progress counts, more than you think.",
+      "persian": "پیشرفت کوچیک هم حساب میشه، بیشتر از چیزی که فکر می‌کنی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791372"
+    },
+    {
+      "english": "You’re building, not falling behind.",
+      "persian": "داری می‌سازی، عقب نمی‌مونی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791375"
+    },
+    {
+      "english": "Every try makes tomorrow easier.",
+      "persian": "هر بار امتحان کنی، فردا آسون‌تر میشه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791377"
+    },
+    {
+      "english": "Today’s stress, tomorrow’s story.",
+      "persian": "استرس امروز، داستان فرداست.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791380"
+    },
+    {
+      "english": "Even silence can be strong practice.",
+      "persian": "حتی سکوت هم می‌تونه تمرین قوی باشه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791382"
+    },
+    {
+      "english": "Trust the process, not the panic.",
+      "persian": "به روند اعتماد کن، نه به وحشت.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791384"
+    },
+    {
+      "english": "Your thoughts are tools, use them well.",
+      "persian": "فکرت ابزارِ توئه، درست استفاده کن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791386"
+    },
+    {
+      "english": "When you doubt, breathe and choose calm.",
+      "persian": "وقتی شک میاد، نفس بکش، آرامش رو انتخاب کن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791389"
+    },
+    {
+      "english": "Gratitude turns pressure into power.",
+      "persian": "تشکر، فشار رو تبدیل به نیرو می‌کنه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791390"
+    },
+    {
+      "english": "You don’t need perfect, you need clear.",
+      "persian": "کامل بودن لازم نیست، واضح بودن کافیه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791395"
+    },
+    {
+      "english": "Focus on what you can do now.",
+      "persian": "فقط روی چیزی که همین الان می‌تونی انجام بدی تمرکز کن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791399"
+    },
+    {
+      "english": "Confidence is built, not gifted.",
+      "persian": "اعتمادبه‌نفس ساخته میشه، هدیه نیست.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791401"
+    },
+    {
+      "english": "Keep going, the lesson is coming.",
+      "persian": "ادامه بده، درسش داره میاد.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791403"
+    },
+    {
+      "english": "You’re allowed to start messy.",
+      "persian": "حق داری با وضعیت شلوغ شروع کنی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791406"
+    },
+    {
+      "english": "Believe in effort, not overnight magic.",
+      "persian": "به تلاش ایمان داشته باش، نه به معجزه‌ی یک‌شبه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791408"
+    },
+    {
+      "english": "Praise your work, even when it’s small.",
+      "persian": "کارت رو تحسین کن، حتی اگه کوچیکه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791411"
+    },
+    {
+      "english": "Your future self is watching your choices.",
+      "persian": "آینده‌ات داره انتخاب‌هات رو می‌بینه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791413"
+    },
+    {
+      "english": "Be stubborn about progress, flexible about steps.",
+      "persian": "در پیشرفت لج کن، توی قدم‌ها منعطف باش.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791415"
+    },
+    {
+      "english": "You can handle this moment, one breath.",
+      "persian": "این لحظه رو می‌تونی مدیریت کنی، فقط یک نفس.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791417"
+    },
+    {
+      "english": "Hope is practical, it moves you.",
+      "persian": "امید واقعی‌ست، راهت می‌ندازه جلو.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791419"
+    },
+    {
+      "english": "Stop negotiating with your goals.",
+      "persian": "با هدف‌هات چانه‌زنی نکن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791421"
+    },
+    {
+      "english": "Cheer for yourself, it changes everything.",
+      "persian": "به خودت روحیه بده، همه‌چیز عوض میشه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791431"
+    },
+    {
+      "english": "You’re not behind, you’re in motion.",
+      "persian": "عقب نیستی، توی حرکتی.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791433"
+    },
+    {
+      "english": "Let discomfort teach you, don’t fight it.",
+      "persian": "از ناراحتی درس بگیر، باهاش نجنگ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791438"
+    },
+    {
+      "english": "Tomorrow needs your consistency, start now.",
+      "persian": "فردا ثبات تو رو می‌خواد، همین الان شروع کن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791440"
+    },
+    {
+      "english": "I’m trying, even when it feels messy.",
+      "persian": "دارم تلاش می‌کنم، حتی وقتی خیلی قاطی‌پاطی است.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791443"
+    },
+    {
+      "english": "Some days, I just need honesty.",
+      "persian": "بعضی روزها فقط صداقت لازم دارم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791444"
+    },
+    {
+      "english": "I’ll take my time, no rush inside me.",
+      "persian": "وقت می‌گیرم، توی دلم عجله نیست.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791447"
+    },
+    {
+      "english": "I feel it, then I keep moving.",
+      "persian": "حسش می‌کنم، بعدش راه می‌افتم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791449"
+    },
+    {
+      "english": "I don’t hide my worries, I work with them.",
+      "persian": "نگرانیم را قایم نمی‌کنم، باهاش کار می‌کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791452"
+    },
+    {
+      "english": "If I fall, I learn the shape of it.",
+      "persian": "اگه بیفتم، از شکلِ زمین خوردن درس می‌گیرم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791454"
+    },
+    {
+      "english": "My heart wants room, not perfection.",
+      "persian": "دلم جا می‌خواهد، نه کمالِ بی‌نقص.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791456"
+    },
+    {
+      "english": "I choose patience, because outcomes take time.",
+      "persian": "صبور می‌مونم، چون نتیجه‌ها زمان می‌خوان.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791458"
+    },
+    {
+      "english": "I talk to myself gently, that matters.",
+      "persian": "با خودم مهربون حرف می‌زنم، مهمه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791460"
+    },
+    {
+      "english": "When I’m tired, I still respect my pace.",
+      "persian": "وقتی خسته‌ام، با سرعت خودم مهربونم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791463"
+    },
+    {
+      "english": "I don’t rush healing, I let it grow.",
+      "persian": "درمان رو عجله نمی‌کنم، می‌ذارم رشد کنه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791466"
+    },
+    {
+      "english": "I’m allowed to change my mind, softly.",
+      "persian": "می‌تونم آروم، نظرم رو عوض کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791468"
+    },
+    {
+      "english": "I listen first, then I decide what’s next.",
+      "persian": "اول گوش می‌دم، بعد می‌فهمم قدم بعدی چیه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791471"
+    },
+    {
+      "english": "My feelings are real, and they pass.",
+      "persian": "احساسام واقعی‌اند، بعد هم رد می‌شن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791473"
+    },
+    {
+      "english": "I can be scared, and still start.",
+      "persian": "می‌تونم بترسم، ولی شروع کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791475"
+    },
+    {
+      "english": "I honor my limits, without losing hope.",
+      "persian": "حد و مرزمو نگه می‌دارم، امیدم رو نه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791477"
+    },
+    {
+      "english": "I check in with my breath, quietly.",
+      "persian": "آروم با نفس‌هام چک می‌کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791481"
+    },
+    {
+      "english": "Some answers arrive when I’m calm.",
+      "persian": "بعضی جواب‌ها وقتی آرومم می‌رسن.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791483"
+    },
+    {
+      "english": "I stop judging my progress, I measure it.",
+      "persian": "پیشرفتم رو قضاوت نمی‌کنم، اندازه می‌گیرم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791485"
+    },
+    {
+      "english": "I let today be enough, no extra weight.",
+      "persian": "امروز برای من کافیه، بارِ اضافه نه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791487"
+    },
+    {
+      "english": "I’m not stuck, I’m sorting myself out.",
+      "persian": "گیر نکردم، دارم خودمو مرتب می‌کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791490"
+    },
+    {
+      "english": "I face the truth, then I plan kindly.",
+      "persian": "حقیقت رو می‌بینم، بعد با مهربونی برنامه می‌چینم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791492"
+    },
+    {
+      "english": "My mind can wander, I bring it back.",
+      "persian": "فکرم می‌چرخه، من برمی‌گردونمش.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791494"
+    },
+    {
+      "english": "I trust my pace, even if it’s small.",
+      "persian": "به سرعت خودم اعتماد دارم، حتی کوچیک.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791496"
+    },
+    {
+      "english": "I’m learning to rest, not to escape.",
+      "persian": "دارم یاد می‌گیرم استراحت کنم، فرار نه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791499"
+    },
+    {
+      "english": "When it hurts, I stay with the feeling.",
+      "persian": "وقتی درد می‌گیره، با حسش می‌مونم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791501"
+    },
+    {
+      "english": "I forgive my delays, then I move again.",
+      "persian": "تاخیرام رو می‌بخشم، بعد دوباره حرکت می‌کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791503"
+    },
+    {
+      "english": "The next step is enough for today.",
+      "persian": "قدم بعدی همین امروز کافیه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791505"
+    },
+    {
+      "english": "I write my thoughts down, they calm down.",
+      "persian": "فکرم رو می‌نویسم، آروم می‌شه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791507"
+    },
+    {
+      "english": "I keep my promises to myself, daily.",
+      "persian": "هر روز به قول‌هام به خودم عمل می‌کنم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791512"
+    },
+    {
+      "english": "Start small, do it before you think too much.",
+      "persian": "کوچک شروع کن، قبل از فکر زیاد انجامش بده.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791514"
+    },
+    {
+      "english": "Ask, then act, don’t wait for permission.",
+      "persian": "بپرس، بعد اقدام کن، اجازه نِیاز نداره.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791517"
+    },
+    {
+      "english": "Make a list, it turns chaos into steps.",
+      "persian": "لیست درست کن، هرج‌ومرج رو قدم می‌کنه.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791527"
+    },
+    {
+      "english": "Before sending, read it once more, calmly.",
+      "persian": "قبل از ارسال، یک بار دیگه بخون، آروم.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T11:14:19.791530"
     }
   ],
-  "last_updated": "2026-11-09T11:13:26.471010"
+  "last_updated": "2026-11-10T11:14:19.791532"
 }
