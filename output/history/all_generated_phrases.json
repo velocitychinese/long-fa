@@ -17279,7 +17279,727 @@
       "persian": "قبل از ارسال، یک بار دیگه بخون، آروم.",
       "category": "Inspiration",
       "generated_at": "2026-11-10T11:14:19.791530"
+    },
+    {
+      "english": "Hi, can I order now, please?",
+      "persian": "سلام، می‌تونم الان سفارش بدم، لطفاً؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.107977"
+    },
+    {
+      "english": "What do you recommend today, my friend?",
+      "persian": "چی امروز پیشنهاد می‌کنی، رفیق؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.107990"
+    },
+    {
+      "english": "Just bring me the menu, please.",
+      "persian": "فقط منو رو بیار، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.107994"
+    },
+    {
+      "english": "I’ll have this one, no changes.",
+      "persian": "این یکی رو می‌خوام، هیچ تغییری نه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.107997"
+    },
+    {
+      "english": "Do you have anything spicy, by chance?",
+      "persian": "یه چیزی تند هم دارید، اتفاقی؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108002"
+    },
+    {
+      "english": "Could I get it to go, please?",
+      "persian": "می‌شه این رو بیرون‌بر بدم، لطفاً؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108006"
+    },
+    {
+      "english": "I’m ready, what’s next on the menu?",
+      "persian": "آماده‌ام، چی بعدش تو منو هست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108010"
+    },
+    {
+      "english": "Can I see the prices, please?",
+      "persian": "می‌تونم قیمت‌ها رو ببینم، لطفاً؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108015"
+    },
+    {
+      "english": "Wow, that looks amazing, honestly.",
+      "persian": "وای، واقعاً خیلی خوشمزه به نظر میاد!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108019"
+    },
+    {
+      "english": "Do you have vegetarian options, right?",
+      "persian": "گزینه گیاه‌خواری هم دارید، درست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108022"
+    },
+    {
+      "english": "No onions for me, please.",
+      "persian": "پیاز برای من نه، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108025"
+    },
+    {
+      "english": "Less sauce, please, I’m watching calories.",
+      "persian": "سس کمتر، لطفاً، کالری رو می‌زنم حواسم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108028"
+    },
+    {
+      "english": "Can you make it mild, not spicy?",
+      "persian": "می‌شه تندش نکنی، ملایم باشه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108031"
+    },
+    {
+      "english": "I’ll take one, please, for now.",
+      "persian": "فعلاً یکی رو می‌گیرم، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108034"
+    },
+    {
+      "english": "Wait, is this hot or cold?",
+      "persian": "صبر کن، این گرمـه یا سرد؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108037"
+    },
+    {
+      "english": "Do you serve fresh bread here?",
+      "persian": "اینجا نون تازه دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108039"
+    },
+    {
+      "english": "Sounds great, I’ll go with that.",
+      "persian": "عالیه، همون رو می‌گیرم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108042"
+    },
+    {
+      "english": "Sorry, I changed my mind.",
+      "persian": "ببخشید، نظرم عوض شد.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108045"
+    },
+    {
+      "english": "Is water included, or extra?",
+      "persian": "آب حساب می‌شه، یا اضافه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108048"
+    },
+    {
+      "english": "Can I get a fork, please?",
+      "persian": "می‌شه چنگال بدین، لطفاً؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108052"
+    },
+    {
+      "english": "Just one moment, I’m deciding.",
+      "persian": "فقط یه لحظه، دارم تصمیم می‌گیرم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108055"
+    },
+    {
+      "english": "Great, thanks! We’re ready to order.",
+      "persian": "عالیه، مرسی! آماده‌ایم سفارش بدیم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108058"
+    },
+    {
+      "english": "Is this gluten-free, by any chance?",
+      "persian": "این گلوتن‌فری هم هست، شاید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108061"
+    },
+    {
+      "english": "No problem, take your time.",
+      "persian": "اشکال نداره، با خیال راحت.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108064"
+    },
+    {
+      "english": "How fast will it arrive?",
+      "persian": "چقدر طول می‌کشه بیاد؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108066"
+    },
+    {
+      "english": "I’m allergic, please tell me ingredients.",
+      "persian": "من آلرژی دارم، لطفاً موادش رو بگید.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108070"
+    },
+    {
+      "english": "Can I get the bill, please?",
+      "persian": "می‌تونم فاکتور رو بگیرم، لطفاً؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108072"
+    },
+    {
+      "english": "One more thing, can I add fries?",
+      "persian": "یه چیز دیگه، می‌شه سیب‌زمینی اضافه کنم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108075"
+    },
+    {
+      "english": "Perfect, that’s exactly what I wanted.",
+      "persian": "عالیه، دقیقاً همونی بود که می‌خواستم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108078"
+    },
+    {
+      "english": "Oops, I meant two, not one.",
+      "persian": "اوپس، دو تا می‌خواستم، نه یکی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108080"
+    },
+    {
+      "english": "What’s the house specialty, today?",
+      "persian": "غذای مخصوصِ خانه, امروز چی هست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108083"
+    },
+    {
+      "english": "Is there a combo deal, right?",
+      "persian": "ترکیبِ اقتصادی هم دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108086"
+    },
+    {
+      "english": "How do you like it, staff?",
+      "persian": "شماهاش چی پیشنهاد می‌کنید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108089"
+    },
+    {
+      "english": "What’s popular with regular customers?",
+      "persian": "مشتری‌های ثابت چی بیشتر می‌گیرن؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108092"
+    },
+    {
+      "english": "Can I try a small portion?",
+      "persian": "میشه یه مقدار کم امتحان کنم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108095"
+    },
+    {
+      "english": "Do you have today’s seasonal menu?",
+      "persian": "منوی فصلیِ امروز رو دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108099"
+    },
+    {
+      "english": "Any bestseller that’s not too heavy?",
+      "persian": "یه غذای پرفروش, سبک‌تر چی هست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108104"
+    },
+    {
+      "english": "Is there something quick and filling?",
+      "persian": "یه چیزی سریع, ولی سیرکننده چی دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108107"
+    },
+    {
+      "english": "What comes with this dish?",
+      "persian": "کنارش چی سرو می‌شه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108110"
+    },
+    {
+      "english": "Do I need to choose size, or?",
+      "persian": "باید سایز انتخاب کنم, یا خودش هست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108112"
+    },
+    {
+      "english": "How spicy is the medium option?",
+      "persian": "مدیومش, چقدر تنده؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108115"
+    },
+    {
+      "english": "Can I see the dessert choices?",
+      "persian": "می‌تونم دسرها رو ببینم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108117"
+    },
+    {
+      "english": "Do you have drinks that pair well?",
+      "persian": "نوشیدنی‌هایی که خوب می‌چسبن, دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108119"
+    },
+    {
+      "english": "What’s the best time to pick up?",
+      "persian": "برای تحویل, بهترین زمان کیه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108122"
+    },
+    {
+      "english": "Are there kids options on the menu?",
+      "persian": "برای بچه‌ها هم تو منو چیزی هست؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108125"
+    },
+    {
+      "english": "What’s the wait time for this one?",
+      "persian": "برای این غذا, چقدر زمان می‌بره؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108128"
+    },
+    {
+      "english": "Is the sauce on the side?",
+      "persian": "سس رو جدا می‌دید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108130"
+    },
+    {
+      "english": "Can I swap the side dish?",
+      "persian": "میشه دورچین رو عوض کرد؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108133"
+    },
+    {
+      "english": "Do you have halal options here?",
+      "persian": "اینجا غذای حلال دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108135"
+    },
+    {
+      "english": "What’s your suggestion for a light meal?",
+      "persian": "برای یه غذای سبک, چی پیشنهاد می‌دید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108138"
+    },
+    {
+      "english": "If I’m lactose intolerant, چی بگیرم؟",
+      "persian": "اگه لاکتوز اذیت می‌کنه, چی بخورم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108142"
+    },
+    {
+      "english": "Is tap water okay here?",
+      "persian": "آب شیرین, اینجا اوکیه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108146"
+    },
+    {
+      "english": "Can we share one meal, maybe?",
+      "persian": "میشه یه غذا رو دونفره تقسیم کنیم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108149"
+    },
+    {
+      "english": "Is there a broth option instead?",
+      "persian": "به‌جاش سوپ هم دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108151"
+    },
+    {
+      "english": "Does this come hot, not lukewarm?",
+      "persian": "داغ سرو می‌کنید, ولرم نه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108154"
+    },
+    {
+      "english": "What’s the house tea, is it sweet?",
+      "persian": "چایِ مخصوصِ شما چیه, شیرینه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108159"
+    },
+    {
+      "english": "How can I pay, card or cash?",
+      "persian": "با کارت می‌شه پرداخت کرد, یا نقدی؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108162"
+    },
+    {
+      "english": "When will the bill be ready?",
+      "persian": "صورت‌حساب کی آماده می‌شه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108165"
+    },
+    {
+      "english": "Could I get help choosing, please?",
+      "persian": "می‌شه یه کم کمکم کنید انتخاب کنم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108167"
+    },
+    {
+      "english": "You’ve got this, choose confidently.",
+      "persian": "تو از پسش برمیای، با اعتماد انتخاب کن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108171"
+    },
+    {
+      "english": "Ask clearly, your order will go smoothly.",
+      "persian": "روشن بپرس، سفارشت راحت پیش میره.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108173"
+    },
+    {
+      "english": "Small steps first, then you’ll feel calm.",
+      "persian": "اول قدم‌های کوچیک، بعد آروم میشی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108177"
+    },
+    {
+      "english": "Stay positive, they’re here to help.",
+      "persian": "مثبت بمون، اون‌ها برای کمک هستن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108180"
+    },
+    {
+      "english": "It’s okay to take your time, breathe.",
+      "persian": "اشکال نداره وقت بذاری، نفس بکش.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108184"
+    },
+    {
+      "english": "Be polite, you’ll get better service.",
+      "persian": "مودب باش، سرویس بهتر می‌گیری.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108187"
+    },
+    {
+      "english": "You’re learning, every try gets easier.",
+      "persian": "داری یاد میگیری، هر بار راحت‌تر میشه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108190"
+    },
+    {
+      "english": "Say what you want, no overthinking.",
+      "persian": "چیزی که میخوای رو بگو، زیاد فکر نکن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108192"
+    },
+    {
+      "english": "Great choices start with one simple question.",
+      "persian": "انتخاب‌های خوب با یک سؤال ساده شروع میشه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108197"
+    },
+    {
+      "english": "Trust your taste, go with your gut.",
+      "persian": "به سلیقه‌ات اعتماد کن، با دلت برو.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108199"
+    },
+    {
+      "english": "Confidence sounds good, even when you pause.",
+      "persian": "اعتمادبه‌نفس خوبه، حتی وقتی مکث می‌کنی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108202"
+    },
+    {
+      "english": "You can repeat yourself, it’s totally normal.",
+      "persian": "می‌تونی دوباره بگی، کاملاً طبیعیه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108206"
+    },
+    {
+      "english": "Ask twice if needed, you’ll figure it out.",
+      "persian": "اگه لازم شد دوباره بپرس، حلش می‌کنی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108209"
+    },
+    {
+      "english": "Focus on the goal, enjoy the meal.",
+      "persian": "تمرکز روی هدف، لذت ببر از غذا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108212"
+    },
+    {
+      "english": "A friendly tone goes a long way.",
+      "persian": "یک لحن مهربون خیلی راه می‌اندازه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108214"
+    },
+    {
+      "english": "You’re doing great, just keep communicating.",
+      "persian": "عالی داری پیش می‌ری، فقط ارتباط بگیر.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108218"
+    },
+    {
+      "english": "Don’t rush, you deserve the right choice.",
+      "persian": "عجله نکن، حق داری درست انتخاب کنی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108221"
+    },
+    {
+      "english": "Celebrate small wins, like ordering in Persian.",
+      "persian": "پیروزی‌های کوچیک رو جشن بگیر، مثل سفارش فارسی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108223"
+    },
+    {
+      "english": "If you’re unsure, say it calmly.",
+      "persian": "اگه مطمئن نیستی، آروم بگو.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108227"
+    },
+    {
+      "english": "You’re almost there, one last detail.",
+      "persian": "تقریباً رسیدی، فقط یک جزئیات دیگه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108230"
+    },
+    {
+      "english": "Be brave, you’ll nail this conversation.",
+      "persian": "جرأت داشته باش، این مکالمه رو خوب درمیاری.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108232"
+    },
+    {
+      "english": "Kind words make the whole experience better.",
+      "persian": "کلمات مهربون کل تجربه رو بهتر می‌کنه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108235"
+    },
+    {
+      "english": "Stay relaxed, you’ll understand their replies.",
+      "persian": "آرام باش، جواب‌ها رو می‌فهمی.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108238"
+    },
+    {
+      "english": "One clear sentence beats five confused ones.",
+      "persian": "یک جمله واضح بهتر از چندتا گیج‌کننده‌ست.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108241"
+    },
+    {
+      "english": "It’s okay to learn on the spot.",
+      "persian": "اشکال نداره همون‌جا یاد بگیری.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108243"
+    },
+    {
+      "english": "Thank them, even if it’s your first try.",
+      "persian": "تشکر کن، حتی اگر اولین باره.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108246"
+    },
+    {
+      "english": "You’re making progress, enjoy the moment.",
+      "persian": "داری پیشرفت می‌کنی، همین لحظه رو لذت ببر.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108249"
+    },
+    {
+      "english": "Ask, smile, and keep it simple.",
+      "persian": "بپرس، لبخند بزن، ساده نگه دار.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108252"
+    },
+    {
+      "english": "Your order matters, speak up politely.",
+      "persian": "سفارش تو مهمه، مودبانه بگو.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108255"
+    },
+    {
+      "english": "Good energy, great food—let’s do it.",
+      "persian": "انرژی خوب، غذای عالی—بریم!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108258"
+    },
+    {
+      "english": "I’m not sure yet, I’ll think a moment, please.",
+      "persian": "من هنوز مطمئن نیستم، یه لحظه فکر می‌کنم، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108262"
+    },
+    {
+      "english": "Honestly, I’m in the mood for something light.",
+      "persian": "راستش، دلم یه غذای سبک می‌خواد.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108265"
+    },
+    {
+      "english": "I want to keep it simple, no extra spice.",
+      "persian": "می‌خوام ساده باشه، ادویه‌ی زیاد نه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108270"
+    },
+    {
+      "english": "I’m trying to eat healthier, what fits?",
+      "persian": "دارم سعی می‌کنم سالم‌تر بخورم، چی بهتره؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108272"
+    },
+    {
+      "english": "Can you tell me what’s gentler on the stomach?",
+      "persian": "می‌شه بگین چی برای معده ملایم‌تره؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108276"
+    },
+    {
+      "english": "I’d rather something warm, not too heavy today.",
+      "persian": "امروز چیزی گرم‌تر می‌خوام، خیلی سنگین نه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108279"
+    },
+    {
+      "english": "I’m feeling tired, do you have quick options?",
+      "persian": "خیلی خسته‌ام، غذای سریع چی دارید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108282"
+    },
+    {
+      "english": "Please, I’ll go with your calm recommendation.",
+      "persian": "لطفاً، با پیشنهاد آرومتون می‌رم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108286"
+    },
+    {
+      "english": "I’m not picky, just surprise me a little, okay?",
+      "persian": "سخت‌گیر نیستم، فقط یه کم غافلگیرم کن، باشه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108289"
+    },
+    {
+      "english": "I’m craving comfort food, what do locals love?",
+      "persian": "دلم غذای راحت‌طلبانه می‌خواد، مردم اینجا چی دوست دارن؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108294"
+    },
+    {
+      "english": "I might change it, I’m thinking out loud.",
+      "persian": "ممکنه عوضش کنم، دارم بلند فکر می‌کنم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108299"
+    },
+    {
+      "english": "If it’s possible, I’d like it less sweet.",
+      "persian": "اگه می‌شه، شیرینیش کمتر باشه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108302"
+    },
+    {
+      "english": "I’m nervous about the choices, but I’ll try.",
+      "persian": "یه کم استرس دارم از انتخاب‌ها، ولی امتحان می‌کنم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108305"
+    },
+    {
+      "english": "Take your time, I’m here and listening.",
+      "persian": "وقت بگذارید، من اینجام و گوش می‌دم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108308"
+    },
+    {
+      "english": "I’d love something filling, but not greasy.",
+      "persian": "یه چیزی سیرکننده می‌خوام، ولی چرب نباشه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108311"
+    },
+    {
+      "english": "To be honest, I don’t know what to order.",
+      "persian": "واقعیتش، نمی‌دونم چی سفارش بدم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108314"
+    },
+    {
+      "english": "I’m looking for a classic, not too fancy.",
+      "persian": "دنبال یه غذای کلاسیکم، نه خیلی شیک.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108317"
+    },
+    {
+      "english": "Could you walk me through the options gently?",
+      "persian": "می‌شه آروم آروم گزینه‌ها رو توضیح بدید؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108320"
+    },
+    {
+      "english": "I’ll trust you, just tell me the best combo.",
+      "persian": "بهتون اعتماد می‌کنم، فقط بهترین ترکیب رو بگید.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108323"
+    },
+    {
+      "english": "I’m okay waiting, I want it done right.",
+      "persian": "اشکالی نداره صبر کنم، می‌خوام درستش کنن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108326"
+    },
+    {
+      "english": "I’m trying to keep portions reasonable, please.",
+      "persian": "می‌خوام اندازه‌ها منطقی باشه، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108329"
+    },
+    {
+      "english": "I need something comforting, my day’s been long.",
+      "persian": "یه غذای آرامش‌بخش می‌خوام، روزم خیلی طولانی بوده.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108332"
+    },
+    {
+      "english": "Let me be clear, I want it without nuts.",
+      "persian": "بذار شفاف بگم، بدون مغزها می‌خوام.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108335"
+    },
+    {
+      "english": "I’d like to avoid anything spicy today, please.",
+      "persian": "امروز دوست ندارم تند باشه، لطفاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108338"
+    },
+    {
+      "english": "I’m watching my budget, what’s the best value?",
+      "persian": "دارم حواسم به بودجه‌ست، چی ارزش خریدش بیشتره؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108341"
+    },
+    {
+      "english": "I feel overwhelmed, so I’ll pick the safest option.",
+      "persian": "زیاد گیج شدم، پس مطمئن‌ترین گزینه رو انتخاب می‌کنم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108344"
+    },
+    {
+      "english": "I don’t mind repeats, just make sure it’s right.",
+      "persian": "اگه تکرار شد اشکال نداره، فقط مطمئنش کنید.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108348"
+    },
+    {
+      "english": "I’d like your honest opinion, what should I get?",
+      "persian": "نظر واقعی‌تون رو می‌خوام، چی سفارش بدم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108351"
+    },
+    {
+      "english": "I’m ready now, please take my order gently.",
+      "persian": "الان آماده‌م، لطفاً سفارشمو آروم بگیرید.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108354"
+    },
+    {
+      "english": "Thanks, I’m happy with whatever you recommend.",
+      "persian": "ممنون، از هرچی پیشنهاد بدید راضیم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108357"
+    },
+    {
+      "english": "What do you recommend for first-time visitors?",
+      "persian": "برای اولین‌بار چی پیشنهاد می‌کنی؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-11T10:37:24.108359"
     }
   ],
-  "last_updated": "2026-11-10T11:14:19.791532"
+  "last_updated": "2026-11-11T10:37:24.108361"
 }
