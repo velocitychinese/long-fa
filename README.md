@@ -1,6 +1,6 @@
 # Velocity Persian
 
-**56 Persian phrases in a ~10-minute lesson - a brand-new video every day.**
+**Up to 56 Persian phrases in a ~10-minute lesson - a brand-new video every day.**
 
 Velocity Persian is a daily Persian lesson for English speakers. Every episode is built from
 scratch: fresh topics, fresh phrases, natural فارسی audio and an English pronunciation
@@ -8,7 +8,7 @@ guide for every line. Watch, repeat out loud, and grow your Persian one chapter 
 
 ## What is inside every lesson
 
-- **56 real-life phrases** across **8 themed chapters**
+- **Up to 56 real-life phrases** across **8 themed chapters**, trimmed to fit the clock
 - **Native audio** for every Persian line
 - **English pronunciation** with stressed syllables in CAPITALS
 - A **new topic mix every day** - no repeated phrase lists
