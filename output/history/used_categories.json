@@ -99,7 +99,39 @@
     {
       "category": "Ordering Food & Dining",
       "date": "2020-01-25"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:15:19.305725"
+  "last_updated": "2026-11-12T20:42:51.788527"
 }

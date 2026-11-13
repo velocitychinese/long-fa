@@ -17999,7 +17999,399 @@
       "persian": "برای اولین‌بار چی پیشنهاد می‌کنی؟",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-11T10:37:24.108359"
+    },
+    {
+      "english": "I need my purpose, not just tasks.",
+      "persian": "من هدفم را می خواهم، نه فقط کارها.",
+      "transliteration": "man hədəf-am râ mikhâham, na faqat kâr-hâ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Your purpose can start today, seriously.",
+      "persian": "هدف تو می تواند از همین امروز شروع شود، جدی.",
+      "transliteration": "hədəf-e to mitavânad az hamin emruz shoru shavad, jiddi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I’m choosing a direction, not perfection.",
+      "persian": "من یک مسیر را انتخاب می کنم، نه کمال.",
+      "transliteration": "man yek masir râ entekhab mikonam, na kamâl.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "What’s your real goal right now?",
+      "persian": "الان هدف واقعی تو چیه؟",
+      "transliteration": "alan hədəf-e vâqe'i-ye to chie?",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "My purpose fits how I want to live.",
+      "persian": "هدف من با شیوه ای که می خواهم زندگی کنم جور است.",
+      "transliteration": "hədəf-e man bâ shiveh-yei ke mikhâham zendegi konam jur ast.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I’m building habits for my long-term goal.",
+      "persian": "من دارم عادت ها می سازم برای هدف بلندمدت.",
+      "transliteration": "man dâram âdat-hâ misâzam barâye hədəf-e bolandmoddat.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let’s talk about the reason behind it.",
+      "persian": "بیا درباره دلیلش حرف بزنیم، پشت این هدف.",
+      "transliteration": "biyâ dârbâre delil-esh harf bezanim, posht-e in hədəf.",
+      "category": "Purpose",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "We toast with tea, not just wine.",
+      "persian": "ما با چای سلامتی را به هم می‌گوییم، نه فقط با شراب.",
+      "transliteration": "mâ bâ châi salâmat râ be ham miguyim, na faqat bâ sharâb.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let’s remove shoes before entering.",
+      "persian": "قبل از ورود، کفش‌ها را دربیاریم.",
+      "transliteration": "qabl az vurud, kafe shâ râ darbiyârim.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "At Nowruz, we set the Haft-Sin.",
+      "persian": "در نوروز، سفره هفت‌سین را می‌چینیم.",
+      "transliteration": "dar noruz, sofreye haft-sin râ mic hinim.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "We visit relatives right after lunch.",
+      "persian": "بعد از ناهار، سراغ فامیل‌ها می‌رویم.",
+      "transliteration": "baad az nâhâr, sarâgh-e fâmil-hâ miravim.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "On Eid, we share sweets and hugs.",
+      "persian": "در عید، شیرینی و بغل کردن همیشگی است.",
+      "transliteration": "dar eid, shirini o baghal kardan hamishgi ast.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "People bring fruit as a guest gift.",
+      "persian": "وقتی مهمان می‌آید، میوه می‌آورند.",
+      "transliteration": "vagh ti mehmân miyâd, mive miyâvarand.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "We read poems on rainy afternoons.",
+      "persian": "بعد از باران، شعر می‌خوانیم.",
+      "transliteration": "baad az bârân, she’r mixânim.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I totally agree with you on that.",
+      "persian": "کاملا باهات موافقم.",
+      "transliteration": "KA-ME-LA ba-HAT MO-va-queGAm.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Yes, that sounds right to me.",
+      "persian": "آره، به نظرم درسته.",
+      "transliteration": "A-REH, be NAZ-ram DOR-es-teh.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I see your point, actually.",
+      "persian": "راستش حق رو می‌فهمم.",
+      "transliteration": "RAST-esh HEG ro mi-FEHMAM.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let’s do it your way.",
+      "persian": "باشه، به همون روش تو انجام بدیم.",
+      "transliteration": "BA-SHEH, be HAM-UN ROOSH toe EN-jam be-DIM.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I think you're right this time.",
+      "persian": "فکر کنم این بار حق با توئه.",
+      "transliteration": "FEKR kon-am IN BAR HEG ba TOE-eh.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "That makes sense to me, thanks.",
+      "persian": "منطقیه، ممنون.",
+      "transliteration": "MAN-TEG-e, mam-NUN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I agree, but with one condition.",
+      "persian": "موافقم، فقط یه شرط دارم.",
+      "transliteration": "MO-va-queGAm, FA-QAT ye SHART da-ram.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I’m feeling so much joy today.",
+      "persian": "امروز کلی شادی تو دلم دارم.",
+      "transliteration": "Emruz KELI SHADI to delam DARAM.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "That laugh just made my day.",
+      "persian": "همین خنده حال منو بهتر کرد.",
+      "transliteration": "Hamin KHANDE halemo behtar KARD.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Joy is in small moments.",
+      "persian": "شادی تو لحظه های کوچیکه.",
+      "transliteration": "SHADI to laHZE-ha-ye KOOchikEh.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I needed this good news.",
+      "persian": "این خبر خوب دقیقاً به دردم خورد.",
+      "transliteration": "In KHABAR-e KHOOB daGHIGHAN be dardEm KHORD.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let’s celebrate, no matter what.",
+      "persian": "بیا جشن بگیریم، حتی همین امروز.",
+      "transliteration": "BIA JESN BegIRIM, haTTI Hamin Emruz.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "My heart feels light right now.",
+      "persian": "الان دلم سبک شده.",
+      "transliteration": "ALAN delam sAbokh SHODE.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I found my joy again.",
+      "persian": "دوباره شادی رو پیدا کردم.",
+      "transliteration": "DOVARE shADI ro pIda KARDAM.",
+      "category": "Joy",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Choose patience, not quick replies.",
+      "persian": "صبر کن، نه جواب فوری.",
+      "transliteration": "SABR KON, na JAVAB-E FOORI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Ask one good question before speaking.",
+      "persian": "قبل از حرف زدن، یک سوال خوب بپرس.",
+      "transliteration": "QABL AZ HARF ZADAN, yek SOAL-E KHOOB BE-PORS.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Check facts, then trust your gut.",
+      "persian": "اول واقعیت را چک کن، بعد به دل اعتماد کن.",
+      "transliteration": "AVVAL VAQE‘IAT RA CHEK KON, BAD-E B E DEL E‘TEMAD KON.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let actions match your words.",
+      "persian": "کارها باید با حرف‌ها یکی باشد.",
+      "transliteration": "KARHA BAYAD BA H E RF-HA YEK BASHAD.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Sleep on it, decide with a clear head.",
+      "persian": "یک شب فکر کن، بعد تصمیم بگیر.",
+      "transliteration": "YEK SHAB FIKR KON, BAD‘E TASMIM B E GIR.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Small habits build real strength.",
+      "persian": "عادت‌های کوچک، قدرت واقعی می‌سازند.",
+      "transliteration": "‘ADAT-HAI KOCHAK, QODRAT-E VAQE‘I M I S AZAND.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Don’t chase, grow where you’re planted.",
+      "persian": "دنبالِ همه‌چیز ندو، همان‌جا ریشه بدوان.",
+      "transliteration": "DONBAL-E HAME-CHEIZ NADAV, HAMEANJA R E ISHE BADAVN.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Thanks for having my back.",
+      "persian": "ممنون که پشت من هستی.",
+      "transliteration": "mamnon ke PAs̱t-e man HASTI.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "You showed up when it mattered.",
+      "persian": "وقتی مهم بود، رسیدی.",
+      "transliteration": "vaghti mohem bod, residi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Let’s catch up this weekend.",
+      "persian": "این آخر هفته همدیگه رو ببینیم.",
+      "transliteration": "in âkhar hafte hamdigeye ro bebínim.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Your advice always helps me.",
+      "persian": "راهنمایی تو همیشه به دردم می‌خوره.",
+      "transliteration": "râhnamaayi-ye to hame she be dardam mikhore.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I trust you with my secrets.",
+      "persian": "بهت اعتماد دارم، رازهایم رو می‌دونـی.",
+      "transliteration": "be t etemad DARAM, râzhâim ro miduni.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "We laugh, even when life is hard.",
+      "persian": "حتی وقتی زندگی سخته، باهم می‌خندیم.",
+      "transliteration": "hattî vaghti zendegi sakht e, bâ ham mikhandeem.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Text me when you’re free.",
+      "persian": "اگه وقت داشتی، پیام بده.",
+      "transliteration": "age vagt dâshti, peyâm bede.",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "persian": "من می توانم، قدم به قدم.",
+      "transliteration": "man mi tavânam, qadham ba qadham.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Tell the truth, even when it's hard.",
+      "persian": "حقیقت را بگو، حتی اگر سخت باشد.",
+      "transliteration": "haqîqat râ begû, ҳатّی agar sakh t bâshad.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I asked, even though I was nervous.",
+      "persian": "پرسیدم، با این که نگران بودم.",
+      "transliteration": "porsidam, bâ in ke nâgarân bûdam.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I can face it, not run away.",
+      "persian": "می توانم باهاش روبه رو بشم، نه فرار.",
+      "transliteration": "mitavânam bâsh روبه رو besham, na farâr.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I said no, and I meant it.",
+      "persian": "نه گفتم، و جدی بودم.",
+      "transliteration": "na goftam, o jeddî bûdam.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I’ll speak up, right now.",
+      "persian": "همین الان حرف می زنم.",
+      "transliteration": "hamin alân harf mi zanam.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I apologized, even if it stings.",
+      "persian": "عذرخواهی کردم، حتی اگر تلخ باشد.",
+      "transliteration": "azar-khâhi kardam, hatta agar talkh bâshad.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Can I withdraw cash today?",
+      "persian": "می‌شود امروز پول نقد برداشت کنم؟",
+      "transliteration": "Mìsheh emrûz pul naqed bar-dâsht konam?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "I need to check my account balance.",
+      "persian": "می‌خواهم موجودی حسابم را چک کنم.",
+      "transliteration": "Mikhâham mojûdi hesâbam râ chek konam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Please transfer money to my friend.",
+      "persian": "لطفا پول را برای دوستم واریز کنید.",
+      "transliteration": "Lotfan pul râ barâye doostam vârìz konid.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "What’s the exchange rate right now?",
+      "persian": "الان نرخ تبدیل چنده؟",
+      "transliteration": "Alân narx-e tabdil chande?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Do you charge a transfer fee?",
+      "persian": "برای واریز، هزینه‌ای می‌گیرید؟",
+      "transliteration": "Barâye vârìz, hazine-yei migìrìd?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "My card got declined, what now?",
+      "persian": "کارت من رد شد، الان چی کار کنم؟",
+      "transliteration": "Kârt-e man rad shod, alân chi kâr konam?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Can I set up online banking?",
+      "persian": "می‌شود اینترنت بانک فعال کنم؟",
+      "transliteration": "Mìsheh internet bank fâel konam?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T20:42:51.770409"
     }
   ],
-  "last_updated": "2026-11-11T10:37:24.108361"
+  "last_updated": "2026-11-12T20:42:51.770409"
 }
