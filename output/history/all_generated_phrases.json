@@ -18391,7 +18391,399 @@
       "transliteration": "Mìsheh internet bank fâel konam?",
       "category": "Banking & Money",
       "generated_at": "2026-11-12T20:42:51.770409"
+    },
+    {
+      "english": "Happiness starts with small choices.",
+      "persian": "خوشبختی با انتخاب‌های کوچک شروع می‌شود.",
+      "transliteration": "KHOShbakhti ba entekhab-ha-ye KOuchak SHoroo mishavad.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I feel happy when I'm honest.",
+      "persian": "وقتی صادق هستم، احساس خوشبختی می‌کنم.",
+      "transliteration": "VAQti SAAdeq hasty, Ehsas-e KHOShbakhti mikonam.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Gratitude makes today lighter.",
+      "persian": "سپاسگزاری امروز را سبک‌تر می‌کند.",
+      "transliteration": "Sepas-gozari emruz ra sAKHtar mikonad.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Warm tea, warm heart, happy day.",
+      "persian": "چای گرم، دل گرم، روز خوشبختی.",
+      "transliteration": "chay-e GARM, del-e GARM, rooz-e KHOShbakhti.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Laughing with friends saves my day.",
+      "persian": "خندیدن با دوستان روزم را نجات می‌دهد.",
+      "transliteration": "khandidan ba doostaan rooz-am ra najaat midahad.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Good sleep feels like real wealth.",
+      "persian": "خواب خوب مثل ثروت واقعی است.",
+      "transliteration": "KHAVB-e KHOoB mesl-e sorvat-e VAQe'i ast.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Peace comes when I slow down.",
+      "persian": "آرامش وقتی می‌آید که کندتر حرکت کنم.",
+      "transliteration": "ARAmesh vaqti miayad ke KENdtar harakat konam.",
+      "category": "Happiness",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I need an ambulance right now.",
+      "persian": "لطفا یک آمبولانس همین الان می‌فرستید؟",
+      "transliteration": "Lotfan yek amBOlans hamin ALan miFERestid?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Call emergency services for me.",
+      "persian": "برای من با اورژانس تماس بگیرید، لطفا.",
+      "transliteration": "Baraye man ba ORĵans Tamas begirid, lotfan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I’m having chest pain, please help.",
+      "persian": "درد قفسه سینه دارم، لطفا کمکم کنید.",
+      "transliteration": "Dard qafese SINE daram, lotfan komakam KONeid.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I can’t breathe, it’s getting worse.",
+      "persian": "نمی‌توانم نفس بکشم، دارد بدتر می‌شود.",
+      "transliteration": "Nemitavanam nafs beKESHAM, darad BADtar mishevad.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I think I’m having an allergic reaction.",
+      "persian": "فکر می‌کنم دارم واکنش آلرژیک نشان می‌دهم.",
+      "transliteration": "Fekr mikonam daram vaKONEش ALerjik neshan midaham.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Do you have an epinephrine pen?",
+      "persian": "آیا خودکار اپی‌نفرین دارید؟",
+      "transliteration": "A ya KHODkar ePInef rin DArid?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I swallowed something and I feel sick.",
+      "persian": "چیزی خوردم و حالم بد شد.",
+      "transliteration": "CHIzi KHordam va haLAM bad shod.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Bring snacks, please, I'm hosting.",
+      "persian": "اسنک بیار، لطفاً، من میهمان‌دارم.",
+      "transliteration": "e-s-nak bi'ar, lotfan, man mehaman-daaram",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "We’re having friends over Saturday.",
+      "persian": "شنبه پیشِ دوستام مهمونی داریم.",
+      "transliteration": "shanbeh pish-e doostaa mehmooni daarim",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Can I help with the setup?",
+      "persian": "می‌تونم توی چیدمان کمک کنم؟",
+      "transliteration": "mi-tunam toye cheydamaan komak konam",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Your music is perfect for tonight.",
+      "persian": "موسیقی‌ات امشب عالیه، دقیقاً به دل می‌شینه.",
+      "transliteration": "musighi-at emshab a'aliye, daad-qan be del misheene",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Let’s toast for a great year!",
+      "persian": "بیایید به خاطر سالِ خوب، جام بگیریم!",
+      "transliteration": "bia-yid be khatere saal-e khoob, jaam be-gir-im",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I brought dessert, it’s homemade.",
+      "persian": "دسر آوردم، خونه‌پزه است.",
+      "transliteration": "deser avordam, khoone-pazeh ast",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Oops, I’m running ten minutes late.",
+      "persian": "وای، دارم ده دقیقه دیر می‌رسم.",
+      "transliteration": "vaa-y, daaram dah daqiqeh deer mi-rasam",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "My flight is delayed, what now?",
+      "persian": "پروازم تأخیر دارد، الان چی میشه؟",
+      "transliteration": "parvāzam ta'khir dārad, ALAN chi mi she?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Where is the check-in counter?",
+      "persian": "کانتر پذیرش کجاست؟",
+      "transliteration": "kāunter pazírash kojāst?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Do I need to print my ticket?",
+      "persian": "برای بلیت، چاپش لازم است؟",
+      "transliteration": "barāye bilet, CHĀPesh lāzem ast?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I’m running late, please help.",
+      "persian": "دارم دیر می‌رسم، لطفاً کمکم کنید.",
+      "transliteration": "dāram DİR miresam, lotfan KOMakam konid.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Can I change seats for free?",
+      "persian": "میشه رایگان جای صندلی عوض کنم؟",
+      "transliteration": "mishe rāyegān jāye sandali AVAZ konam?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Which gate is my departure?",
+      "persian": "گیت خروج من کدومه؟",
+      "transliteration": "GIT khoroujom kodome?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Is there a pharmacy inside the airport?",
+      "persian": "داخل فرودگاه داروخانه هست؟",
+      "transliteration": "dākhole farودgāh dārukHāneh hest?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "How much is this, please?",
+      "persian": "این چند تومنه؟",
+      "transliteration": "In chand toomene?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Do you have it in stock?",
+      "persian": "این رو موجود دارید؟",
+      "transliteration": "In ro mojood dârid?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Can I pay by card?",
+      "persian": "می‌تونم با کارت پرداخت کنم؟",
+      "transliteration": "Mitoonam bâ kaart pardâkht konam?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Is there a discount today?",
+      "persian": "امروز تخفیف دارید؟",
+      "transliteration": "Emrooz takhfif dârid?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Does this include tax?",
+      "persian": "قیمتش با مالیات حساب شده؟",
+      "transliteration": "Gheymatesh bâ mâliyât hesab shode?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Can I see the price tag?",
+      "persian": "میشه قیمت رویش رو ببینم؟",
+      "transliteration": "Mishe gheymat royesh ro bebínam?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Is there a cheaper option?",
+      "persian": "یه مدل ارزون‌ترش هست؟",
+      "transliteration": "Ye model arzun-tarash hast?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I wake up, I drink water first.",
+      "persian": "صبح که بیدار می‌شوم، اول آب می‌خورم.",
+      "transliteration": "Sobh ke bیدar mīsham, aval āb mīخورam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I check messages after breakfast.",
+      "persian": "بعد از صبحانه پیام‌ها را چک می‌کنم.",
+      "transliteration": "Bad az sobhāneh peyām-hā rā chek mīkonam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I leave home early for traffic.",
+      "persian": "زود از خانه بیرون می‌روم چون ترافیک هست.",
+      "transliteration": "Zood az khāneh bīroon mīravam chon trafik hast.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I start work with a quick plan.",
+      "persian": "کارم را با یک برنامه کوتاه شروع می‌کنم.",
+      "transliteration": "Kāram rā ba yek barname kootāh shooroo mīkonam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I take a lunch break at noon.",
+      "persian": "ظهر برای ناهار یک استراحت کوتاه دارم.",
+      "transliteration": "Zohre barāye nāhār yek esrāhat kootāh dāram.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I walk ten minutes to reset.",
+      "persian": "ده دقیقه قدم می‌زنم تا حالم عوض شود.",
+      "transliteration": "Deh daghighe qadam mīzanam tā hālam oovaz shavad.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I reply to emails in batches.",
+      "persian": "ایمیل‌ها را مرحله‌ای جواب می‌دهم.",
+      "transliteration": "E-mail-hā rā marhale-i javāb mīdaham.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I speak up, even if I'm nervous.",
+      "persian": "بلند حرف می زنم، حتی اگر دست و پام بلرزه.",
+      "transliteration": "boland harf mizanam, hatta agar dast o paam be-larze",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I trust my judgment in the moment.",
+      "persian": "همین لحظه به تشخیصم اعتماد دارم.",
+      "transliteration": "hameen laHze be tashkhis-am etemaad daaram",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I take the first step, not perfect.",
+      "persian": "اول شروع می کنم، لازم نیست کامل باشم.",
+      "transliteration": "aval shoroo mikonam, lazem nist kaamel basham",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "My voice matters, and I own it.",
+      "persian": "صدای من مهمه، و من صاحبش هستم.",
+      "transliteration": "sedaye man moheme, va man saahibesh hastam",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I can learn fast, starting today.",
+      "persian": "می تونم سریع یاد بگیرم، از همین امروز.",
+      "transliteration": "mi تونم sari-e yad begiram, az hamin emrooz",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "No panic, I choose calm action.",
+      "persian": "وحشت نمی کنم، آرام عمل می کنم.",
+      "transliteration": "vahshat nemikonam, aaram amal mikonam",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I don't need permission to try.",
+      "persian": "برای امتحان کردن، اجازه لازم ندارم.",
+      "transliteration": "baraye emtehaan kardan, ejaz-e lazem nadaram",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Do you have oat milk today?",
+      "persian": "امروز شیر جو دوسر دارید؟",
+      "transliteration": "Em-rUz shIr ju-do-sar da-rId?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "What fresh pastries are in the oven?",
+      "persian": "چه نان و شیرینی تازه‌ای داخل فر دارید؟",
+      "transliteration": "Che NAN o SHIR-İ-ni ta-ze-ye da-KHEl feR da-rId?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I’ll take two croissants to go.",
+      "persian": "دو تا کروسان برای بیرون می‌خواهم.",
+      "transliteration": "Do ta kROU-saN bar-a-ye bERun mI-KHA-ham.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Is this bread still warm?",
+      "persian": "این نان هنوز گرم است؟",
+      "transliteration": "İn NAN ha-nuZ gARM asT?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "Do you have Wi-Fi for customers?",
+      "persian": "برای مشتری‌ها اینترنت وای فای دارید؟",
+      "transliteration": "Ba-ye MOSH-tE-ri-ha In-ter-net wai-fai da-rId?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "How much is the cinnamon roll?",
+      "persian": "قیمت رول دارچینی چقدر است؟",
+      "transliteration": "Ghİ-met ROL-e dar-CHI-ni che-qad arz?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "What’s your best-selling dessert?",
+      "persian": "بهترین دسرِ شما چی هست؟",
+      "transliteration": "BEH-tarIn de-ser-e shomA che hest?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:20:32.953797"
     }
   ],
-  "last_updated": "2026-11-12T20:42:51.770409"
+  "last_updated": "2026-11-13T20:20:32.953797"
 }

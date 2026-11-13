@@ -131,7 +131,39 @@
     {
       "category": "Banking & Money",
       "date": "2026-11-12"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T20:42:51.788527"
+  "last_updated": "2026-11-13T20:20:32.971589"
 }
