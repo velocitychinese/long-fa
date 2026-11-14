@@ -163,7 +163,39 @@
     {
       "category": "Coffee Shop & Bakery",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T20:20:32.971589"
+  "last_updated": "2026-11-14T18:40:34.326298"
 }

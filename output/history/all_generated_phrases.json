@@ -18783,7 +18783,399 @@
       "transliteration": "BEH-tarIn de-ser-e shomA che hest?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-13T20:20:32.953797"
+    },
+    {
+      "english": "I’ll do it for five minutes.",
+      "persian": "همین الان، فقط پنج دقیقه انجامش می‌دم.",
+      "transliteration": "hamiin alan, faghat panj daqiqeh anjamesh midam",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Start messy, improve on the way.",
+      "persian": "از همین اول کثیف شروع کن، بعدش بهترش می‌کنی.",
+      "transliteration": "az hamin aval kasif shoru kon, badash behtaresh mikoni",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Today I move one step forward.",
+      "persian": "امروز فقط یک قدم جلو می‌رم.",
+      "transliteration": "emruz faghat yek qadam jolo miram",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Discipline beats mood, every day.",
+      "persian": "انضباط از حال و هوا جلوتره، هر روز.",
+      "transliteration": "endizbat az hal o hava jolo tare, har ruz",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Make it small, make it real.",
+      "persian": "کوچیکش کن، واقعی انجامش بده.",
+      "transliteration": "kochikes kkon, vaghei anjamesh bede",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I can study even when tired.",
+      "persian": "حتی وقتی خسته‌ام، می‌تونم درس بخونم.",
+      "transliteration": "hati vaghti khaste-am, mitunam das bekhoonam",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "One new word, then breathe.",
+      "persian": "یه کلمه جدید یاد بگیر، بعد نفس بکش.",
+      "transliteration": "ye kalame jadid yad begir, bad nafas bekesh",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I still have hope, today.",
+      "persian": "من هنوز امید دارم، امروز.",
+      "transliteration": "Man HANOoz OMId daaram, Emruz.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Hang in there, help is coming.",
+      "persian": "دوام بیار، کمک داره میرسه.",
+      "transliteration": "Davam biar, KOMak DARe miresE.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Tomorrow can be better, trust me.",
+      "persian": "فردا می‌تونه بهتر باشه، باور کن.",
+      "transliteration": "FARdaa mitOone BETar bAshe, Bavar kon.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’m not giving up on us.",
+      "persian": "من از ما دست نمی‌کشم.",
+      "transliteration": "Man az MA dast nemikasham.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Your future is still open, I think.",
+      "persian": "فک کنم راه آینده هنوز بازه.",
+      "transliteration": "Fek konam rahE AYAande HANuz BAze.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Let’s try again, softly.",
+      "persian": "بذار دوباره امتحان کنیم، آروم.",
+      "transliteration": "Baez dobare emtEhaan konim, aarom.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Good news might find us soon.",
+      "persian": "خبر خوب شاید زود پیدا‌مون کنه.",
+      "transliteration": "Khabar KHoob shaYad Zood peydaaMaAmon kone.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "My mom is cooking right now",
+      "persian": "مامانم همین الان داره آشپزی می کنه",
+      "transliteration": "mâ-maanam hamin alan dâ-re â-ææ-zî mikone",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Dad called to check on you",
+      "persian": "بابا زنگ زد که حال تو رو بپرسه",
+      "transliteration": "bâ-bâ zang zad ke hâl to ro be-pôr-se",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Can I bring dinner tonight?",
+      "persian": "می تونم امشب شام بیارم؟",
+      "transliteration": "mi tun-am em-shab shâm bi-aar-am",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "We’re all together at the table",
+      "persian": "همه ما سرِ میز هستیم",
+      "transliteration": "he-me mâ sar-e mî-z hastim",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "The house smells like fresh bread",
+      "persian": "این خونه بوی نون تازه می ده",
+      "transliteration": "in khâ-ne bû-ye nân-e tâ-ze mi deh",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’m cleaning the kitchen, come help",
+      "persian": "دارم آشپزخونه رو تمیز می کنم، بیا کمکم",
+      "transliteration": "dâ-rem â-şpaz-khâ-ne-ro te-mîz mikon-am, bi-a komakam",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Our family game night is tonight",
+      "persian": "امشب شبِ بازی خانوادگی ماست",
+      "transliteration": "em-shab shab-e bâ-zî-e khâ-nvâ-dagî-e mâ-st",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I can wait, no problem.",
+      "persian": "می‌تونم صبر کنم، اشکالی نداره.",
+      "transliteration": "mi تونam صبر کنam، ashkaali نداره",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Let’s slow down and talk.",
+      "persian": "بیاید آروم‌آروم صحبت کنیم، با صبر.",
+      "transliteration": "biayid aarom-aarom صحبت konim, ba صبر",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "This will pass, I know it.",
+      "persian": "این هم می‌گذره، با صبر خودش حل میشه.",
+      "transliteration": "in ham می گذre, ba صبر khodesh hal mishe",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Good things take time.",
+      "persian": "کارهای خوب زمان می‌خوان، صبر کن.",
+      "transliteration": "karhaye khoob zaman mi khan, صبر kon",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’ll handle it, step by step.",
+      "persian": "نگران نباش، آروم‌آروم درستش می‌کنم.",
+      "transliteration": "نگران نباش, aarom-aarom dorostesh mi konam",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Wait for the green light.",
+      "persian": "صبر کن تا چراغ سبز بشه، بعد برو.",
+      "transliteration": "صبر kon ta چراغ سبز beshe, bad برو",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "We don’t rush this decision.",
+      "persian": "برای این تصمیم عجله نمی‌کنیم، با صبر جلو می‌ریم.",
+      "transliteration": "baraye in tasmim ajale نمی konim, ba صبر jolo ми riim",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I unwind with Persian films at night",
+      "persian": "شب‌ها با فیلم‌های فارسی از خودم پذیرایی می‌کنم",
+      "transliteration": "shabha ba film haye farsi az khodam pazirayi mikonam",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Let’s meet for coffee and conversation",
+      "persian": "بیا برای قهوه و گپ‌وگفت همدیگه رو ببینیم",
+      "transliteration": "bya baraye ghahve va gap o goft hamdige ro bebiniam",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’m trying a pottery class this month",
+      "persian": "این ماه دارم کلاس سفالگری رو امتحان می‌کنم",
+      "transliteration": "in mahe daram kelas sefal giri ro emtehan mikonam",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Weekend hiking clears my head",
+      "persian": "جمعه‌ها که پیاده‌روی می‌کنم، ذهنم سبک می‌شه",
+      "transliteration": "jomeha ke payade ro mikonam, zednam sakht mishe",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I love cooking, even simple meals",
+      "persian": "از آشپزی خوشم میاد، حتی غذاهای ساده هم",
+      "transliteration": "az ashpazi khosham miad, hatta ghaza haye sade ham",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Board games make my friends laugh",
+      "persian": "بازی‌های رومیزی دوستانم رو می‌خندونن",
+      "transliteration": "bazi haye romizi dustanam ro midhandoon",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I read one chapter before bed",
+      "persian": "قبل از خواب، فقط یک فصل می‌خونم",
+      "transliteration": "ghabel az khab, faghat yek fasl mikhunam",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I need balance, not perfection.",
+      "persian": "من تعادل می‌خواهم، نه کمال.",
+      "transliteration": "Man taEDAal mikhāham, na kamāl.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Take it easy, keep steady.",
+      "persian": "آرام پیش برو، تعادل را حفظ کن.",
+      "transliteration": "Ārām pish bro, taEDAal-rā hefz kon.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Even my schedule needs balance.",
+      "persian": "حتی برنامه‌ی روزانه‌ام هم باید تعادل داشته باشد.",
+      "transliteration": "Hatta barname-ye ruzāne-am ham bāyad taEDAal dāshe.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Work hard, then actually rest.",
+      "persian": "سخت کار کن، بعد واقعاً استراحت کن تا تعادل برگردد.",
+      "transliteration": "Sakht kār kon, bad vāqe’an aستrāhat kon tā taEDAal barگردad.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Let the mind and body match.",
+      "persian": "بگذار ذهن و بدن با هم هماهنگ باشند.",
+      "transliteration": "Bگذار zehn o beden bā ham hamāhang bashand.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’m trying to find the middle.",
+      "persian": "دارم تلاش می‌کنم وسط را پیدا کنم.",
+      "transliteration": "Dāram talāsh mikonam vast-rā peydā konam.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Too much rush ruins everything.",
+      "persian": "شتابِ زیاد، تعادل را به هم می‌زند.",
+      "transliteration": "ShoTāb-e ziyād, taEDAal-rā به ham mizanَد.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I keep going, even when it hurts.",
+      "persian": "ادامه می‌دم، حتی وقتی درد داره.",
+      "transliteration": "AdaME mIDam, hATi ke dARD dAra.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "One more try, then one more.",
+      "persian": "یه بار دیگه، بعدش باز یه بار دیگه.",
+      "transliteration": "Ye bAR dige, ba'deS baz ye bAR dige.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’m not quitting, I’m recalibrating.",
+      "persian": "ول نمی‌کنم، دارم دوباره حساب می‌کنم.",
+      "transliteration": "vOL nemI-konam, dAram dObaRE hESAb mI-konam.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Small steps count, every single day.",
+      "persian": "قدم‌های کوچیک هم حساب می‌شن، هر روز.",
+      "transliteration": "qadam hAye kuCHIik ham hESAAb mI-shan, har RUZ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I show up, even on hard days.",
+      "persian": "حتی روزهای سخت هم حاضر می‌شم.",
+      "transliteration": "hATi rOz hAye sAKhT ham hAZer mI-sham.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Breathe, focus, and keep moving forward.",
+      "persian": "نفس بکش، تمرکز کن، بعد حرکت کن.",
+      "transliteration": "naFAS beKesh, teMORKOZ kon, ba'd haREkat kon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I’ve got this, just one hour at a time.",
+      "persian": "از پسش برمیام، فقط یک ساعت به یک ساعت.",
+      "transliteration": "az pasesh bERmiyam, faQAAt yek sAAat be yek sAAat.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Hi, do you have late check-in?",
+      "persian": "سلام، امکان چک این دیرتر هم دارید؟",
+      "transliteration": "SalAM, emkAN chek IN DEIr tAR ham dARId?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "How much is the room per night?",
+      "persian": "قیمت اتاق برای هر شب چقدر است؟",
+      "transliteration": "Qeymat ETAq barAye har shab chANDar est?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "persian": "صبحانه توی قیمت حساب میشه؟",
+      "transliteration": "SobHANEh tuye qeymat hESAb mishe?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Can I get a quiet room, please?",
+      "persian": "می شه یک اتاق ساکت بهم بدید، لطفا؟",
+      "transliteration": "Mi she yek ETAq sAKet beham bE dID, lotfan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "Do you have parking for guests?",
+      "persian": "پارکینگ برای مهمان‌ها دارید؟",
+      "transliteration": "pARkiNg barAye meHmANhA dARId?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "What’s the Wi‑Fi password, please?",
+      "persian": "رمز وای فای رو می‌فرمایید؟",
+      "transliteration": "Ramz vAy fAY ro mIfarmAyId?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
+    },
+    {
+      "english": "I need a double bed, tonight.",
+      "persian": "امشب یک تخت دونفره لازم دارم.",
+      "transliteration": "Emshab yek takht donfEreh lAzem dAram.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T18:40:34.316070"
     }
   ],
-  "last_updated": "2026-11-13T20:20:32.953797"
+  "last_updated": "2026-11-14T18:40:34.316070"
 }
