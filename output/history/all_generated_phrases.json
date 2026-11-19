@@ -20743,7 +20743,399 @@
       "transliteration": "Vaqti hadaf roshan ast, talash ma'na peyda mikonad.",
       "category": "Purpose",
       "generated_at": "2026-11-18T21:07:18.660871"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "persian": "پرداخت بدون تماس قبول می‌کنید؟",
+      "transliteration": "pardakht bedun-e tamās bol h mikonid?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Can I deposit cash here?",
+      "persian": "می‌توانم اینجا پول نقد واریز کنم؟",
+      "transliteration": "mitoram inja pool naqeyd variz konam?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "persian": "نزدیک‌ترین دستگاه خودپرداز کجاست؟",
+      "transliteration": "nazdiktarin dastgah khodpardāz kojāst?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I want to open a savings account.",
+      "persian": "می‌خواهم حساب پس انداز باز کنم.",
+      "transliteration": "mikhāham hesāb pas-andāz bāz konam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "How long does a bank transfer take?",
+      "persian": "انتقال بانکی چقدر طول می‌کشد؟",
+      "transliteration": "enteqāl bānki chendər tol mikeshe?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Can you help me set up a card PIN?",
+      "persian": "می‌شود برای رمز کارت کمکم کنید؟",
+      "transliteration": "mishavad barāye romz-e kārt komakam konid?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I need a new card replacement.",
+      "persian": "می‌خواهم کارت جدید جایگزین بگیرم.",
+      "transliteration": "mikhāham kārt jadid jāygozin begirim.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I’ll try, even if I’m scared.",
+      "persian": "تلاش می‌کنم، حتی اگر بترسم.",
+      "transliteration": "TALAESh mI konam, hAt’i agar BEtarsam.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I can handle this uncomfortable moment.",
+      "persian": "می‌تونم این لحظه‌ی سخت رو تحمل کنم.",
+      "transliteration": "mI تونam In laHzeh-ye sAKht ro taHammol konam.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I choose calm, not panic.",
+      "persian": "آرامش رو انتخاب می‌کنم، نه وحشت.",
+      "transliteration": "Aromesh ro entekhAB mikonam, na vahSHat.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I won’t quit after one setback.",
+      "persian": "بعد از یه شکست، ول نمی‌کنم.",
+      "transliteration": "bad az ye sheKast, vel nemi konam.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I’ll ask for help, out loud.",
+      "persian": "بلند می‌گم، کمک لازم دارم.",
+      "transliteration": "boland mI goyam, komek laZem dAram.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I’ll speak kindly, but firmly.",
+      "persian": "مهربون حرف می‌زنم، ولی محکم.",
+      "transliteration": "mEHribon harf mI zanam, vali mohkam.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I can disagree without being cruel.",
+      "persian": "میتونم مخالفت کنم، بی‌رحم نباشم.",
+      "transliteration": "mi تونam mokhAlet konam, bI rahm na basham.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Do you have chocolate croissants?",
+      "persian": "شکلاتی کروسان دارید؟",
+      "transliteration": "shek’lati krouSaaN darid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Is the cinnamon bread for sale?",
+      "persian": "این نان دارچینی برای فروشه؟",
+      "transliteration": "in naan DARCHiNi baraye foroushe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I want it without sugar, please.",
+      "persian": "می‌شود بدون شکرش درستش کنید، لطفا؟",
+      "transliteration": "mishavad bedoon shekarash doroshtash konid, lotfan?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "What time do you restock the bread?",
+      "persian": "چه ساعتی نان‌ها رو دوباره می‌ریزید؟",
+      "transliteration": "che sa’ati naanha ro doBAre mi-rizid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Could I taste this jam, please?",
+      "persian": "می‌شود یه کم از این مربا رو بچشم، لطفا؟",
+      "transliteration": "mishavad ye kam az in MORa ro bechasham, lotfan?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Do you make sandwiches with tuna?",
+      "persian": "ساندویچ تن دارید؟",
+      "transliteration": "sANDvich TEN darid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Can I have it hot, not iced?",
+      "persian": "می‌شود گرمش کنید، نه با یخ؟",
+      "transliteration": "mishavad GARAMsh konid, na ba yekh?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I make my bed right away.",
+      "persian": "اَوّل تخت را می‌چینم.",
+      "transliteration": "AVVAL takht ra mi-chinam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I brew coffee, then I breathe.",
+      "persian": "قهوه درست می‌کنم، بعد یک نفس عمیق.",
+      "transliteration": "Qahve dust mi-konam, bad yek nafas amiq.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I shower and get dressed fast.",
+      "persian": "دوش می‌گیرم و سریع لباس می‌پوشم.",
+      "transliteration": "DOOSH mi-giram va sarie labas mi-poosham.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I write a short to-do list.",
+      "persian": "یه لیست کوتاه کارها می‌نویسم.",
+      "transliteration": "ye LIST koochak karha mi-navisam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I eat breakfast without rushing.",
+      "persian": "صبحانه را بدون عجله می‌خورم.",
+      "transliteration": "Sobuhane ra ودون e jale mi-khoram.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I review my calendar before heading out.",
+      "persian": "قبل از رفتن، برنامه‌ام را نگاه می‌کنم.",
+      "transliteration": "Qabl az raftan, barname-am ra negah mi-konam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I take the stairs when I can.",
+      "persian": "تا جایی که می‌شود پله‌ها را می‌روم.",
+      "transliteration": "ta jai ke mishe PEL-ha ra miram.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I belong here, right now.",
+      "persian": "من اینجا هستم، همین الان.",
+      "transliteration": "Man inja hastam, hamin alan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I speak clearly, even quietly.",
+      "persian": "من واضح حرف می‌زنم، حتی اگر آروم باشم.",
+      "transliteration": "Man vāzeh harf mi-zanam, hataa agar ārâm basham.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "My efforts will show today.",
+      "persian": "تلاشِ من امروز خودش را نشان می‌دهد.",
+      "transliteration": "Talāsh-e man emruz khodesh ra neshān mi-dehad.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I pause, then I choose.",
+      "persian": "مکث می‌کنم، بعد انتخاب می‌کنم.",
+      "transliteration": "Makkh mi-konam, ba'd entekhab mi-konam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I set the pace for myself.",
+      "persian": "من ریتم خودم را تعیین می‌کنم.",
+      "transliteration": "Man ritm-e khodam ra ta'yin mi-konam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I’m allowed to make mistakes.",
+      "persian": "من اجازه دارم اشتباه کنم.",
+      "transliteration": "Man ejāze dāram eshtebāh konam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I keep going, no matter what.",
+      "persian": "من ادامه می‌دهم، هر طور هم باشد.",
+      "transliteration": "Man edāme mi-daham, har tor ham bashad.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "My passport is missing, can you help?",
+      "persian": "پاسپورت من گم شده، میشه کمکم کنید؟",
+      "transliteration": "Paspoort man gom shode, mishe KOMAKEM konid?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Where is baggage claim for my flight?",
+      "persian": "بارانداز برای پرواز من کجاست؟",
+      "transliteration": "Bârandâz barâye parvaz-e man kojasT?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I need to report lost luggage.",
+      "persian": "می‌خواهم چمدان گمشده را گزارش کنم.",
+      "transliteration": "Mikhâham chamdân-e gomshode râ eghâmel konam.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Can I get a refund for this?",
+      "persian": "می‌شود برای این مورد پولم را پس بگیرم؟",
+      "transliteration": "Mishe barâye in morde poolam râ pas bigiram?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Is there free Wi‑Fi in the terminal?",
+      "persian": "این ترمینال وای فای رایگان دارد؟",
+      "transliteration": "In terminâl WAI FAI râygân dârad?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "How early should I arrive for boarding?",
+      "persian": "برای سوار شدن، باید چقدر زودتر بیام؟",
+      "transliteration": "Barâye sâvâr shodan, bâyad CHE GHADR zoodtar biam?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I missed my flight, what options do I have?",
+      "persian": "پروازم را از دست دادم، چه گزینه‌ای دارم؟",
+      "transliteration": "Parvâzam râ az dast dâdam, che goziney-İ dâram?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Help, I think I’m overdosing.",
+      "persian": "کمک کنید، فکر می‌کنم دارو زیاد خورده‌ام.",
+      "transliteration": "کمک konid, FekR mI-konam Dارو ziاد khoorde-am.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I need naloxone, please.",
+      "persian": "لطفا نالوکسان دارید؟",
+      "transliteration": "LOTfan NAloKSAَن دارid؟",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Someone passed out, what do we do?",
+      "persian": "یکی بیهوش شده، چی کار کنیم؟",
+      "transliteration": "yeki biHOOSH shode, CHI KAR konim؟",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Call for an ambulance, quickly.",
+      "persian": "لطفا آمبولانس زودتر خبر کنید.",
+      "transliteration": "LOTfa آمبولانس zoodtar khabar konid.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "My child is choking, help!",
+      "persian": "بچه‌ام داره خفه می‌شه، کمک!",
+      "transliteration": "bache-am dاره Khefe mI-sha, KOMAK!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Stop, I’m choking on food.",
+      "persian": "صبر کنید، دارم از غذا خفه می‌شم.",
+      "transliteration": "SABR konid, dAram az ghaza khefe mI-sham.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I burned my hand, it’s painful.",
+      "persian": "دستم سوخت، خیلی درد می‌کنه.",
+      "transliteration": "dastam SOOKHT, kEli DARD mI-konE.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Come in, make yourself at home",
+      "persian": "بیا تو، هر طور راحتی باش",
+      "transliteration": "Biā to, har tor rāhatī bāsh",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Dinner is ready, join us now",
+      "persian": "غذا آماده است، همین الان بپیوند",
+      "transliteration": "Ghizā āmāde ast, hamīn alan bepivand",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I brought drinks, do you want ice?",
+      "persian": "من نوشیدنی آوردم، یخ هم می‌خوای؟",
+      "transliteration": "Man nushīdani āvardam, yakh ham mikhāy?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Let me take your coat, please",
+      "persian": "اجازه هست کتت رو بگیرم؟",
+      "transliteration": "Ejāze hast kotet ro begīram?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Thanks for coming, you made it special",
+      "persian": "ممنون که اومدی، خیلی خاصش کردی",
+      "transliteration": "Mamnun ke umadi, kheylī khasesh kardi",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "Who wants the first slice of cake?",
+      "persian": "کی اولین تکه کیک رو می‌خوره؟",
+      "transliteration": "Ki avalin take-ye kīk ro mikhore?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
+    },
+    {
+      "english": "I saved you a seat right there",
+      "persian": "اون‌جا یه صندلی برات نگه داشتم",
+      "transliteration": "Onjā yek sandalī barāt negh-dāashtam",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T21:12:49.783082"
     }
   ],
-  "last_updated": "2026-11-18T21:07:18.660871"
+  "last_updated": "2026-11-19T21:12:49.783082"
 }
