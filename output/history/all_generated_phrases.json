@@ -21527,7 +21527,399 @@
       "transliteration": "BAS-gAh ham dArid?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-20T20:57:01.093178"
+    },
+    {
+      "english": "Welcome home, how was your day?",
+      "persian": "خوش آمدی، روزت چطور گذشت؟",
+      "transliteration": "Khush âmad-i, ROOZet chetor gozASHT?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Could you pass me the towels?",
+      "persian": "می شه حوله رو بدی دستم؟",
+      "transliteration": "MishE HOULE ro BEDI DASTAM?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Mom, where are the plates?",
+      "persian": "مامان، بشقاب ها کجاست؟",
+      "transliteration": "MÂmân, BESHQÂB-hâ كوJâST?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Dad, can you fix this light?",
+      "persian": "بابا، می تونی این چراغ رو درست کنی؟",
+      "transliteration": "BÂbâ, mitOni in CHERÂGH ro dorost Koni?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’ll set the table in a minute.",
+      "persian": "من یه دقیقه دیگه سفره رو می چینم.",
+      "transliteration": "Man ye dAQEeqe dige SAFREH ro mi-CHINAM.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Who’s watching the kids today?",
+      "persian": "امروز کی بچه ها رو نگه می داره؟",
+      "transliteration": "EmRooZ ki BECHE-hâ ro negah mi-DÂRE?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Let’s tidy the living room together.",
+      "persian": "بیا با هم سالن رو مرتب کنیم.",
+      "transliteration": "BIyâ bâ ham sÂlân ro MORtab konIM.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I practice calligraphy on weekends.",
+      "persian": "آخر هفته‌ها خطاطی تمرین می‌کنم.",
+      "transliteration": "Akhare haftEH-ha kHattAti tEkrank mI-konam.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m learning Persian chess openings.",
+      "persian": "دارم باز کردن بازی شطرنج فارسی را یاد می‌گیرم.",
+      "transliteration": "dAram bAz kardan-e bAzi-e shatranj-e fArsi-rA yAd mI-girAm.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I bike to clear my mind.",
+      "persian": "دوچرخه‌سواری می‌کنم تا ذهنم سبک شود.",
+      "transliteration": "dUyKarxEH-soAri mI-konam ta zEhnam sOmbak shavad.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I go to the park with a book.",
+      "persian": "با یک کتاب می‌روم پارک.",
+      "transliteration": "bA yEk ketAb mI-ravam pArk.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I paint small landscapes at home.",
+      "persian": "توی خانه منظره‌های کوچک نقاشی می‌کنم.",
+      "transliteration": "tuy-e xAne manzare-hA-ye kUuchak naqAshi mI-konam.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I try new spices on my pasta.",
+      "persian": "چند ادویه جدید روی پاستایم امتحان می‌کنم.",
+      "transliteration": "chand adiVeye jadid ruy-e pAstAyam emteHAn mI-konam.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I join a local dance class.",
+      "persian": "می‌روم توی یک کلاس رقص محلی.",
+      "transliteration": "mI-ravam tuy-e yak klAs raghs-e mahalli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Is it getting hotter later?",
+      "persian": "فردا داغ‌تر می‌شود؟",
+      "transliteration": "FAR-da dāG-tar mī-shavad?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "The sun feels strong today.",
+      "persian": "امروز آفتاب خیلی تند است.",
+      "transliteration": "Em-rūz āF-tāb ki-li TANd ast.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "How’s the humidity right now?",
+      "persian": "الان رطوبت چطوره؟",
+      "transliteration": "Ā-lān raTū-bat che-tor-ahe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Clouds are rolling in, huh?",
+      "persian": "ابرها داره میاد، نه؟",
+      "transliteration": "Ab-rā dā-re mī-yad, na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I can hear the rain starting.",
+      "persian": "انگار صدای بارون میاد.",
+      "transliteration": "Engār se-dā-ye bā-RŪn mī-yad.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Is there a storm nearby?",
+      "persian": "طوفان نزدیک هست؟",
+      "transliteration": "Ţo-fān na-zdīk hast?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "The sky looks bright and clear.",
+      "persian": "آسمون صاف و روشنه.",
+      "transliteration": "Ās-mūn sāf o ro-shane.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Can you tell me dosing, please?",
+      "persian": "می‌توانید دوز مصرف را برایم بگویید؟",
+      "transliteration": "mitavânid DOZ e masraf rā barām beguyid?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "How long until I feel better?",
+      "persian": "تا کی احساس بهتری کنم؟",
+      "transliteration": "tâ key ehsâs behtari konam?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "What should I eat with this?",
+      "persian": "با این دارو چه غذایی بخورم؟",
+      "transliteration": "bā in dâru chekhe ghazâiy bokhorem?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Does it cause drowsiness?",
+      "persian": "این دارو خواب آلودگی می آورد؟",
+      "transliteration": "in dâru khâb âludegi miy âvared?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Should I avoid alcohol while taking it?",
+      "persian": "در حین مصرفش الکل را قطع کنم؟",
+      "transliteration": "dar hîn mesrafesh alkol rā qot konam?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Can you confirm the prescription is correct?",
+      "persian": "می‌شود تأیید کنید نسخه درست است؟",
+      "transliteration": "mishavad TAyid konid neskhe dorost ast?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Can I take it with my meals?",
+      "persian": "می‌توانم بعد از غذا مصرفش کنم؟",
+      "transliteration": "mitavânam ba'd az ghazā mesrafesh konam?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Thank you for making time for me.",
+      "persian": "ممنون که برای من وقت گذاشتی.",
+      "transliteration": "moTVenun ke barāye man vaqt gozashti.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I appreciate your steady encouragement today.",
+      "persian": "امروز تشویقت را واقعاً قدردانم.",
+      "transliteration": "emruz tashvīqat ro vāqean qadr-dānam.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Thanks for cheering me on, seriously.",
+      "persian": "واقعاً ممنون که بهم روحیه دادی.",
+      "transliteration": "vāqean mamnun ke behem ruḥiye dādi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m grateful for your honest feedback.",
+      "persian": "ممنونم از بازخورد صادقانه‌ات.",
+      "transliteration": "mamnunam az bāzkhorḍ ṣādiqāneh-at.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Your words calmed me down fast.",
+      "persian": "حرف‌هات سریع آرومم کرد.",
+      "transliteration": "harf-hāte sarih āromam kard.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I feel lucky you chose kindness.",
+      "persian": "خیلی خوش‌شانس‌ام که مهربانی کردی.",
+      "transliteration": "kheyli khosh-shāns-am ke mehrabāni kardi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Thanks for the small help, too.",
+      "persian": "حتی کمک کوچکت هم خیلی به دردم خورد.",
+      "transliteration": "hatī komok kucheket ham kheili be dardem khord.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m watering one goal daily.",
+      "persian": "دارم هر روز یک هدف را آبیاری می‌کنم.",
+      "transliteration": "DAram har RŌZ yek HADaf ra ÂbIÂri mikonam.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Small habits are compounding fast.",
+      "persian": "عادت‌های کوچک دارن سریع روی هم جمع می‌شن.",
+      "transliteration": "Âdathâye KOCHAK dÂran SAReع rوي ham JAM mi shan.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I choose growth, even slowly.",
+      "persian": "حتی اگر آهسته باشه، رشد رو انتخاب می‌کنم.",
+      "transliteration": "HatI agar Âheste باشه, rUSD ro entekhAb mikonam.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m learning from feedback, not fear.",
+      "persian": "دارم از بازخورد یاد می‌گیرم، نه از ترس.",
+      "transliteration": "DÂram az BAZkhorD yAD migiram, NAze tors.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Today, I practice, then adjust.",
+      "persian": "امروز تمرین می‌کنم، بعدش تنظیمش می‌کنم.",
+      "transliteration": "EmRŌZ TAMrin mikonam, ba’dash tanzimash mikonam.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m strengthening my routines from scratch.",
+      "persian": "دارم روتین‌هام رو از نو محکم می‌کنم.",
+      "transliteration": "DÂram rOotin-hÂ ro az NO mOHAkam mikonam.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "My progress feels steady, not forced.",
+      "persian": "پیشرفتم یکنواخت و بدون فشار حس می‌شه.",
+      "transliteration": "PیشrAFtam yekNAvAht o bi-doun FESHAs hess mI SHe.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Can we take a rain-check on plans?",
+      "persian": "میشه برنامه رو بندازیم عقب، یه روز دیگه؟",
+      "transliteration": "Mişe barname ro bendaazim aɡhab, ye ruz digar?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I love how you make time for me.",
+      "persian": "خیلی دوست دارم وقتی وقت می‌ذاری برای من.",
+      "transliteration": "Kheili dust daram vâghti vaqt mIZARI bara-ye man.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Do you want to meet halfway?",
+      "persian": "دوست داری نصفه راه همدیگه رو ببینیم؟",
+      "transliteration": "Dust dari nısfe rāh hamdige ro bebīnīm?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I felt your care, it meant a lot.",
+      "persian": "از تو حسِ مراقبت گرفتم، خیلی برام مهم بود.",
+      "transliteration": "Az to hass-e moqābِet gereftam, KHEILI barām mohem bood.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Tell me what you need right now.",
+      "persian": "الان دقیقاً چی لازم داری بگی به من.",
+      "transliteration": "Alān daqiqān che lāzem dāri begi be man.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Let’s plan a simple, sweet first date.",
+      "persian": "بیا یه قرار ساده و قشنگ شروع کنیم.",
+      "transliteration": "Bia ye qarār sade va qashang soOROO konim.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I want to hear your real story.",
+      "persian": "می‌خوام قصه واقعی‌ت رو بشنوم، بی‌پرده.",
+      "transliteration": "Mikhāyam ghesse-ye vāqeiy-at ro beşenavam, bi-parde.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "You're not alone, I'm here.",
+      "persian": "تنهایی نه، من اینجام.",
+      "transliteration": "TAN-ya-ii na, man EN-jam.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I can listen without fixing.",
+      "persian": "می‌تونم گوش بدم، بدون درست کردنش.",
+      "transliteration": "Mİ-TUNAM GOUSH be-dam, DO-NE dor-oos-kaar-e-sh.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Your feelings make sense to me.",
+      "persian": "حس‌هات برام منطقیه.",
+      "transliteration": "HES-hat BARAAM MAN-tiq-ie.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Take your time, really.",
+      "persian": "عجله نکن، خواهش می‌کنم.",
+      "transliteration": "AJ-ele na-kon, XAHESH mİ-kon-am.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Thanks for speaking up kindly.",
+      "persian": "ممنون که محترمانه حرف زدی.",
+      "transliteration": "MEM-nun ke moH-te-ra-a-ne HArf za-di.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "I’m proud of how you handled it.",
+      "persian": "بهت افتخار می‌کنم که اینطوری مدیریت کردی.",
+      "transliteration": "BEH-at EF-ti-khar mİ-konam ke IN-to-rii ma-de-riyat kaR-di.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Let’s go slow, step by step.",
+      "persian": "بیایم آروم‌آروم جلو بریم.",
+      "transliteration": "BIA-yeem AAROM aarom JELo BE-riim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T19:57:50.421775"
     }
   ],
-  "last_updated": "2026-11-20T20:57:01.093178"
+  "last_updated": "2026-11-21T19:57:50.421775"
 }

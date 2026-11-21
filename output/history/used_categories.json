@@ -387,7 +387,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T20:57:01.107672"
+  "last_updated": "2026-11-21T19:57:50.441080"
 }
