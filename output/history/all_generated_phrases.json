@@ -21919,7 +21919,399 @@
       "transliteration": "BIA-yeem AAROM aarom JELo BE-riim.",
       "category": "Kindness",
       "generated_at": "2026-11-21T19:57:50.421775"
+    },
+    {
+      "english": "Can we talk right now, please?",
+      "persian": "می‌شود همین الان با هم صحبت کنیم، لطفا؟",
+      "transliteration": "Mیشe dav mīn an bā ham sohbat konim, lotfan?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Sorry, I lost your signal again.",
+      "persian": "ببخشید دوباره سیگنال شما قطع شد.",
+      "transliteration": "Bebخشid dobare signāl shomā qot shod.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’ll call you after lunch.",
+      "persian": "بعد از ناهار بهت زنگ می‌زنم.",
+      "transliteration": "Bad az nāhār behet zang mizanam.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’m at the office, call me.",
+      "persian": "من سرِ کارم، با من تماس بگیر.",
+      "transliteration": "Man sar-e kāram, bā man temās begir.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Are you free for a quick call?",
+      "persian": "برای یک تماس کوتاه وقت داری؟",
+      "transliteration": "Barāye yek temās kootāh vaqt dāri?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Did you get my last text?",
+      "persian": "پیام آخرم را دیدی؟",
+      "transliteration": "Payām ākharmā rā didi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’ll resend it, just a sec.",
+      "persian": "الان دوباره می‌فرستم، یک دقیقه.",
+      "transliteration": "Alan dobare mifrestam, yek daghige.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I want to choose you, again",
+      "persian": "می‌خوام دوباره و دوباره تو رو انتخاب کنم",
+      "transliteration": "Mihâham DOBAREH va DOBAREH TO ro ENTEKHâB konam",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Your touch makes my worries fade",
+      "persian": "لمس تو نگرانی‌هام رو کم‌رنگ می‌کنه",
+      "transliteration": "LamS TO NEGARÂNI-Hâ ro KAM-RANG mikone",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I trust you with my soft side",
+      "persian": "نرم‌ترین بخشِ خودم رو بهت می‌سپارم",
+      "transliteration": "NARM-TARIN BAKHSH-e Khodam ro BE-t MIS-Pâram",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Let’s forgive, and start fresh",
+      "persian": "بیایم ببخشیم، از نو شروع کنیم",
+      "transliteration": "Biyâim BEBakhShim, az NOO SHORO konim",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I feel safe when you’re near",
+      "persian": "وقتی نزدیکتی، دلم آروم می‌شه",
+      "transliteration": "Vaghti NA-ZDIK-ti, De-LAM ÂROOM mishe",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’m ready to talk, no games",
+      "persian": "آماده‌ام حرف بزنم، بی‌هیچ بازی",
+      "transliteration": "ÂMâde-am harf bezanam, BI-HEYCH BÂZI",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Say it plainly, I can handle",
+      "persian": "راست و روشن بگو، من بلدم",
+      "transliteration": "RâST va ROShAN be-go, man BAL-DAM",
+      "category": "Love",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’m letting it go, for me.",
+      "persian": "دارم برای خودم ولش می‌کنم،",
+      "transliteration": "dAr-am barAye khod-am valesh mikonam, For me",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I can be kind without forgetting.",
+      "persian": "می‌توانم مهربان باشم، بدونِ فراموش کردن.",
+      "transliteration": "mitavanam mehrubAn basham, ودون-e farAmush kardan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Forgiveness doesn’t excuse what happened.",
+      "persian": "بخشش یعنی توجیهِ اتفاقِ گذشته نیست.",
+      "transliteration": "bakhshesh yEni tojih-e etefAq-e gEzashtE nist.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I forgive, and still set boundaries.",
+      "persian": "می‌بخشم، اما مرز می‌گذارم.",
+      "transliteration": "mi‌بakhshAm, amA marz migzAram.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I choose peace over replaying it.",
+      "persian": "صلح را انتخاب می‌کنم، نه تکرارش را.",
+      "transliteration": "salaH ra entekhAb mikonam, na takrArash ra.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’ll talk calmly, not from hurt.",
+      "persian": "آروم حرف می‌زنم، نه از رویِ درد.",
+      "transliteration": "Aroom harf mizAnam, na az ruye dard.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Today, I release the sting.",
+      "persian": "امروز، نیشِش را رها می‌کنم.",
+      "transliteration": "emruz, nEsh-esh ra rها mikonam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Let ideas arrive before judging them",
+      "persian": "بگذار ایده‌ها اول بیایند، بعد قضاوت کن",
+      "transliteration": "BAGZAR eIDE-ha aval biyand, BAD qaVAOT kon",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Try a different medium for today",
+      "persian": "امروز با یک مدیوم متفاوت کار کن",
+      "transliteration": "emROOZ ba yek medIOM motEfavet KAR kon",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Make one tiny experiment, now",
+      "persian": "الان یک آزمایش کوچیک انجام بده",
+      "transliteration": "ALAN yek aZMAyesh koochIK anJAM bedeH",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Steal the structure, not the exact idea",
+      "persian": "ساختار را بردار، نه خودِ ایده را",
+      "transliteration": "saKHtAR ra BARdar, nah KHOD-e IDe ra",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Ask, what if we reverse it?",
+      "persian": "بپرس، اگر برعکسش کنیم چی میشه",
+      "transliteration": "BEPORS, agar bar'akshe konim CHI mishe",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Turn questions into a creative habit",
+      "persian": "سوال‌ها را تبدیل به عادت خلاقانه کن",
+      "transliteration": "sOAL-ha ra tabdil be e'ADAT e khALaQane kon",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Give yourself permission to be messy",
+      "persian": "به خودت اجازه بده، قاطی‌پاطی هم بشه",
+      "transliteration": "be KHodet eJAze bede, ghatI-pAtI ham beshe",
+      "category": "Creativity",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Celebrate the effort, not just results",
+      "persian": "تلاش را جشن بگیر، نه فقط نتیجه را",
+      "transliteration": "telaash ra ješn begir, na faqat natije ra",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "You can start messy and still win",
+      "persian": "می‌توانی شلخته شروع کنی و باز ببری",
+      "transliteration": "mitavani sholokhte shoru koni o baz bevari",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Pick one brave step right now",
+      "persian": "همین الان یک قدم شجاع انتخاب کن",
+      "transliteration": "hameen alan yek qadam shojaat entekhab kon",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Consistency beats motivation, stay steady",
+      "persian": "ثبات از انگیزه بهتر است، ادامه بده",
+      "transliteration": "sebāt az engize behtar ast, edame bedeh",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Break the task, keep moving",
+      "persian": "کار را تکه تکه کن، و جلو برو",
+      "transliteration": "kar ra teke teke kon, o jolo برو",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Trust your process, it’s working",
+      "persian": "به فرایندت اعتماد کن، دارد جواب می‌دهد",
+      "transliteration": "be farayandet etemad kon, darad javab midahad",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Ask, listen, then choose what fits",
+      "persian": "بپرس، گوش بده، بعد انتخاب کن",
+      "transliteration": "beperse, goosh bedeh, bad entekhab kon",
+      "category": "Success",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "No way, really? that's crazy",
+      "persian": "نه بابا، واقعا؟ این دیگه خیلی خفنه",
+      "transliteration": "na baabaa, vaaqeaan? in dige kheili KHOFNE",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "That s not cool, dude",
+      "persian": "این کار اصلا حال نمی ده، داداش",
+      "transliteration": "in kaar aslan haal nemi deh, DAADASh",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Come on, just tell me",
+      "persian": "خب بیا، فقط راستشو بگو",
+      "transliteration": "khab biyaa, faqat RAASHTO begoo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Wait, slow down for a sec",
+      "persian": "آروم آروم، یه لحظه صبر کن",
+      "transliteration": "AAROM AAROM, ye laHze sabr kon",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I m exhausted, i can t do this",
+      "persian": "کوفتم، دیگه توان ندارم",
+      "transliteration": "kooftam, digar towaan NADARAM",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Keep it down, i m serious",
+      "persian": "آروم باش، جدی می گم",
+      "transliteration": "AAROM baash, JEDI mi gam",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I m totally blank right now",
+      "persian": "الان یهو هنگ کردم",
+      "transliteration": "alaan yooHo HANG kardam",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I feel uneasy about this plan.",
+      "persian": "احساسِ ناامنی می‌کنم از این برنامه.",
+      "transliteration": "ehsas-e na-amni mikonam az in barnameh.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "My heart is racing right now.",
+      "persian": "الان قلبم تندتند می‌زند.",
+      "transliteration": "alan qalbam tand-tand mizane.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’m quietly hopeful for tomorrow.",
+      "persian": "آرزویم این است که فردا بهتر بشود.",
+      "transliteration": "arz oom in ast ke farda behtar beshavad.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I feel embarrassed by that comment.",
+      "persian": "از آن حرف خجالت‌زده شدم.",
+      "transliteration": "az an harf khijalat-zade shodam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I feel lonely in this crowd.",
+      "persian": "در این جمع، تنها می‌مانم.",
+      "transliteration": "dar in jam, tanha mimanam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I’m excited, but trying to stay calm.",
+      "persian": "هیجان دارم، ولی سعی می‌کنم آروم باشم.",
+      "transliteration": "hijaan daram, vali sa yi mikonam aroom basham.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "That silence made me feel tense.",
+      "persian": "آن سکوت، منو کلافه و نگران کرد.",
+      "transliteration": "an sokoot, mono kelafeh va ngaran kard.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Let your breath lead the way.",
+      "persian": "نَفَست را راهنما کن، و پیش برو.",
+      "transliteration": "nafaset ra rahnama kon, o pish برو.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "I can pause before I react.",
+      "persian": "می توانم قبل از واکنش مکث کنم.",
+      "transliteration": "mivān-am ghabl az واکنش maketh konam.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Create calm in small moments.",
+      "persian": "در لحظه های کوچک آرامش بساز.",
+      "transliteration": "dar lahze-haye koochak āramesh besāz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Say no, kindly, to extra noise.",
+      "persian": "با مهربانی نه بگو، به شلوغی اضافه.",
+      "transliteration": "ba mehrabāni na begu, be sholooghi ezāfi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "My mind can rest, right now.",
+      "persian": "ذهنم می تواند همین الان استراحت کند.",
+      "transliteration": "zehn-am mitavān-ad hamin alan esterāhat konad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Choose one thing, then be fully there.",
+      "persian": "فقط یک کار را انتخاب کن، و همان باش.",
+      "transliteration": "faghat yek kār ra entekhāb kon, o haman bāsh.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
+    },
+    {
+      "english": "Release control, keep your values close.",
+      "persian": "کنترل را رها کن، ارزش هایت را نگه دار.",
+      "transliteration": "کنترول ra rehā kon, arzesh-hāyat ra negah dār.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T20:09:54.606002"
     }
   ],
-  "last_updated": "2026-11-21T19:57:50.421775"
+  "last_updated": "2026-11-22T20:09:54.606002"
 }
