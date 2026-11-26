@@ -23487,7 +23487,399 @@
       "transliteration": "He-saab daa-nes-joo-‘ee daar-id",
       "category": "Banking & Money",
       "generated_at": "2026-11-25T22:10:13.057327"
+    },
+    {
+      "english": "I start, and I stay steady.",
+      "persian": "شروع می‌کنم، و ثابت می‌مانم.",
+      "transliteration": "shoROo' mikonam, va saabet mi-manam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I can handle this, step by step.",
+      "persian": "از پسش برمی‌آیم، قدم‌به‌قدم.",
+      "transliteration": "az pasash bar mi-am, qadam be qadam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "My nervousness is just energy.",
+      "persian": "اضطرابم فقط انرژی است.",
+      "transliteration": "ezterABam faqat ENerji ast.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I don’t shrink when I disagree.",
+      "persian": "وقتی مخالفم، جمع نمی‌شوم.",
+      "transliteration": "vaghti mofAfffam, jam nemi-shavam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I ask for what I need.",
+      "persian": "چیزی را که لازم دارم، می‌پرسم.",
+      "transliteration": "chizi ro ke lazem daram, mi-parsam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I trust my preparation, even today.",
+      "persian": "به آمادگیم اعتماد دارم، حتی امروز.",
+      "transliteration": "be aMAdegim etemad dAram, hatin Omoz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I can be seen, imperfectly.",
+      "persian": "می‌شود دیده شوم، حتی با نقص‌ها.",
+      "transliteration": "mishe dide shavam, hatti ba naqs-hA.",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Can I order at the counter?",
+      "persian": "می‌شود دم کانتر سفارش بدهم؟",
+      "transliteration": "Mithavad dam kantar sefarsh bedaham?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Is the coffee machine already on?",
+      "persian": "قهوه ساز روشن است؟",
+      "transliteration": "Ghohve saz roshan ast?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "What kind of sourdough do you bake?",
+      "persian": "خمیرترش چه مدل نانی می‌پزید؟",
+      "transliteration": "Khire t aresh che model nani mizavid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Do you sell plain bagels today?",
+      "persian": "امروز بَیگل ساده دارید؟",
+      "transliteration": "Emruz beygal sade darid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I’d like a small latte, please.",
+      "persian": "یک لاته کوچک لطف می‌کنید؟",
+      "transliteration": "Yek la te koochak lotf mikenid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Can I get it to go?",
+      "persian": "می‌شود برای بیرونش بگیرید؟",
+      "transliteration": "Mithavad baraye birunash begirid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "What’s in today’s quiche?",
+      "persian": "امروز داخل کیش چی هست؟",
+      "transliteration": "Emruz dakh le keysh chi hest?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Is it on sale right now?",
+      "persian": "الان حراج خورده است؟",
+      "transliteration": "AlAn  HARAJ KhorDe ast?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "What size does this come in?",
+      "persian": "این چه سایزهایی دارد؟",
+      "transliteration": "In  Che  SAyzAI dArad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "persian": "لطفا رسید می‌شود بگیرید؟",
+      "transliteration": "Lotfan  Sayd  mIshavad Begirid?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Do you have it in another color?",
+      "persian": "این رنگ دیگری هم دارد؟",
+      "transliteration": "In  RANG  DeGArI ham dArad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "How much is the final price?",
+      "persian": "قیمت نهایی چقدر است؟",
+      "transliteration": "GHeYmat  NAHAyI CheQdar ast?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Are there any membership discounts?",
+      "persian": "تخفیف برای اعضا دارید؟",
+      "transliteration": "Takhfif  barAye  Ezdsa dArid?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Do you sell gift wrap here?",
+      "persian": "اینجا بسته بندی هدیه دارید؟",
+      "transliteration": "InJa  BasTe  Bandi  Hadiye  dArid?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I plan, then I persist through it.",
+      "persian": "برنامه می‌ریزم، بعدش ادامه می‌دهم.",
+      "transliteration": "barnameh mirizam, badesh edameh midaham.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I don't quit mid-challenge.",
+      "persian": "وسطِ سختی جا نمی‌زنم.",
+      "transliteration": "vaste sakhthi ja nemizanam.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Discomfort is data, I keep working.",
+      "persian": "ناراحتی یعنی اطلاعات، کارم را ادامه می‌دهم.",
+      "transliteration": "narahati yani ettelaat, kaaram ra edameh midaham.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I stay with it, even tired.",
+      "persian": "حتی خسته هم باهاش می‌مانم.",
+      "transliteration": "hat-i khaste ham ba-ash mimaanam.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I return to practice, no excuses.",
+      "persian": "می‌رسم به تمرین، بی‌بهانه.",
+      "transliteration": "miravam be tamrin, bi-behane.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I keep my promise to myself.",
+      "persian": "قولم به خودم را نگه می‌دارم.",
+      "transliteration": "gholem be khodam ra negah midaram.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Slow is fine, I stay in motion.",
+      "persian": "کند هم باشه، حرکت رو ادامه می‌دم.",
+      "transliteration": "kand ham bashe, harkat ro edameh midam.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I write my next sentence, not excuses.",
+      "persian": "من جمله بعدی‌ام را می‌نویسم، نه بهانه‌ها.",
+      "transliteration": "man jomle ba'di-am ro mi-nevisam, na bahaneha.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Text a friend, then study quietly.",
+      "persian": "به یک دوست پیام می‌دهم، بعد آرام مطالعه می‌کنم.",
+      "transliteration": "be yek dust payam midaham, bad aaram mutalea mi-konam.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "My future self is watching, move.",
+      "persian": "آینده‌ام داره نگاه می‌کنه، حرکت کن.",
+      "transliteration": "ayandeham dare negah mikone, harkat kon.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I prepare the desk, success follows.",
+      "persian": "میز را آماده می‌کنم، موفقیت دنبالم میاد.",
+      "transliteration": "miz ro amade mikonam, mogheiat donbalam miad.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Break the task, start with the easiest part.",
+      "persian": "کار را تکه‌تکه می‌کنم، با آسان‌ترین بخش شروع می‌کنم.",
+      "transliteration": "kar ro teke-teke mikonam, ba asan-tarin bakhsh shum miconam.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I track small progress, not perfection.",
+      "persian": "پیشرفت کوچک را می‌سنجم، نه کمال را.",
+      "transliteration": "pishraft kochak ro misanjam, na kamal ro.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "After tea, I read one paragraph.",
+      "persian": "بعد از چای، یک پاراگراف می‌خوانم.",
+      "transliteration": "bad az chai, yek paragraf mi-khoonam.",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Balance my time, not my dreams.",
+      "persian": "تعادلم رو بین زمانم پخش می‌کنم، نه رویایم را.",
+      "transliteration": "taʕADol-mo mi Yan-zamanam paKhsh mi-konam, na-ye ro-yam-ro.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I pause, then continue at my pace.",
+      "persian": "یه مکث می‌کنم، بعد با سرعت خودم ادامه می‌دم.",
+      "transliteration": "ye makhs mi-konam, baʿd ba SE-ʿRAT-e KHOD-am eda-me midam.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Even breaks belong in my day.",
+      "persian": "حتی استراحت هم باید توی برنامه‌ام جا داشته باشه.",
+      "transliteration": "hat-i es-tra-het ham ba-ya d tu-ye bar-namE-am ja daSHTE baShe.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I water my habits, not just tasks.",
+      "persian": "عادت‌هام رو آبیاری می‌کنم، فقط کارها رو نه.",
+      "transliteration": "ʿA-deT-ham-ro a-bi-ya-ri mi-konam, faQt kaR-ha-ro na.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "My goals need space, not pressure.",
+      "persian": "هدف‌هام جا می‌خوان، نه فشار.",
+      "transliteration": "heDaf-ham ja mi-KHaan, na fa-shar.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I choose steady effort over extremes.",
+      "persian": "تالاشِ پیوسته رو انتخاب می‌کنم، نه افراط و تفریط.",
+      "transliteration": "ta-laSH-e peYVA-ste-ro en-te-KhaB mi-konam, na eFRAAT o taFRIIT.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Tonight, I close the loop slowly.",
+      "persian": "امشب آروم کار رو جمع می‌کنم، با خیال راحت.",
+      "transliteration": "am-shab a-ROOM kaR-ro jame mi-konam, ba KHeyal raHat.",
+      "category": "Balance",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I hold hope, even on hard days.",
+      "persian": "امید را نگه می دارم، حتی روزهای سخت.",
+      "transliteration": "omid ra NEGah midaram, hatta roozhay saKt.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "My hope is steady, not loud.",
+      "persian": "امیدم آرام است، نه پر سر و صدا.",
+      "transliteration": "omiDe man AROM ast, na por sar-o-sedA.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I can breathe, because hope remains.",
+      "persian": "نفس می کشم، چون امید هنوز هست.",
+      "transliteration": "nafs me kaSHAM, choon OMid hanooz hAsT.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Even if it’s slow, I believe.",
+      "persian": "حتی اگر کند باشد، باور دارم.",
+      "transliteration": "hatt i agar kaNd basheD, baور dARam.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I trust the next small step.",
+      "persian": "به قدم بعدی، هرچند کوچک، اعتماد دارم.",
+      "transliteration": "be qadam ba'di, harcheqOd KoochAK, e'temAd dARam.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Hope says, keep showing up.",
+      "persian": "امید می گوید، بی خیال نمان و بیا جلو.",
+      "transliteration": "omid miGOYad, bi kheyal nman o biA Jelo.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I’m rebuilding hope from scratch.",
+      "persian": "دارم امید را از نو می سازم.",
+      "transliteration": "dARam omid ra az NO mi SaZam.",
+      "category": "Hope",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I celebrate progress, not perfection",
+      "persian": "من پیشرفت را جشن می‌گیرم، نه کمال را",
+      "transliteration": "man pISHRAFT ra jEšn migIRam, na kamAL ra",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "My body feels safe, I breathe",
+      "persian": "وقتی بدنم آرام است، نفس می‌کشم",
+      "transliteration": "vaQti bedanam aRAm ast, nafas mikESHAM",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I call someone kind, today",
+      "persian": "امروز به یک نفر مهربان زنگ می‌زنم",
+      "transliteration": "emRuz be yek nafar mahErUbun zang mizANam",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "A sincere apology repairs my heart",
+      "persian": "یک عذرخواهی واقعی دل من را ترمیم می‌کند",
+      "transliteration": "yek eZr-ḵAHAyi vAqe'i del-e man ra tarmiM mikonad",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "Sun on my face, I smile",
+      "persian": "آفتاب به صورتم می‌خورد، لبخند می‌زنم",
+      "transliteration": "AFTab be soOratam mixoRAD, labkhand mizANam",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I tidy one corner, feel lighter",
+      "persian": "فقط یک گوشه را مرتب می‌کنم، سبک‌تر می‌شوم",
+      "transliteration": "fAQat yek Goše ra morAttab mikonam, seBK-tar misHAVam",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
+    },
+    {
+      "english": "I move my feet, my mood lifts",
+      "persian": "کمی راه می‌روم، حالم بهتر می‌شود",
+      "transliteration": "kæmi rAhe miravAm, hAlam beHtær mishavad",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:08:46.540297"
     }
   ],
-  "last_updated": "2026-11-25T22:10:13.057327"
+  "last_updated": "2026-11-26T22:08:46.540297"
 }
