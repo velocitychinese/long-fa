@@ -579,7 +579,39 @@
     {
       "category": "Happiness",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T22:08:46.560730"
+  "last_updated": "2026-11-27T21:49:54.916985"
 }
